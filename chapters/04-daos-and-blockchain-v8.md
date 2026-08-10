@@ -1,6 +1,6 @@
 # Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy
 
-*Navigation*: **[[chapters/03-un-transition-pathway-v8-guided-viz|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v3-guided-viz|Chapter 5: Phase 1 Piloting →]]**  
+*Navigation*: **[[chapters/03-un-transition-pathway-v8|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v3|Chapter 5: Phase 1 Piloting →]]**  
 *Tags*: #rbe-book #cybernetic-accounting #daos #blockchain-absurdity #duplicative-overlap #ai-orchestration #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #public-health-daos #identity-of-mastery
 
 ---
@@ -175,11 +175,11 @@ Cybernetic resource accounting, zero-knowledge cryptographic ledgers, Open Healt
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 4 to Version 8 (`04-daos-and-blockchain-v8-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 4 to Version 8 (`04-daos-and-blockchain-v8.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **7,240 words (~16.1 printed pages)**.
     - Integrated **Zero-Knowledge Cryptographic Auditing (ZK-SNARKs)** into Section 4.2 (enabling mathematical verification of resource requests and inventory balances while safeguarding personal privacy).
     - Integrated Section 4.3 (**Decoupling Public Health DAOs from Market Bureaucracy**): Open clinical blueprints, open clinical trial data, automated medical synthesis, and preventative wellness.
     - Added Section 4.6 (**Governance & The Identity of Mastery: Moving Past Social Popularity**): Detailing how domain-isolated technical reputation ledgers dismantle superficial clout and ground human status in authentic technical craftsmanship and scientific contribution.
     - Maintained all core elements: Austrian Economic Calculation Problem critique, Amazon/Walmart non-market corporate planning analysis, duplicative overlap costs, interest mechanics vs PoS yields/DeFi, domain-specific reputation ledgers, and AI as an ethical companion.
-*   **Archiving & File Management**: Created `04-daos-and-blockchain-v8-guided-viz.md` in `chapters/` and moved `04-daos-and-blockchain-v7-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `04-daos-and-blockchain-v8.md` in `chapters/` and moved `04-daos-and-blockchain-v7.md` to `chapters/_archive/`.

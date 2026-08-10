@@ -1,6 +1,6 @@
 # Chapter 3: The United Nations as Facilitator: A Phased Global Transition
 
-*Navigation*: **[[chapters/02-introducing-resourceism-v9-guided-viz|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v7-guided-viz|Chapter 4: DAOs & Cybernetic Accounting →]]**  
+*Navigation*: **[[chapters/02-introducing-resourceism-v9|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v7|Chapter 4: DAOs & Cybernetic Accounting →]]**  
 *Tags*: #rbe-book #un-transition #global-governance #diplomacy #resource-pooling #waste-reclamation #acronym-definitions #uhvdc-grid #multi-nation-pilots
 
 ---

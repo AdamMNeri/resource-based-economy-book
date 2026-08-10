@@ -1,6 +1,6 @@
 # Chapter 2: Introducing the Resource-Based Economy ("Resourceism")
 
-*Navigation*: **[[chapters/01-the-case-for-change-v10-guided-viz|← Chapter 1: The Case for Change]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/03-un-transition-pathway-v8-guided-viz|Chapter 3: UN Transition Pathway →]]**  
+*Navigation*: **[[chapters/01-the-case-for-change-v10|← Chapter 1: The Case for Change]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/03-un-transition-pathway-v8|Chapter 3: UN Transition Pathway →]]**  
 *Tags*: #rbe-book #resourceism #common-heritage #cybernetics #carrying-capacity #fresco-design #residential-housing #access-model #mediocrity-principle #hobby-shops #safety-protocols #political-differentiation #identity-transformation
 
 ---
@@ -276,7 +276,7 @@ The transition from monetary scarcity to physical abundance represents a monumen
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 2 to Version 10 (`02-introducing-resourceism-v10-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 2 to Version 10 (`02-introducing-resourceism-v10.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **7,580 words (~16.8 printed pages)**.
     - Rewrote introductory chapter overview paragraph for fluid narrative integration.
@@ -284,4 +284,4 @@ The transition from monetary scarcity to physical abundance represents a monumen
     - Integrated Platitude Translation for *"Time is money"* into Section 2.4 (commodifying metabolic time vs. reclaiming human time for self-actualization).
     - Added Section 2.6 (Identity Transformed: From Possessive Ownership to Experiential Mastery) to systematically weave the identity motif into Chapter 2.
     - Maintained all previous landmark elements: Educational & Safety Certification Protocols, Zone 3 Residential Spatial Zoning, Climate & Health Logistics, 4-point political differentiation from communism/socialism, and the 4 reader objection answers.
-*   **Archiving & File Management**: Created `02-introducing-resourceism-v10-guided-viz.md` in `chapters/` and moved `02-introducing-resourceism-v9-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `02-introducing-resourceism-v10.md` in `chapters/` and moved `02-introducing-resourceism-v9.md` to `chapters/_archive/`.

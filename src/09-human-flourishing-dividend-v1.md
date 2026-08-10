@@ -1,6 +1,6 @@
 # Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE
 
-*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v1-guided-viz|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-conclusion-call-to-action-v1-guided-viz|Chapter 10: Conclusion →]]**  
+*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v1|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-conclusion-call-to-action-v1|Chapter 10: Conclusion →]]**  
 *Tags*: #rbe-book #flourishing-dividend #mental-health #education #creative-liberation
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks
 
-*Navigation*: **[[chapters/04-daos-and-blockchain-v8-guided-viz|← Chapter 4: DAOs & Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v2-guided-viz|Chapter 6: Phase 2 Scaling →]]**  
+*Navigation*: **[[chapters/04-daos-and-blockchain-v8|← Chapter 4: DAOs & Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v2|Chapter 6: Phase 2 Scaling →]]**  
 *Tags*: #rbe-book #phase-1-pilots #bioregional-hubs #experimental-zones #dual-use-infrastructure #red-tape-contrast #unep-mapping #unctad-clearinghouse #social-equity #identity-in-transition
 
 ---
@@ -250,11 +250,11 @@ By establishing localized pilot zones across diverse bioregions, deploying UNEP'
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 5 to Version 3 (`05-phase-1-piloting-the-transition-v3-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 5 to Version 3 (`05-phase-1-piloting-the-transition-v3.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,750 words (~15 printed pages)**.
     - Integrated Section 5.3 (**Dual-Use Infrastructure Conversion**): Converting military bases, airfields, weapons proving grounds, and defense plants into automated disaster-relief hubs, OTEC platforms, and RBE fabrication hubs.
     - Integrated Section 5.4 (**The "Red Tape" Contrast**): Contrasting municipal zoning permit delays, mortgage approvals, and legal friction with streamlined, IoT-verified structural safety protocols and generative architectural fabrication.
     - Added Section 5.7 (**Identity in Transition: Navigating the Shift from Wage Earner to Co-Creator**): Detailing the psychological evolution from passive employee survival to active civilizational co-builder.
     - Maintained all core elements: Bioregional pilot typologies (A, B, C), UNEP biophysical resource mapping, UNCTAD Dual-Interface Trade Clearinghouse, social equity welfare relief, and 4 reader objection answers.
-*   **Archiving & File Management**: Created `05-phase-1-piloting-the-transition-v3-guided-viz.md` in `chapters/` and moved `05-phase-1-piloting-the-transition-v2-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `05-phase-1-piloting-the-transition-v3.md` in `chapters/` and moved `05-phase-1-piloting-the-transition-v2.md` to `chapters/_archive/`.

@@ -1,6 +1,6 @@
 # Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues
 
-*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v1-guided-viz|← Chapter 7: Universal Rights]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v1-guided-viz|Chapter 9: Human Flourishing →]]**  
+*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v1|← Chapter 7: Universal Rights]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v1|Chapter 9: Human Flourishing →]]**  
 *Tags*: #rbe-book #objections-handled #human-nature #motivation #incentive-alignment
 
 ---

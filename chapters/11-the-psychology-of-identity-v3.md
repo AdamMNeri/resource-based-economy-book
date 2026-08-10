@@ -1,6 +1,6 @@
 # Chapter 11: The Psychology of Identity: Deconstructing the Market Self
 
-*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/10-conclusion-call-to-action-v4-guided-viz|← Chapter 10: Call to Action]]**  
+*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/10-conclusion-call-to-action-v4|← Chapter 10: Call to Action]]**  
 *Tags*: #rbe-book #psychology-of-identity #market-ego #perpetual-youth-engine #influencer-mentality #intrinsic-motivation #mediocrity-principle #intergenerational-wisdom #rbe-identity #human-flourishing #capstone
 
 ---
@@ -214,10 +214,10 @@ Grounded in autonomy, intrinsic motivation, craftsmanship, intergenerational con
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 11 to Version 3 (`11-the-psychology-of-identity-v3-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 11 to Version 3 (`11-the-psychology-of-identity-v3.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,650 words (~14.8 printed pages)**.
     - Integrated Section 11.3 (**Intergenerational Wisdom Transfer: Restoring the Elder Bridge**): Reversing elderly market "liability" devaluation, eliminating retirement anxiety, and integrating seniors as revered mentors and oral historians in Community Resource Hubs.
     - Integrated Section 11.7 (**Synthesis: The Arc of Human Identity Across the RBE Paradigm**): Structured matrix mapping how every chapter of the book contributes to the evolution of human identity.
     - Preserved all core landmark elements: Perpetual Youth Engine critique, Self-Determination Theory (SDT), Mediocrity Principle, dual guided visualizations, and objection counter-analysis.
-*   **Archiving & File Management**: Created `11-the-psychology-of-identity-v3-guided-viz.md` in `chapters/` and moved `11-the-psychology-of-identity-v2-guided-viz.md` to `chapters/.archive/`.
+*   **Archiving & File Management**: Created `11-the-psychology-of-identity-v3.md` in `chapters/` and moved `11-the-psychology-of-identity-v2.md` to `chapters/.archive/`.

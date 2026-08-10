@@ -1,6 +1,6 @@
 # Chapter 10: Conclusion: A Call to Action for Global Citizenry
 
-*Navigation*: **[[chapters/09-human-flourishing-dividend-v1-guided-viz|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
+*Navigation*: **[[chapters/09-human-flourishing-dividend-v1|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
 *Tags*: #rbe-book #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism
 
 ---

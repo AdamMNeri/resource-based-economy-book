@@ -1,6 +1,6 @@
 # Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE
 
-*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v2-guided-viz|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-conclusion-call-to-action-v2-guided-viz|Chapter 10: Conclusion →]]**  
+*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v2|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-conclusion-call-to-action-v2|Chapter 10: Conclusion →]]**  
 *Tags*: #rbe-book #flourishing-dividend #mental-health #education #creative-liberation #corruption-eradication #child-development #transition-timeline
 
 ---
@@ -205,7 +205,7 @@ The Human Flourishing Dividend proves that an RBE is not a compromise or a sacri
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 9 to Version 2 (`09-human-flourishing-dividend-v2-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 9 to Version 2 (`09-human-flourishing-dividend-v2.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **7,180 words (~16.0 printed pages)**.
     - Added **Section 9.2: Structural Eradication of Corruption, Bribes, and Lobbying**.
@@ -213,4 +213,4 @@ The Human Flourishing Dividend proves that an RBE is not a compromise or a sacri
     - Added **Section 9.5: Child Development & Intergenerational Psychological Dividend** (integrating the user's personal anecdote regarding explaining money to young children, *Money as Debt*, and the terror of compound-debt money).
     - Added **Section 9.6: Unfettered Open-Source Science & Innovation**.
     - Added **Section 9.7: Evidence-Based Transition Phase Timelines and Milestone Projections** (Years 0–3, 3–7, 7–15, 15–25 milestones).
-*   **Archiving & File Management**: Created `09-human-flourishing-dividend-v2-guided-viz.md` in `chapters/` and moved `09-human-flourishing-dividend-v1-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `09-human-flourishing-dividend-v2.md` in `chapters/` and moved `09-human-flourishing-dividend-v1.md` to `chapters/_archive/`.

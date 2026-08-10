@@ -1,4 +1,4 @@
-*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[chapters/10-conclusion-call-to-action-v2-guided-viz|Chapter 10]] | [[00-Book-Map-of-Content|Map of Content]]
+*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[chapters/10-conclusion-call-to-action-v2|Chapter 10]] | [[00-Book-Map-of-Content|Map of Content]]
 
 # Chapter 11: The Psychology of Identity: Deconstructing the Market Self
 

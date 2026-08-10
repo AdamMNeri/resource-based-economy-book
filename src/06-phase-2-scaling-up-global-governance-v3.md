@@ -1,6 +1,6 @@
 # Chapter 6: Phase 2: Scaling Up and Global Resource Governance
 
-*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v3-guided-viz|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v3-guided-viz|Chapter 7: Core Principles & Universal Rights →]]**  
+*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v3|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v3|Chapter 7: Core Principles & Universal Rights →]]**  
 *Tags*: #rbe-book #phase-2-scaling #global-commons #oceanic-commons #uhvdc-grids #circular-cities #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response
 
 ---

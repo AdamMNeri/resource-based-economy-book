@@ -1,6 +1,6 @@
 # Chapter 3: The United Nations as Facilitator: A Phased Global Transition
 
-*Navigation*: **[[chapters/02-introducing-resourceism-v10-guided-viz|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v8-guided-viz|Chapter 4: DAOs & Cybernetic Accounting →]]**  
+*Navigation*: **[[chapters/02-introducing-resourceism-v10|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v8|Chapter 4: DAOs & Cybernetic Accounting →]]**  
 *Tags*: #rbe-book #un-transition #global-governance #diplomacy #resource-pooling #waste-reclamation #zk-snarks #public-health #uhvdc-grid #multi-nation-pilots #global-citizenship
 
 ---
@@ -166,11 +166,11 @@ The United Nations provides the pragmatic, multi-phased diplomatic bridge requir
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 3 to Version 8 (`03-un-transition-pathway-v8-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 3 to Version 8 (`03-un-transition-pathway-v8.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,890 words (~15.3 printed pages)**.
     - Integrated **Zero-Knowledge Cryptographic Auditing (ZK-SNARKs)** into Section 3.3 (enabling 100% mathematical verification of resource inventories without personal data tracking or movement surveillance).
     - Integrated **Decoupling Public Health from Market Bureaucracy** into Section 3.3 (Open Health Commons, open clinical blueprints, zero patent paywalls, and instant automated therapeutic distribution).
     - Added Section 3.6 (**Global Citizenship & The Dissolution of Nationalistic Identity**) to weave the identity thread into Chapter 3.
     - Preserved all core elements: UN member state geographic resource ownership, multi-nation opt-in coalitions, Global Energy Commons Treaty, UHVDC plain-language explanation, specialized UN agency roles (UNEP, UNCTAD, UN DESA, ITU, WHO), and the Material Reclamation Program.
-*   **Archiving & File Management**: Created `03-un-transition-pathway-v8-guided-viz.md` in `chapters/` and moved `03-un-transition-pathway-v7-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `03-un-transition-pathway-v8.md` in `chapters/` and moved `03-un-transition-pathway-v7.md` to `chapters/_archive/`.

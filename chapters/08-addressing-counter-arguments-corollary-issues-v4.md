@@ -1,6 +1,6 @@
 # Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues
 
-*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v3-guided-viz|← Chapter 7: Universal Rights]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v2-guided-viz|Chapter 9: Human Flourishing →]]**  
+*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v3|← Chapter 7: Universal Rights]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v2|Chapter 9: Human Flourishing →]]**  
 *Tags*: #rbe-book #objections-handled #human-nature #legal-system-attack-surface #financial-asset-transition #ideas-change-world #sci-fi-currencies #motivation #space-commons #pragmatic-realism
 
 ---
@@ -266,8 +266,8 @@ By systematically dismantling every major intellectual objection—from motivati
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 8 to Version 4 (`08-addressing-counter-arguments-corollary-issues-v4-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 8 to Version 4 (`08-addressing-counter-arguments-corollary-issues-v4.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,650 words (~14.8 printed pages)**.
     - Integrated Section 8.2 (Transition strategy for private financial assets), Section 8.3 (Ideas can change the world / collective awareness), Section 8.4 (Sci-Fi & Fantasy failure of imagination with 11 iconic fictional currencies breakdown), Section 8.5 (Legal system as commercial attack surface), Section 8.6 (Extraterrestrial Common Heritage), Section 8.7 (Phase-out of standing armies), and Section 8.8 (Pragmatic realism vs utopian dogma).
-*   **Archiving & File Management**: Created `08-addressing-counter-arguments-corollary-issues-v4-guided-viz.md` in `chapters/` and moved `08-addressing-counter-arguments-corollary-issues-v3-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `08-addressing-counter-arguments-corollary-issues-v4.md` in `chapters/` and moved `08-addressing-counter-arguments-corollary-issues-v3.md` to `chapters/_archive/`.

@@ -1,6 +1,6 @@
 # Chapter 10: Mobilizing the Transition: A Call to Action for Global Citizenry
 
-*Navigation*: **[[chapters/09-human-flourishing-dividend-v2-guided-viz|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-the-psychology-of-identity-v3-guided-viz|Chapter 11: Psychology of Identity →]]**  
+*Navigation*: **[[chapters/09-human-flourishing-dividend-v2|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-the-psychology-of-identity-v3|Chapter 11: Psychology of Identity →]]**  
 *Tags*: #rbe-book #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade #civilizational-architect
 
 ---
@@ -107,11 +107,11 @@ In **Chapter 11**, we complete our journey by exploring the ultimate capstone of
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 10 to Version 4 (`10-conclusion-call-to-action-v4-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 10 to Version 4 (`10-conclusion-call-to-action-v4.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **5,420 words (~12 printed pages)**.
     - Removed all language claiming Chapter 10 is "this final chapter" or "the end of the book".
     - Added Section 10.3 (**Identity in Action: Stepping into the Role of Civilizational Architect**) to weave the identity thread into Chapter 10.
     - Added Section 10.4 (**Bridge to the Final Frontier: The Psychology of Identity**): Framing Chapter 10 as the pragmatic structural call to action that seamlessly leads into Chapter 11 as the ultimate psychological capstone.
     - Preserved all core elements: 11-chapter synthesis, universal concept definition, TVP physical model baseline recognition, pragmatic directional framing, Fork in the Road matrix, and concrete action steps across 4 civilizational tiers.
-*   **Archiving & File Management**: Created `10-conclusion-call-to-action-v4-guided-viz.md` in `chapters/` and moved `10-conclusion-call-to-action-v3-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `10-conclusion-call-to-action-v4.md` in `chapters/` and moved `10-conclusion-call-to-action-v3.md` to `chapters/_archive/`.

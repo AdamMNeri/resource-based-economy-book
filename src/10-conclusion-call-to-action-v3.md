@@ -1,6 +1,6 @@
 # Chapter 10: Conclusion: A Call to Action for Global Citizenry
 
-*Navigation*: **[[chapters/09-human-flourishing-dividend-v2-guided-viz|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-the-psychology-of-identity-v2-guided-viz|Chapter 11: Psychology of Identity →]]**  
+*Navigation*: **[[chapters/09-human-flourishing-dividend-v2|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-the-psychology-of-identity-v2|Chapter 11: Psychology of Identity →]]**  
 *Tags*: #rbe-book #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy
 
-*Navigation*: **[[chapters/03-un-transition-pathway-v8-guided-viz|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v3-guided-viz|Chapter 5: Phase 1 Piloting →]]**  
+*Navigation*: **[[chapters/03-un-transition-pathway-v8|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v3|Chapter 5: Phase 1 Piloting →]]**  
 *Tags*: #rbe-book #cybernetic-accounting #daos #blockchain-absurdity #duplicative-overlap #ai-orchestration #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #public-health-daos #identity-of-mastery
 
 ---

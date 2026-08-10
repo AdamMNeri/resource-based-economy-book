@@ -1,6 +1,6 @@
 # Chapter 7: Core Principles, Values, and Universal Rights
 
-*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v3-guided-viz|← Chapter 6: Phase 2 Scaling]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/08-addressing-counter-arguments-corollary-issues-v4-guided-viz|Chapter 8: Addressing Objections →]]**  
+*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v3|← Chapter 6: Phase 2 Scaling]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/08-addressing-counter-arguments-corollary-issues-v4|Chapter 8: Addressing Objections →]]**  
 *Tags*: #rbe-book #universal-rights #restorative-justice #law-enforcement-transformation #firearms-irrelevance #restorative-mediators #freedom-of-travel #no-poverty #planetary-ethics
 
 ---
@@ -251,8 +251,8 @@ By declaring physical survival, healthcare, education, global travel, and person
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 7 to Version 3 (`07-core-principles-values-universal-rights-v3-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 7 to Version 3 (`07-core-principles-values-universal-rights-v3.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,310 words (~14.0 printed pages)**.
     - Integrated 5 Pillars of RBE Universal Rights, Law Enforcement Transformation, Restorative Mediators in Practice (concrete CNC machine dispute scenario), Firearms Irrelevance & A World Free of Weapons, Faith vs. Scientific Allocation Insulation, and Code of Planetary Ethics.
-*   **Archiving & File Management**: Created `07-core-principles-values-universal-rights-v3-guided-viz.md` in `chapters/` and moved `07-core-principles-values-universal-rights-v2-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `07-core-principles-values-universal-rights-v3.md` in `chapters/` and moved `07-core-principles-values-universal-rights-v2.md` to `chapters/_archive/`.

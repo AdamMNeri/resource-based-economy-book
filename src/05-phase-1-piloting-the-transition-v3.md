@@ -1,6 +1,6 @@
 # Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks
 
-*Navigation*: **[[chapters/04-daos-and-blockchain-v8-guided-viz|← Chapter 4: DAOs & Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v2-guided-viz|Chapter 6: Phase 2 Scaling →]]**  
+*Navigation*: **[[chapters/04-daos-and-blockchain-v8|← Chapter 4: DAOs & Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v2|Chapter 6: Phase 2 Scaling →]]**  
 *Tags*: #rbe-book #phase-1-pilots #bioregional-hubs #experimental-zones #dual-use-infrastructure #red-tape-contrast #unep-mapping #unctad-clearinghouse #social-equity #identity-in-transition
 
 ---

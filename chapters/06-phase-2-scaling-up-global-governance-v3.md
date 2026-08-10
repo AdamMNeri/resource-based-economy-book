@@ -1,6 +1,6 @@
 # Chapter 6: Phase 2: Scaling Up and Global Resource Governance
 
-*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v3-guided-viz|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v3-guided-viz|Chapter 7: Core Principles & Universal Rights →]]**  
+*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v3|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v3|Chapter 7: Core Principles & Universal Rights →]]**  
 *Tags*: #rbe-book #phase-2-scaling #global-commons #oceanic-commons #uhvdc-grids #circular-cities #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response
 
 ---
@@ -220,8 +220,8 @@ Phase 2 transforms fragmented, competing nation-states into an interconnected, b
 
 ## Agent First-Pass Validation & Revision Notes
 
-*   **Revision Target**: Upgraded Chapter 6 to Version 3 (`06-phase-2-scaling-up-global-governance-v3-guided-viz.md`).
+*   **Revision Target**: Upgraded Chapter 6 to Version 3 (`06-phase-2-scaling-up-global-governance-v3.md`).
 *   **Word Count & Depth Audit**:
     - Total word count = **6,150 words (~13.6 printed pages)**.
     - Integrated Deep-Bore Volcanic Geothermal Telemetry (East African Rift & Ring of Fire), Real-Time AI Translation for dissolving language barriers, COVID-19 pandemic response comparison in an RBE, Transcontinental Maglev journey (Tokyo to Paris in 12 hours), Oceanic Commons floating cities, and Dynamic Reservation DAOs.
-*   **Archiving & File Management**: Created `06-phase-2-scaling-up-global-governance-v3-guided-viz.md` in `chapters/` and moved `06-phase-2-scaling-up-global-governance-v2-guided-viz.md` to `chapters/_archive/`.
+*   **Archiving & File Management**: Created `06-phase-2-scaling-up-global-governance-v3.md` in `chapters/` and moved `06-phase-2-scaling-up-global-governance-v2.md` to `chapters/_archive/`.

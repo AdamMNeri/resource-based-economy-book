@@ -1,6 +1,6 @@
 # Chapter 11: The Psychology of Identity: Deconstructing the Market Self
 
-*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/10-conclusion-call-to-action-v4-guided-viz|← Chapter 10: Call to Action]]**  
+*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/10-conclusion-call-to-action-v4|← Chapter 10: Call to Action]]**  
 *Tags*: #rbe-book #psychology-of-identity #market-ego #perpetual-youth-engine #influencer-mentality #intrinsic-motivation #mediocrity-principle #intergenerational-wisdom #rbe-identity #human-flourishing #capstone
 
 ---

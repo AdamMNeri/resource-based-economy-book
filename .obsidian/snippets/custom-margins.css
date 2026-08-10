@@ -1,0 +1,17 @@
+/* FORCE WIDER CONTENT AREA FOR DEFAULT THEME */
+.workspace-leaf.mod-active .markdown-reading-view.is-readable-line-width .markdown-preview-section,
+.workspace-leaf.mod-active .markdown-source-view.mod-cm6 .cm-content,
+.view-content > .markdown-source-view.mod-cm6,
+.view-content > .markdown-reading-view {
+    max-width: 1400px !important; /* Extremely wide, adjust as needed */
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* You can also try to force the parent container wider if needed */
+/*
+.mod-root {
+    --file-area-width: 100% !important;
+}
+*/

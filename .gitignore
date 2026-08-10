@@ -1,0 +1,6 @@
+.syncthing.*
+__pycache__/
+/exports/*.epub
+/book/
+server.log
+.DS_Store

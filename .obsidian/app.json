@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "chapters/.archive",
+    ".archive",
+    "chapters/_archive",
+    "_archive"
+  ]
+}

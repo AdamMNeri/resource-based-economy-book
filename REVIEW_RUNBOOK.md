@@ -67,6 +67,14 @@ Once you've reviewed the content, provide your feedback directly to me in the ch
 1.  **Iterative Refinement:** I will use your feedback to refine the content, conduct further research, and generate new drafts.
 2.  **Final Approval:** Once a chapter or section meets your approval, you will explicitly confirm it. At that point, I will consider that content "final" for a version and we can proceed with integrating it into the larger book structure. If Git is in use, this would typically involve a commit after your approval.
 
+## Automated Local Build & Remote Web Server Deployment
+
+Upon every completion of the `rbe-book-authoring` workflow, Hermes automatically executes:
+1. **Local Static Reader Build**: Runs `make build` locally in `~/code_projects/rbe-book/` to refresh the local `book/` static html directory without spinning up a local web server.
+2. **Remote Deployment to capevm1**: Syncs updated codebase files via `rsync` to `neria@192.168.85.105:/home/neria/services/rbe-book/`, runs `make build` remotely, and restarts the live web server on port 3000 via `bash start_server.sh`.
+3. **Live Reader URL**: The updated reader edition is immediately viewable on your home network at:
+   `http://192.168.85.105:3000`
+
 ## Checking Cron Job Status and Logs
 
 To monitor the daily cron job's activity:

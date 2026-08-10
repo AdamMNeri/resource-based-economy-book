@@ -4,6 +4,38 @@ This document serves as the running, detailed ledger of acknowledgements and act
 
 ---
 
+## [2026-08-10] Execution Run: Ingestion of User Feedback, Empirical Re-framing, Chapter 6/7/8 Deep Expansions, and Sci-Fi Currency Analysis (v11 / v3 / v3 / v4)
+
+- **Source:** `FEEDBACK FOR HERMES.md` (Adam Neri's review notes on Section 1.1 "crime against humanity" empirical re-framing, Section 1.4 "Pass a Law, Create a Business" heading simplification, Chapter 6 deep expansion acceptance, Restorative Mediators in action, private financial asset transition, AI communication barrier solutions, COVID-19 pandemic response in an RBE, catastrophes as capitalist correction events, "ideas change the world" collective awareness shift, Founding Fathers' intent & system replacement, "net worth" human valuation rejection, system lock-in & missing exit strategy, firearms irrelevance & world without weapons, and sci-fi/fantasy fictional currencies analysis).
+- **Feedback Summary & Executed Revisions:**
+  1. **Chapter 1 Revisions (`01-the-case-for-change-v11-guided-viz.md`):**
+     - **Empirical Systems Architecture Framing (Section 1.1):** Replaced "Stated without euphemism: The monetary system is an active, ongoing crime against humanity" with a precise systems architecture description explaining how the monetary mechanism functions as a structural engine of systemic entropy, artificial scarcity, and biospheric degradation.
+     - **Heading Simplification (Section 1.4):** Simplified heading to `"Pass a Law, Create a Business"`, letting the deed transfer fraud example speak for itself without cluttering the sub-title.
+     - **Catastrophes as Capitalist Correction Events:** Added item 5 under Perverse Incentives detailing how disasters and pandemics serve as fiscal booster shots under capitalist logic—generating new debt and artificial demand out of human tragedy.
+     - **Founding Fathers' Intent & System Replacement (Section 1.6):** Added dedicated objection analysis showing how constitutional rights to alter or abolish destructive systems apply directly to the monetary engine, while explicitly rejecting "net worth" as an offensive financial reduction of human dignity.
+     - **System Lock-In & Missing Exit Strategy:** Added analysis and ASCII diagram detailing how compounding debt math lacks an internal off-ramp, necessitating an engineered RBE exit strategy.
+  2. **Chapter 6 Revisions (`06-phase-2-scaling-up-global-governance-v3-guided-viz.md`):**
+     - **Deep-Bore Geothermal Volcanic Telemetry (Section 6.3):** Detailed 10km supercritical geothermal drilling along the East African Rift and Ring of Fire powering global UHVDC grids with <3% transmission loss.
+     - **AI for Universal Communication (Section 6.4):** Detailed real-time AI neural translation dissolving language barriers as a source of historical friction while preserving native dialects and cultural heritage.
+     - **Pandemic Response Decoupled from Monetary Panic (Section 6.5):** Contrasted market-driven pandemic panic with an RBE response: zero financial friction for immediate voluntary travel pauses, automated logistics replacing human exposure, open health common therapeutics, and decisions driven 100% by medical epidemiology.
+     - **Transcontinental Maglev Experience (Section 6.6):** Added a multi-sensory guided journey inside an automated, zero-friction 600mph Maglev pod traveling from Tokyo to Paris in 12 hours.
+  3. **Chapter 7 Revisions (`07-core-principles-values-universal-rights-v3-guided-viz.md`):**
+     - **Restorative Mediators in Practice (Section 7.3):** Embedded a concrete scenario detailing how a community fabrication workshop equipment damage dispute is resolved through Restorative Mediators, root-cause assessment, and automated equipment redesign without punitive litigation or court costs.
+     - **Firearms Irrelevance & Weapons-Free World (Section 7.4):** Detailed the total eradication of gun violence drivers (poverty, black markets, corporate lobbies, untreated trauma), painting a vivid picture of living with complete comfort in a society where no citizen carries concealed firearms and police carry no weapons.
+  4. **Chapter 8 Revisions (`08-addressing-counter-arguments-corollary-issues-v4-guided-viz.md`):**
+     - **Transition Strategy for Private Financial Assets (Section 8.2):** Added a dedicated section explaining how private savings, stocks, and 401(k)s are superseded by guaranteed material superiority—replacing volatile paper claims with unconditioned access to high-standard housing, food, and healthcare.
+     - **Ideas Can Change the World (Section 8.3):** Detailed how collective awareness shifts civilizational rules when a critical mass realizes monetary necessity is an artificial social construct.
+     - **Sci-Fi & Fantasy Failure of Imagination (Section 8.4):** Embedded a breakdown of 11 iconic fictional currencies (Credits, Gold-Pressed Latinum, Bottle Caps, Woolongs, Spice Melange, Rupees, Galleons/Sickles/Knuts, Gil, Septims, Gold Dragons, Souls/Runes), contrasting this failure of imagination with Star Trek's post-scarcity Federation and an RBE's physical engineering.
+  5. **Manuscript Architecture & Build Pipeline:**
+     - Archived all superseded draft versions (`01-v10`, `06-v2`, `07-v2`, `08-v3`) into `chapters/_archive/`.
+     - Updated `SUMMARY.md`, `00-Book-Map-of-Content.md`, `README.md`, and `CHAPTER_STATS.md` reflecting total manuscript scale: **34,939 words (~77.6 printed pages)** across 11 active chapters.
+     - Compiled local static website and `exports/Beyond-Money-Adam-Neri.epub` via `make build`.
+     - Synced and restarted web server on `192.168.85.105:3000`.
+- **Status:** Complete
+- **Affected Files:** `chapters/01-the-case-for-change-v11-guided-viz.md`, `chapters/06-phase-2-scaling-up-global-governance-v3-guided-viz.md`, `chapters/07-core-principles-values-universal-rights-v3-guided-viz.md`, `chapters/08-addressing-counter-arguments-corollary-issues-v4-guided-viz.md`, `00-Book-Map-of-Content.md`, `SUMMARY.md`, `README.md`, `CHAPTER_STATS.md`, `ACKs from HERMES.md`, `FEEDBACK FOR HERMES.md`.
+
+---
+
 ## [2026-08-09] Execution Run: Comprehensive Ingestion of User Review Feedback, Identity Weaving, and Landmark Chapter Upgrades (v10 / v8 / v3 / v4)
 
 - **Source:** `FEEDBACK FOR HERMES.md` (Adam Neri's review notes on Section 1.1 instant communications link to non-monetary resource accounting, Section 1.3 baseline human conditions vs avoidable systemic suffering, Chapter 2 overview fluidity, guided visualization ending refinement, contemplative list of correctable ailments, platitude translations into systems architecture statements [*"Find a job you love"*, *"Time is money"*], book title/subtitle suggestions, book cover / movement logo, Peter Principle as structural monetary symptom, and Chapter 10/11 structural fluidity & identity integration).
@@ -48,24 +80,3 @@ This document serves as the running, detailed ledger of acknowledgements and act
 ## [2026-08-07] Execution Run: Ingestion of User Review Feedback & Baseline Deep Expansion Across Chapters 6, 7, 8, 10, and 11
 
 - **Source:** `FEEDBACK FOR HERMES.md` (Adam Neri's review notes on Prisons & Law Enforcement in RBE, Perpetual Youth Culture & Cosmetic Predation, Influencer Mentality & Stunted Maturity, Legal System as a Commercial Attack Surface, "Make a Law, Make a Business", and Proactive Expansion Suggestions).
-- **Feedback Summary & Executed Revisions:**
-  1. **Chapter 7 Revisions (`07-core-principles-values-universal-rights-v2-guided-viz.md`):**
-     - **Deconstructing Prisons & Criminalization of Scarcity:** Analyzed the monetary role of prisons under capitalism, private prison profit incentives, and the criminalization of poverty.
-     - **Law Enforcement Transformation & Restorative Justice:** Detailed the transition from militarized police departments to unarmed Community Safety Helpers and Restorative Mediators.
-     - **ASCII Restorative Justice Flowchart:** Embedded an explicit ASCII flowchart mapping conflict resolution and violation processing from immediate de-escalation to root-cause assessment and community healing.
-  2. **Chapter 8 Revisions (`08-addressing-counter-arguments-corollary-issues-v3-guided-viz.md`):**
-     - **The Legal System as a Commercial Attack Surface:** Exposed how the current legal system is weaponized by commercial capital ("make a law, make a business", patent secrecy, asymmetric litigation, regulatory capture).
-     - **Cultural Conditioners & Invisible Web:** Revealed how institutions like competitive sports (occupying territory, capturing points) condition zero-sum rivalry, reinforcing market assumptions.
-  3. **Chapter 11 Revisions (`11-the-psychology-of-identity-v2-guided-viz.md`):**
-     - **The Perpetual Youth Engine & Cosmetic Predation:** Unpacked how markets weaponize manufactured insecurity, body dysmorphia, and fear of aging to sell cosmetic surgeries, makeup, and prosthetic beautifiers.
-     - **Influencer Mentality & Stunted Emotional Maturity:** Analyzed how perpetual youth marketing fosters stunted emotional maturity in adults, driving grown adults to acquire status symbols and expensive toys as compensatory identity shields.
-  4. **Chapter 6 Revisions (`06-phase-2-scaling-up-global-governance-v2-guided-viz.md`):**
-     - **Oceanic Commons & Floating Aquatic Cities:** Expanded engineering principles of climate-resilient, desalinating ocean platforms relieving terrestrial land pressure.
-     - **Bioregional Carrying Capacity vs. Resource Hoarding:** Embedded mechanisms cross-checking regional allocations against global telemetry to prevent resource hoarding.
-  5. **Chapter 10 Revisions (`10-conclusion-call-to-action-v3-guided-viz.md`):**
-     - **11-Chapter Paradigm Synthesis:** Upgraded synthesis of the full RBE architecture, Fork in the Road matrix, and 4-tier action plan.
-  6. **Book Architecture & Publishing Synchronization:**
-     - Archived superseded chapter drafts into `chapters/.archive/`.
-     - Updated `SUMMARY.md`, `00-Book-Map-of-Content.md`, `README.md`, and `CHAPTER_STATS.md` reflecting total manuscript scale: **31,447 words (~69.9 printed pages)** across 11 active chapters.
-- **Status:** Complete
-- **Affected Files:** `chapters/06-phase-2-scaling-up-global-governance-v2-guided-viz.md`, `chapters/07-core-principles-values-universal-rights-v2-guided-viz.md`, `chapters/08-addressing-counter-arguments-corollary-issues-v3-guided-viz.md`, `chapters/10-conclusion-call-to-action-v3-guided-viz.md`, `chapters/11-the-psychology-of-identity-v2-guided-viz.md`, `00-Book-Map-of-Content.md`, `SUMMARY.md`, `README.md`, `CHAPTER_STATS.md`, `ACKs from HERMES.md`, `FEEDBACK FOR HERMES.md`.

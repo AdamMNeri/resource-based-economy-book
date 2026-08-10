@@ -1,6 +1,13 @@
-.syncthing.*
-__pycache__/
-/exports/*.epub
-/book/
-server.log
+# Build artifacts
+_book/
+book/
+exports/
+*.epub
+*.pdf
+
+# Internal Hermes / Agent Records & Feedback
+FEEDBACK FOR HERMES.md
+ACKs from HERMES.md
+CHAPTER_STATS.md
+.obsidian/workspace.json
 .DS_Store

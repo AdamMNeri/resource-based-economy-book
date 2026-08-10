@@ -9,5 +9,9 @@ exports/
 FEEDBACK FOR HERMES.md
 ACKs from HERMES.md
 CHAPTER_STATS.md
-.obsidian/workspace.json
+.obsidian/
 .DS_Store
+
+# Syncthing temporary files
+.syncthing.*
+**/.syncthing.*

@@ -1,17 +1,25 @@
-# Build artifacts
+# Build & Render Output
 _book/
 book/
 exports/
 *.epub
 *.pdf
 
-# Internal Hermes / Agent Records & Feedback
+# Local Scripts & Environment Utilities
+*.py
+*.sh
+__pycache__/
+server.log
+
+# Internal Agent & Workspace Records
 FEEDBACK FOR HERMES.md
 ACKs from HERMES.md
 CHAPTER_STATS.md
+REVIEW_RUNBOOK.md
+00-Book-Map-of-Content.md
 .obsidian/
 .DS_Store
 
-# Syncthing temporary files
+# Syncthing Files
 .syncthing.*
 **/.syncthing.*

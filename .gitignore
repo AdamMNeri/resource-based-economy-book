@@ -1,8 +1,10 @@
 # Build & Render Output
 _book/
 book/
-exports/
+exports/*
+!exports/Beyond-Money-Adam-Neri.epub
 *.epub
+!Beyond-Money-Adam-Neri.epub
 *.pdf
 
 # Local Scripts & Environment Utilities
@@ -23,4 +25,3 @@ REVIEW_RUNBOOK.md
 # Syncthing Files
 .syncthing.*
 **/.syncthing.*
-REVIEW_RUNBOOK.md

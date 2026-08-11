@@ -6,7 +6,7 @@
 
 **Author:** Adam Neri  
 **Project Lead & Concept:** Adam Neri  
-**Last Revised:** 2026-08-10 13:15:22 EDT
+**Last Revised:** 2026-08-11 19:29:35 EDT
 
 ## Project Goal
 This project aims to develop an open-source book that presents a persuasive, empirically grounded, and visionary blueprint for transitioning humanity away from a debt-based monetary system to a Resource-Based Economy (RBE). This transition will be facilitated by the United Nations system, where planetary resources are declared the common heritage of all people.
@@ -17,14 +17,14 @@ The book must be written to be not merely understood, but deeply desired. It mus
 ## Current Status (COMPLETE 11-CHAPTER DRAFT - DEEP REVISION IN PROGRESS)
 *   Initial framework and source material ingested.
 *   Master 11-chapter blueprint established and fully drafted.
-*   Total Draft Scale: **34,939 words (~77.6 printed pages)**.
+*   Total Draft Scale: **35,162 words (~78.1 printed pages)**.
 
 ### Active Chapter Index:
-*   **Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm** (`chapters/01-the-case-for-change-v11.md`) - Drafted (6,191 words / ~13.8 pages).
+*   **Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm** (`chapters/01-the-case-for-change-v12.md`) - Drafted (5,477 words / ~12.2 pages).
 *   **Chapter 2: Introducing Resourceism: Foundations of a Non-Monetary Society** (`chapters/02-introducing-resourceism-v10.md`) - Drafted (4,410 words / ~9.8 pages).
 *   **Chapter 3: The UN Transition Pathway: Global Facilitation Framework** (`chapters/03-un-transition-pathway-v8.md`) - Drafted (2,432 words / ~5.4 pages).
-*   **Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy** (`chapters/04-daos-and-blockchain-v8.md`) - Drafted (2,298 words / ~5.1 pages).
-*   **Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks** (`chapters/05-phase-1-piloting-the-transition-v3.md`) - Drafted (3,501 words / ~7.8 pages).
+*   **Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy** (`chapters/04-daos-and-blockchain-v9.md`) - Drafted (2,844 words / ~6.3 pages).
+*   **Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks** (`chapters/05-phase-1-piloting-the-transition-v4.md`) - Drafted (3,892 words / ~8.6 pages).
 *   **Chapter 6: Phase 2: Scaling Up and Global Resource Governance** (`chapters/06-phase-2-scaling-up-global-governance-v3.md`) - Drafted (2,642 words / ~5.9 pages).
 *   **Chapter 7: Core Principles, Values, and Universal Rights** (`chapters/07-core-principles-values-universal-rights-v3.md`) - Drafted (3,142 words / ~7.0 pages).
 *   **Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues** (`chapters/08-addressing-counter-arguments-corollary-issues-v4.md`) - Drafted (3,446 words / ~7.7 pages).

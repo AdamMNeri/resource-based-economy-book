@@ -46,6 +46,7 @@ While monetary rewards can increase output for simple, repetitive, physical task
 When human survival is conditioned on money, work becomes an instrument of coercive servitude. People take jobs they despise simply to pay rent and avoid starvation.
 
 In an RBE, where survival is unconditionally guaranteed [4, 5], human effort shifts from **extrinsic financial coercion** to **intrinsic motivation**:
+
 1.  **Autonomy**: Workers choose projects that align with their personal passions and values [114, 285].
 2.  **Mastery**: People dedicate thousands of hours to mastering engineering, medical research, organic farming, arts, or carpentry because humans possess an innate psychological drive to master skills.
 3.  **Purpose**: Contributing to the well-being of one's community provides far deeper psychological satisfaction than accumulating digital dollars in a bank account.
@@ -53,6 +54,7 @@ In an RBE, where survival is unconditionally guaranteed [4, 5], human effort shi
 ### Proof in the Real World: The Open-Source Revolution
 
 We do not need to guess how humans behave without monetary incentives; we observe it every day in the global open-source movement [114, 286]. 
+
 *   **Linux**: The Linux operating system—which powers 90%+ of global cloud servers, supercomputers, and smartphones—was built and is maintained by tens of thousands of software engineers contributing high-skilled code voluntarily without monetary compensation [114, 286].
 *   **Wikipedia**: The world's largest repository of human knowledge was authored and edited entirely by volunteers, wiping out multi-billion-dollar proprietary encyclopedia monopolies.
 *   **Open Hardware & Science**: Scientists routinely publish open-access research and open-source hardware designs for the benefit of humanity.
@@ -129,6 +131,7 @@ In monetary capitalism, nation-states maintain massive standing armies and milit
 ```
 
 In an RBE, as global resources are managed as common heritage under the UN roadmap and property crimes vanish, standing armies and militarized police become obsolete [216, 364, 375, 453]:
+
 *   **Redirection of Military Intellect**: The $2.44 trillion in annual global military expenditure—and the millions of soldiers, engineers, and strategists involved—are redirected toward terraforming deserts, cleaning oceans, building Maglev networks, and exploring space [216, 453].
 *   **Community Safety Helpers**: Militarized police are replaced by trained community safety helpers and restorative justice mediators focused on mental health support and peaceful conflict resolution [161-163].
 

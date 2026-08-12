@@ -125,6 +125,7 @@ Over 90% of criminal activity in monetary society—theft, burglary, armed robbe
 ### Eliminating the Root Cause of Crime
 
 In an RBE, where food, housing, healthcare, transit, and education are unconditionally guaranteed free at the point of use [4, 5], financial crimes become physically and practically impossible:
+
 *   There is no money to steal, no bank accounts to hack, and no tax code to evade.
 *   Black market drug cartels collapse because health issues are treated medically rather than criminalized for corporate profit.
 *   Property theft vanishes because any citizen can access high-quality goods at local Resource Hubs without cost.

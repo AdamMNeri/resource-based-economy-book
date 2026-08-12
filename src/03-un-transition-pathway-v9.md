@@ -1,7 +1,7 @@
 # Chapter 3: The United Nations as Facilitator: A Phased Global Transition
 
-*Navigation*: **[[chapters/02-introducing-resourceism-v10|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v8|Chapter 4: DAOs & Cybernetic Accounting →]]**  
-*Tags*: #rbe-book #un-transition #global-governance #diplomacy #resource-pooling #waste-reclamation #zk-snarks #public-health #uhvdc-grid #multi-nation-pilots #global-citizenship
+*Navigation*: **[[chapters/02-introducing-resourceism-v11|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v11|Chapter 4: DAOs & Cybernetic Accounting →]]**  
+*Tags*: #rbe-book #un-transition #global-governance #diplomacy #article-109 #resource-pooling #waste-reclamation #zk-snarks #public-health #uhvdc-grid #multi-nation-pilots #global-citizenship
 
 ---
 
@@ -39,8 +39,8 @@ There is no alternative global entity or private organization that holds jurisdi
 │                           freshwater, topsoil, and mineral reserves     │
 │                                        │                                │
 │                                        ▼                                │
-│  DIPLOMATIC CONVENING  ──► Universal legitimacy to ratify multilateral  │
-│                           Common Heritage Resource Treaties             │
+│  UN CHARTER ARTICLE 109 ──► Special General Conference to ratify the    │
+│                             Planetary Common Heritage Declaration       │
 │                                        │                                │
 │                                        ▼                                │
 │  MULTI-NATION OPT-IN   ──► Regional blocs & host nations pool land &    │
@@ -48,9 +48,19 @@ There is no alternative global entity or private organization that holds jurisdi
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 2. Multi-Nation Opt-In and Distributed Infrastructure Pooling
+### 2. The UN General Assembly Article 109 Protocol for Charter Review
 
-The UN pathway does not require a world government, military coercion, or global consensus before beginning. Furthermore, it does not place the burden of proof or land donation on a single isolated "host country." 
+A common legal objection regarding UN participation is whether the existing UN Charter—written in 1945 amidst post-WWII geopolitical realpolitik—can accommodate a non-monetary, cybernetic common heritage paradigm. The answer lies within the UN Charter's own built-in constitutional mechanism: **Article 109**.
+
+Under **Article 109 of the UN Charter**, member states hold the legal authority to convene a **Special General Conference for Reviewing the Charter**:
+
+1.  **Convening the Conference**: A two-thirds vote of the General Assembly, combined with an affirmative vote of any nine members of the Security Council, formally triggers the Article 109 Protocol.
+2.  **The Planetary Common Heritage Amendment**: Participating member states introduce and ratify a historic constitutional amendment: the **Planetary Common Heritage Declaration**. This amendment formally updates the UN Charter, expanding the legal concept of the "Global Commons" (traditionally applied to Antarctica, the high seas, and outer space) to encompass Earth's foundational biophysical resources, energy grids, and digital cybernetic infrastructure.
+3.  **Ratification Protocol**: Once ratified under Article 109, the UN Charter creates a binding multilateral diplomatic framework for member nations to ratify dedicated **Planetary Common Heritage Treaties**—such as the Global Energy Commons Treaty, the Ocean Commons Accord, and the ZK-Audited Planetary Inventory Mandate.
+
+### 3. Multi-Nation Opt-In and Distributed Infrastructure Pooling
+
+The UN pathway does not require a world government, military coercion, or universal initial consensus before beginning. Furthermore, it does not place the burden of proof or land donation on a single isolated "host country." 
 
 Instead, sovereign member nations choose to **voluntarily opt in individually or in multi-nation regional coalitions**. When a bloc of nations (for instance, a coalition of West African, Scandinavian, or South American states) opts in simultaneously, they collectively designate shared territorial regions as **UN-Sanctioned Bioregional RBE Pilot Zones**.
 
@@ -163,6 +173,6 @@ Through the UN transition pathway, as citizens travel freely across bioregional 
 
 ## Conclusion: A Diplomatic Bridge to a Sustainable Future
 
-The United Nations provides the pragmatic, multi-phased diplomatic bridge required to carry human civilization from monetary competition to cybernetic abundance. By anchoring the transition in sovereign multi-nation coalitions, establishing border-free global UHVDC energy microgrids, deploying Zero-Knowledge Cryptographic Auditing to guarantee absolute personal privacy, decoupling public health from corporate market bureaucracy, repurposing specialized UN agencies, reclaiming legacy industrial waste, and cultivating universal global citizenship, the UN transition pathway ensures a peaceful, orderly, and scientifically grounded shift toward a Resource-Based Economy.
+The United Nations provides the pragmatic, multi-phased diplomatic bridge required to carry human civilization from monetary competition to cybernetic abundance. By anchoring the transition in sovereign multi-nation coalitions, leveraging UN General Assembly Article 109 to ratify the Planetary Common Heritage Declaration, establishing border-free global UHVDC energy microgrids, deploying Zero-Knowledge Cryptographic Auditing to guarantee absolute personal privacy, decoupling public health from corporate market bureaucracy, repurposing specialized UN agencies, reclaiming legacy industrial waste, and cultivating universal global citizenship, the UN transition pathway ensures a peaceful, orderly, and scientifically grounded shift toward a Resource-Based Economy.
 
 ---

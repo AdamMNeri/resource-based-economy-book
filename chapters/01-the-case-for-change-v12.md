@@ -285,15 +285,19 @@ Beyond military budgets and corporate lobbying, monetary capitalism squanders hu
 When confronted with the proposal to eliminate money and transition to a Resource-Based Economy, critics routinely raise four predictable objections.
 
 ### Objection 1: "Isn't money and debt necessary to motivate human effort and prevent laziness?"
+
 *   **The Reality:** Behavioral science disproves the claim that money is the primary driver of human innovation [114, 285, 286]. Human innovation is driven by intrinsic motivators: **autonomy**, **mastery**, and **purpose**. Extrinsic monetary rewards actually decrease performance on complex, creative problem-solving tasks. In a Resource-Based Economy, people participate because they are intrinsically motivated by meaningful work, social contribution, and the passion for discovery.
 
 ### Objection 2: "Can't we fix these problems through better regulation, higher taxes, and green technology?"
+
 *   **The Reality:** Regulatory reforms fail because they do not alter the underlying debt math. If a carbon tax or environmental regulation successfully halts material economic growth, the debt-based monetary system collapses into debt-deflation, mass unemployment, and fiscal panic. Green capitalism is a contradiction in terms: you cannot regulate a system that requires infinite growth into ecological stability.
 
 ### Objection 3: "Isn't greed just fundamental human nature?"
+
 *   **The Reality:** Human behavior is overwhelmingly shaped by environment and conditioning. A system that threatens people with homelessness, starvation, and social irrelevance **forces people to act greedily to survive**. When basic needs are guaranteed as a birthright and resource access is open, human behavior naturally shifts toward collaboration, empathy, and mutual support [399, 400, 409-416].
 
 ### Objection 4: "If the founding fathers designed our system of governance, shouldn't we work strictly within existing political institutions?"
+
 *   **The Reality:** When political architects and constitutional framers—such as the American Founding Fathers—asserted the inherent, universal right of human beings to alter or abolish any system of governance that becomes destructive to life, liberty, and the pursuit of happiness, they could not have intended this principle to apply exclusively to formal political monarchies while exempting the monetary framework. Today, the debt-based monetary system wields far greater coercive authority over daily human survival than any 18th-century king—dictating whether a family has shelter, clean water, or medical care. 
 *   Furthermore, monetary logic reduces the entire worth of a human life to a single offensive phrase: **"net worth."** To a resourcist systems architect, assigning a financial price tag to a conscious human being and evaluating their civilizational value through a bank balance sheet is an offensive degradation of human dignity. If our founding architects recognized that flawed governance systems must be replaced when they fail to serve the people, that exact logic demands replacing the monetary engine itself when it threatens the very survival of the species.
 

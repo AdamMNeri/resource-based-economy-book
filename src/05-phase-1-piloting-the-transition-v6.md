@@ -1,6 +1,6 @@
 # Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks
 
-*Navigation*: **[[chapters/04-daos-and-blockchain-v9|← Chapter 4: Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v3|Chapter 6: Phase 2 Scaling →]]**  
+*Navigation*: **[[chapters/04-daos-and-blockchain-v11|← Chapter 4: Cybernetic Accounting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/06-phase-2-scaling-up-global-governance-v3|Chapter 6: Phase 2 Scaling →]]**  
 *Tags*: #rbe-book #phase-1-pilots #bioregional-hubs #experimental-zones #dual-use-infrastructure #red-tape-contrast #unep-mapping #unctad-clearinghouse #social-equity #identity-in-transition #institutional-pivot #cybernetic-lockout
 
 ---
@@ -63,7 +63,7 @@ The selection of initial Phase 1 pilot zones is guided by scientific, diplomatic
 To qualify for hosting a Phase 1 Pilot Zone, a sovereign nation enters into a bilateral multilateral accord with the UN General Assembly and the UN Economic and Social Council (ECOSOC) [233, 235]. The qualification protocol requires:
 
 *   **Territorial Designation**: The host state designates a contiguous geographic territory ranging from 1,000 to 10,000 hectares, granting the zone special legal status under UN international administration [235, 371].
-*   **Voluntary Civilian Participation**: Resident populations within the designated zone choose voluntarily whether to participate in the Phase 1 non-monetary framework or relocate to nearby legacy municipal zones with full financial compensation funded by the UN Transition Trust [235, 360].
+*   **Voluntary Civilian Participation**: Resident populations within the designated zone choose voluntarily whether to participate in the Phase 1 non-monetary framework or relocate to nearby legacy municipal zones with full financial compensation funded by the UN Transition Trust [235, 360]. The UN Transition Trust Fund itself is capitalized prior to the collapse of fiat through sovereign debt forgiveness treaties, legacy carbon taxes, international Special Drawing Rights (SDR) reallocations, and direct endowment grants from participating nations seeking to de-risk their own domestic transition.
 *   **Legal & Tax Insulation**: The host state agrees to exempt the pilot zone from all domestic corporate, sales, income, and property taxes, as well as monetary debt collection mechanisms within the zone's borders [235, 371]. In exchange, all state welfare costs for citizens inside the zone drop to zero.
 
 ### 2. Why Legacy Institutions and the UN Pivot: Systemic Self-Preservation and De-Risking

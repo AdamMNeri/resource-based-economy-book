@@ -46,6 +46,7 @@ Modern behavioral science, neuroscience, and epigenetics conclusively prove that
 To understand why people believe human nature is inherently competitive, we must reveal the **invisible web** of cultural conditioning that operates subtly across modern society. 
 
 From early childhood, individuals are immersed in social institutions designed to normalize territorial conquest, rivalry, and zero-sum outcomes:
+
 *   **Competitive Sports as Cultural Conditioners**: Consider the role of spectator sports like American football, rugby, or soccer. At their core, these games condition the populace in the mechanics of occupying territory, capturing points, defending borders, and viewing human interaction as a zero-sum contest where one team's victory *requires* another's defeat. While sports provide physical health and recreation, their cultural dominance reinforces the subconscious belief that society is an arena of competing teams battling for scarce wins.
 *   **Classroom Grading and Curved Ranking**: School systems grade children on competitive curves, teaching students to view their peers not as collaborators, but as rivals competing for limited top marks and university admissions.
 *   **Corporate Hierarchy & Status Games**: Workplace career ladders force employees to compete against colleagues for promotions, bonuses, and title upgrades, embedding zero-sum rivalry into daily adult existence.
@@ -224,6 +225,7 @@ Space resources cannot be privately owned, tokenized, or claimed by any corporat
 In monetary capitalism, nation-states maintain massive standing armies and militarized police forces. Armies exist to secure foreign energy reserves, defend corporate trade routes, and project currency dominance [216, 456]. Police forces exist primarily to protect private property deeds, collect debts, enforce evictions, and manage the symptoms of poverty [399].
 
 In an RBE, as global resources are managed as common heritage under the UN roadmap and property crimes vanish, standing armies and militarized police become obsolete [216, 364, 375, 453]:
+
 *   **Redirection of Military Intellect**: The $2.44 trillion in annual global military expenditure—and the millions of soldiers, engineers, and strategists involved—are redirected toward terraforming deserts, cleaning oceans, building Maglev networks, and exploring space [216, 453].
 *   **Community Safety Helpers**: Militarized police are replaced by trained community safety helpers and restorative justice mediators focused on mental health support and peaceful conflict resolution [161].
 

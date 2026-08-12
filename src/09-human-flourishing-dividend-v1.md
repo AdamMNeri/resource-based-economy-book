@@ -38,6 +38,7 @@ In monetary capitalism, legal systems, police forces, and cyber-security firms s
 ```
 
 In an RBE, because access to all goods and services is guaranteed free at local Resource Hubs [4, 5], financial crimes become physically and practically impossible:
+
 *   **No Cash, No Cyber-Theft**: Identity theft, credit card fraud, ransomware, phishing, and tax evasion vanish because there are no bank accounts to hack or taxes to evade.
 *   **Drug Cartels Collapse**: Black market drug cartels disappear because substance abuse is treated as a health issue rather than an illegal profit industry [399].
 *   **Zero Property Crime**: Stealing a bicycle, computer, or automobile is entirely pointlessly because any citizen can access superior equipment free of charge at any Resource Center.
@@ -47,6 +48,7 @@ In an RBE, because access to all goods and services is guaranteed free at local 
 ## 9.2 The Workforce Redirection Dividend: Unleashing Human Intellect
 
 Under monetary capitalism, millions of the world’s most brilliant mathematicians, computer scientists, legal minds, and engineers spend 80 hours a week on **non-productive monetary administration** [216, 364]:
+
 *   Designing high-frequency algorithms to front-run stock trades by microseconds.
 *   Drafting complex corporate tax loopholes and offshore trust structures.
 *   Filing restrictive patent lawsuits to block competing technology.
@@ -68,6 +70,7 @@ Under monetary capitalism, millions of the world’s most brilliant mathematicia
 ```
 
 In an RBE, all financial administrative jobs are permanently eliminated. Millions of sharp minds are liberated from paper-pushing and redirected toward real-world scientific, ecological, and cultural challenges [216, 364, 453]:
+
 *   Curing neurodegenerative diseases and cancer.
 *   Desalination engineering and desert greening.
 *   Closing the loop on 100% circular material recycling.
@@ -80,6 +83,7 @@ In an RBE, all financial administrative jobs are permanently eliminated. Million
 Monetary capitalism is a major manufacturer of chronic mental illness. Epidemiological studies prove that societies with high economic inequality and unconditioned survival threats suffer from catastrophic rates of depression, anxiety, burnout, and loneliness [367].
 
 In an RBE, the **Mental Health Dividend** transforms human consciousness:
+
 *   **Eradication of Survival Stress**: When housing, food, healthcare, and education are guaranteed for life, the body's chronic fight-or-flight stress response shuts down [367].
 *   **End of Status Competition**: Without monetary luxury status symbols to chase, artificial social hierarchy dissolves. People value one another for their character, creativity, and community contribution rather than their net worth.
 *   **Restoration of Community Trust**: Replacing market competition with shared stewardship rebuilds deep human connection and community solidarity.
@@ -106,6 +110,7 @@ Today's education systems were engineered during the Industrial Revolution to pr
 ```
 
 In an RBE, education is transformed into a **lifelong journey of scientific exploration and human mastery**:
+
 *   **Hands-on Problem Solving**: Children learn science, ecology, and engineering by working on real-world projects in local circular cities, farming hubs, and robotics labs.
 *   **Critical Thinking & Ethics**: Education focuses on scientific methodology, system dynamics, emotional intelligence, and philosophical inquiry rather than memorizing facts for standardized exams.
 *   **Zero Tuition Debt**: Research facilities, universities, and technical workshops are open to citizens of all ages for their entire lives without cost.

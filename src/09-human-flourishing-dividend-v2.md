@@ -38,6 +38,7 @@ In monetary capitalism, legal systems, police forces, and cyber-security firms s
 ```
 
 In an RBE, because access to all goods and services is guaranteed free at local Resource Hubs [4, 5], financial crimes become physically and practically impossible:
+
 *   **No Cash, No Cyber-Theft**: Identity theft, credit card fraud, ransomware, phishing, and tax evasion vanish because there are no bank accounts to hack or taxes to evade.
 *   **Drug Cartels Collapse**: Black market drug cartels disappear because substance abuse is treated as a health issue rather than an illegal profit industry [399].
 *   **Zero Property Crime**: Stealing a bicycle, computer, or automobile is entirely pointless because any citizen can access superior equipment free of charge at any Resource Center.
@@ -49,6 +50,7 @@ In an RBE, because access to all goods and services is guaranteed free at local 
 Under monetary capitalism, public institutions and democratic governance are routinely subverted by financial leverage. Wealthy donors, corporate interest groups, and multinational conglomerates purchase political influence through campaign contributions, dark-money PACs, lobbying firms, and revolving-door employment promises.
 
 In an RBE, political corruption is not merely regulated—it is **structurally eradicated**:
+
 *   **No Financial Leverage**: Without currency, stocks, or private asset transfers, there is no physical medium through which to bribe an administrator, buy a policy favor, or fund a lobbying campaign.
 *   **Transparent Algorithmic Decision-Making**: Public resource allocation is conducted openly through cybernetic IoT tracking and peer-reviewed scientific models [360]. Anyone can audit the allocation algorithms, removing room for backroom deals or political favors.
 *   **Service as Public Stewardship**: Representatives and project coordinators serve out of intrinsic desire for community stewardship, holding no financial privilege or immunity over their fellow citizens.
@@ -58,6 +60,7 @@ In an RBE, political corruption is not merely regulated—it is **structurally e
 ## 9.3 The Workforce Redirection Dividend: Unleashing Human Intellect
 
 Under monetary capitalism, millions of the world’s most brilliant mathematicians, computer scientists, legal minds, and engineers spend 80 hours a week on **non-productive monetary administration** [216, 364]:
+
 *   Designing high-frequency algorithms to front-run stock trades by microseconds.
 *   Drafting complex corporate tax loopholes and offshore trust structures.
 *   Filing restrictive patent lawsuits to block competing technology.
@@ -79,6 +82,7 @@ Under monetary capitalism, millions of the world’s most brilliant mathematicia
 ```
 
 In an RBE, all financial administrative jobs are permanently eliminated. Millions of sharp minds are liberated from paper-pushing and redirected toward real-world scientific, ecological, and cultural challenges [216, 364, 453]:
+
 *   Curing neurodegenerative diseases and cancer.
 *   Desalination engineering and desert greening.
 *   Closing the loop on 100% circular material recycling.
@@ -102,6 +106,7 @@ In an RBE, the **Mental Health Dividend** transforms human consciousness across 
 ## 9.5 Child Development & The Intergenerational Psychological Dividend
 
 One of the most tragic casualties of monetary capitalism is the psychological conditioning forced upon children. From an early age, children are exposed to the bewildering contradictions of a monetary society:
+
 *   *Why do hungry people walk past grocery stores overflowing with food?*
 *   *Why do unhoused families sleep in the rain outside vacant apartment buildings?*
 *   *Why must parents spend 50+ hours a week away from their children just to pay for permission to exist on Earth?*
@@ -125,6 +130,7 @@ When parents attempt to explain money to young children, they inevitably encount
 ```
 
 In an RBE, children grow up in a world whose rules make biological, ecological, and logical sense:
+
 *   **Unconditional Security**: Children never witness eviction notices, medical debt panic, or parental unemployment stress.
 *   **Cohesive Family Time**: Parents are free from 60-hour workweeks, allowing families to bond, travel, and explore nature together.
 *   **Authentic Education**: Learning is driven by innate curiosity, hands-on scientific projects, and artistic expression rather than standardized testing for corporate employment.
@@ -134,10 +140,12 @@ In an RBE, children grow up in a world whose rules make biological, ecological, 
 ## 9.6 Unfettered Open-Source Science & Innovation
 
 Under monetary capitalism, scientific advancement is heavily throttled by commercial interests:
+
 *   **Patent Hoarding & Paywalls**: Pharmaceutical and technology corporations lock critical medical discoveries behind patents and academic paywalls ($35–$50 per journal article), blocking competing researchers from building on existing knowledge.
 *   **Treatment over Cures**: Financial logic incentivizes pharmaceutical companies to develop lifelong treatments for chronic symptoms rather than permanent, one-time cures—as famously highlighted in Wall Street financial reports questioning whether curing patients is a sustainable business model.
 
 In an RBE, science becomes **100% open-source, global, and collaborative**:
+
 *   **Instant Global Knowledge Sharing**: Every scientific paper, genomic sequence, and engineering blueprint is published immediately to open global databases.
 *   **Incentive Alignment**: Researchers focus exclusively on permanent cures, maximum ecological efficiency, and breakthrough technology, rewarded by peer recognition and societal gratitude.
 
@@ -183,6 +191,7 @@ To prove that a Resource-Based Economy is a practical, engineering-driven roadma
 Today's education systems were engineered during the Industrial Revolution to produce compliant factory workers and corporate employees—standardizing testing, enforcing rigid schedules, and training youth to fit into the labor market.
 
 In an RBE, education is transformed into a **lifelong journey of scientific exploration and human mastery**:
+
 *   **Hands-on Problem Solving**: Children learn science, ecology, and engineering by working on real-world projects in local circular cities, farming hubs, and robotics labs.
 *   **Critical Thinking & Ethics**: Education focuses on scientific methodology, system dynamics, emotional intelligence, and philosophical inquiry rather than memorizing facts for standardized exams.
 *   **Zero Tuition Debt**: Research facilities, universities, and technical workshops are open to citizens of all ages for their entire lives without cost.

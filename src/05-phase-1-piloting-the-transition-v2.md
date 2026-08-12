@@ -71,14 +71,17 @@ To qualify for hosting a Phase 1 Pilot Zone, a sovereign nation enters into a bi
 To ensure the cybernetic accounting software and circular infrastructure frameworks are universally scalable, Phase 1 establishes pilots across three distinct bioregional typologies [235, 371]:
 
 #### Typology A: Post-Industrial Urban Brownfields
+
 *   *Objective*: Demonstrate the rapid conversion of abandoned industrial infrastructure, contaminated urban soils, and high-unemployment populations into high-tech, zero-emission circular communities.
 *   *Key Interventions*: Soil phytoremediation using hyperaccumulating plants, disassembly and recycling of structural steel, installation of district-scale geothermal microgrids, and conversion of vacant factory floors into open fabrication laboratories [270, 371].
 
 #### Typology B: Degraded Agricultural Basins
+
 *   *Objective*: Demonstrate ecological soil regeneration, water table restoration, and high-yield automated food production without synthetic pesticides or petrochemical fertilizers.
 *   *Key Interventions*: Conversion of chemical monoculture fields into biodiverse agroforestry, deployment of IoT soil-moisture telemetry, construction of closed-loop vertical aeroponic complexes, and automated micro-drip irrigation linked to local weather radar engines [235, 371].
 
 #### Typology C: Coastal and Island Territories
+
 *   *Objective*: Demonstrate energy and water autonomy in resource-constrained or ecologically vulnerable marine environments.
 *   *Key Interventions*: Deployment of ocean thermal energy conversion (OTEC) units, wave-energy harvesters, solar-powered multi-stage flash desalination facilities, and automated marine sanctuary monitoring to restore depleted local fisheries [235, 270, 371].
 
@@ -169,6 +172,7 @@ The UNCTAD Clearinghouse acts as an adaptive economic diaphragm between the inte
 ### Currency Insulation & Macroeconomic Stability
 
 By routing all monetary transactions through the UNCTAD Clearinghouse, the RBE pilot zone is 100% insulated from external monetary crises [235, 371]:
+
 *   **Zero Exposure to Inflation**: Hyperinflation, currency devaluations, or central bank interest rate hikes in the legacy economy have zero impact on the internal distribution of food, housing, energy, or healthcare within the pilot zone [360, 371].
 *   **Protection against Speculative Attacks**: Currency speculators, hedge funds, and short-sellers cannot attack or destabilize the pilot zone because the zone possesses no internal currency, debt instruments, or sovereign bond market to speculate against [235, 399].
 
@@ -179,6 +183,7 @@ By routing all monetary transactions through the UNCTAD Clearinghouse, the RBE p
 The diplomatic catalyst that compels sovereign governments to host Phase 1 pilot zones is not necessarily altruism or philosophical conversion; it is **immediate fiscal and administrative relief** [360, 371, 451].
 
 In legacy monetary economies, state and national governments allocate massive portions of their annual budgets—often 40% to 60% of total public expenditure—attempting to manage the chronic symptoms of poverty, inequality, and economic dislocation [399, 451]. These expenditures include:
+
 *   Complex welfare casework bureaucracies and means-testing administration.
 *   Food stamp (SNAP) and housing voucher processing.
 *   Uncompensated emergency room visits for uninsured low-income populations.

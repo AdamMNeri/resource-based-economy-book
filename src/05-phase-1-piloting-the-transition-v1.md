@@ -38,6 +38,7 @@ The United Nations Environment Programme (UNEP) serves as the primary scientific
 ### 1. Biophysical Resource Mapping
 
 Before any resource allocation occurs within a pilot zone, UNEP deploys environmental auditing teams and IoT telemetry networks to perform a comprehensive **Physical Resource Inventory** [235, 371]:
+
 *   **Aquifer & Watershed Auditing**: Measuring groundwater depth, annual recharge rates, and fluid dynamics to establish sustainable withdrawal thresholds.
 *   **Topsoil & Agricultural Health**: Testing nitrogen levels, organic matter content, and micro-nutrient density across arable land to optimize organic crop rotation schedules.
 *   **Material Repositories**: Cataloging local mineral deposits, timber stands, recycled metal stockpiles, and industrial bio-composites in physical units (metric tons, cubic meters).
@@ -49,6 +50,7 @@ Unlike monetary markets—which extract resources until profitability drops—UN
 ### 3. Circular Building & Industrial Guidelines
 
 UNEP enforces strict **100% Circularity Guidelines** for all infrastructure built within Phase 1 zones [270, 371]:
+
 *   **Zero-Waste Construction**: Buildings are constructed using modular, interlocking components that can be disassembled, reconfigured, or re-smelted without landfill waste.
 *   **Energy Autonomy**: Structures integrate passive solar heating, rooftop photovoltaic arrays, and rainwater harvesting systems, generating a net-positive energy surplus for the local grid.
 
@@ -78,6 +80,7 @@ The United Nations Conference on Trade and Development (UNCTAD) manages the macr
 A major practical question in Phase 1 is: *How does an RBE pilot zone obtain specialized equipment or raw materials from external non-participating nations that demand monetary payment?*
 
 UNCTAD resolves this through a **Dual-Interface Clearinghouse** [235, 371]:
+
 1.  **Surplus Export**: The RBE pilot zone produces high-value physical surpluses using clean automation (e.g., green hydrogen, recycled rare earth metals, open-source medical software). These surpluses are exported through UNCTAD to global monetary markets.
 2.  **UN Trust Fund**: The monetary revenue generated from these exports is deposited directly into a UN-administered Trust Fund.
 3.  **Procurement of External Needs**: When the pilot zone requires specialized equipment not yet produced internally (e.g., advanced semiconductor lithography machines), the UN Trust Fund purchases the items on external markets and delivers them to the pilot zone.

@@ -40,6 +40,7 @@ UN DESA coordinates the drafting and ratification of multilateral **Planetary Co
 
 ### 2. Multi-National Resource Pooling Agreements
 As multiple neighboring nations ratify Phase 2 treaties, UN DESA facilitates regional **Resource Pooling Agreements** [236, 372]:
+
 *   **Cross-Border Water Grids**: Aquifers and river basins spanning multiple former nation-states are managed as unified hydrological systems under cybernetic telemetry, ending water wars forever.
 *   **Regional Agriculture Belts**: Arable land is cultivated based on soil chemistry and climate suitability rather than national agricultural tariffs or corporate export quotas [236, 372].
 
@@ -68,6 +69,7 @@ In Phase 2, the UN Environment Programme (UNEP) expands its mandate from localiz
 ### Enforcing Planetary Boundaries
 
 UNEP operates a satellite-linked **Planetary Ecological Ledger** that monitors nine critical Earth system boundaries [1060]:
+
 1. Climate change & atmospheric carbon limits.
 2. Ocean acidification levels.
 3. Stratospheric ozone depletion.
@@ -184,6 +186,7 @@ In Phase 2, as terrestrial population centers adapt to rising sea levels and cli
 ```
 
 ### Engineering Principles of Floating Aquatic Cities
+
 *   **Wave-Resistant Modular Structures**: Ocean cities are constructed using ultra-durable, corrosion-resistant composite materials arranged in floating concentric rings. Submerged tension-leg systems stabilize platforms against extreme oceanic storms and rogue waves.
 *   **Closed-Loop Hydrology & OTEC Energy**: Water is supplied via multi-stage solar desalination and Ocean Thermal Energy Conversion (OTEC) systems, which harness deep-sea thermal gradients to generate continuous clean baseload electricity 24/7.
 *   **Aquaculture & Marine Restoration**: Floating cities feature submerged vertical kelp farms, automated shellfish filtration arrays, and artificial coral reefs, transforming urban ocean habitats into active marine sanctuaries rather than industrial pollutants [4].
@@ -198,6 +201,7 @@ Phase 2 deploys **Border-Free Energy Grids** via Ultra-High-Voltage Direct Curre
 A common objection in international relations is: *What prevents resource-rich regions (e.g., areas with vast lithium or freshwater reserves) from hoarding resources to exert leverage over other regions?*
 
 In Phase 2, this is prevented through **Cybernetic Bioregional Balance**:
+
 *   All natural resource deposits are legally vested in the **Planetary Common Heritage** under UN DESA treaties [236, 372].
 *   Resource extraction telemetry is monitored globally. If a local region attempts to restrict resource flow or hoard raw materials for political leverage, the global cybernetic system automatically flags the anomaly and redirects regional allocations from other sectors, while public transparency algorithms expose the hoarding behavior to the global citizenry.
 

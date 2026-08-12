@@ -129,6 +129,7 @@ Stripped of monetary speculation, token minting, and interest yield mechanics, b
 In legacy monetary medical infrastructure, clinical research, diagnostic manufacturing, and pharmaceutical distribution are fractured across proprietary corporate silos. Pharmaceutical corporations hoard clinical trial data, litigate patent extensions, and price-gouge life-saving therapeutics to maximize quarterly earnings.
 
 In an RBE, public health is orchestrated through **Open Health DAOs**:
+
 *   **Open Clinical Data & Universal Research Blueprints**: All medical research, gene sequencing algorithms, and diagnostic blueprints are published immediately on open, immutable ledgers. Researchers worldwide collaborate on treatment protocols without patent paywalls or non-disclosure agreements.
 *   **Automated Medical Supply Logistics**: Regional health DAOs monitor local medical inventory levels through real-time telemetry. When diagnostic kits or pharmaceuticals are required, automated synthesis hubs produce and dispatch supplies directly to community health nodes—eliminating insurance pre-authorizations, billing friction, and corporate markups.
 *   **Focus on Preventative Detoxification**: Free from financial imperatives, medical DAOs focus on systemic prevention: monitoring bioregional soil purity, indoor air quality, clean water distribution, and nutritional abundance.
@@ -166,6 +167,7 @@ To prevent the toxic dynamics of modern social media (where "likes," "thumbs-up,
 Under monetary capitalism, Artificial Intelligence is deployed as an instrument of corporate extraction: automating jobs to slash labor costs, profiling consumers for targeted advertising, and optimizing financial trading algorithms.
 
 In a Resource-Based Economy, AI is repurposed as an **ethical companion and labor liberation engine**:
+
 1.  **Automating Drudgery**: AI models handle complex, repetitive physical and administrative tasks—monitoring automated vertical farms, optimizing Maglev transit scheduling, and managing subterranean sewage processing—liberating humans for creative exploration and scientific discovery [361].
 2.  **Thermodynamic Optimization**: AI algorithms model complex planetary feedback loops in real time, calculating the exact ecological carrying capacity and material costs of proposed civil projects before physical construction begins.
 3.  **Human Alignment**: AI systems operate under open-source, community-audited parameters, bound by strict ethical protocols that prevent central control or manipulative profiling.

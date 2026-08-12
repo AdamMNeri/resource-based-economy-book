@@ -133,6 +133,7 @@ Decades of monetary capitalism, planned obsolescence, and consumer trash have le
 ```
 
 Instead of immediately opening new invasive mining operations to build RBE pilot zones, the UN Reclamation Program deploys automated "urban mining" units to harvest and process existing waste stockpiles:
+
 *   **E-Waste Rare Earth Recovery**: Advanced hydrometallurgical and automated sorting systems extract copper, silver, lithium, and neodymium from discarded electronics.
 *   **Structural Steel & Metal Melting**: Abandoned industrial complexes and scrapped vehicles are melted down in electric arc furnaces powered by renewable energy, supplying 100% of the structural steel needed for initial circular city construction.
 *   **Plastic & Polymer Depolymerization**: Plastic waste stockpiles are broken down into molecular monomers to manufacture durable composite building materials.
@@ -146,6 +147,7 @@ By turning the toxic waste footprint of the monetary system into the foundationa
 A cornerstone of the UN-led RBE transition is the establishment of **Universal Global Citizenship Rights** [3, 374, 451].
 
 In Phase 2 and 3 of the UN roadmap, as sovereign nations pool land and resources into RBE zones, national borders within the network cease to function as restrictive barriers:
+
 *   **Unencumbered Mobility**: Any citizen residing within an RBE zone possesses the unconditional legal right to travel across all international RBE territories without visas, passports, customs fees, border tariffs, or financial friction [3, 374, 451].
 *   **Integrated Transit Network**: Citizens step onto high-speed Maglev trains, electric transport pods, or zero-emission aircraft, moving seamlessly across continents.
 *   **Universal Hospitality**: Wherever a global citizen travels, local Resource Hubs automatically grant access to housing, food, medical care, and community facilities free of charge [399, 409-416].

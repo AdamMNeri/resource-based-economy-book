@@ -1,7 +1,7 @@
 # Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy
 
-*Navigation*: **[[chapters/03-un-transition-pathway-v8|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v3|Chapter 5: Phase 1 Piloting →]]**  
-*Tags*: #rbe-book #cybernetic-accounting #daos #blockchain-absurdity #duplicative-overlap #ai-orchestration #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #public-health-daos #identity-of-mastery
+*Navigation*: **[[chapters/03-un-transition-pathway-v8|← Chapter 3: UN Transition]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/05-phase-1-piloting-the-transition-v5|Chapter 5: Phase 1 Piloting →]]**  
+*Tags*: #rbe-book #cybernetic-accounting #daos #blockchain-absurdity #duplicative-overlap #ai-orchestration #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #public-health-daos #identity-of-mastery #demand-registration #hoarding-prevention
 
 ---
 
@@ -9,9 +9,11 @@
 
 A Resource-Based Economy (RBE) cannot rely on good intentions alone; it demands a scalable, technologically rigorous infrastructure for coordinating global production, supply chains, and distribution. For centuries, orthodox economic theory claimed that monetary market prices were the only viable mechanism for allocating resources and coordinating human labor. Yet, as established in prior chapters, market pricing systematically ignores catastrophic environmental damage [1060, 1068], rewards planned obsolescence [270, 1047], and rations basic necessities by bank balance rather than human need [4, 5, 1052].
 
-An RBE replaces monetary calculation with **cybernetic resource accounting**—a real-time feedback network that tracks physical availability, ecological boundaries, and human requirements directly in physical units [360, 361, 414, 421]. 
+When diagnosing the structural collapse of debt-based monetary systems (as outlined in Chapter 1), skeptics frequently ask: *If we eliminate money, prices, and capital accumulation, what prevents chaos? How can society track inventory, verify honesty, and prevent corruption without financial accounting?*
 
-Leveraging Decentralized Autonomous Organizations (DAOs) for open community governance, repurposed blockchain ledgers for immutable inventory tracking [237, 373, 452], Zero-Knowledge Cryptographic Auditing for privacy protection, Artificial Intelligence (AI) as an ethical companion to automate drudgery [361], and Restorative Justice Councils to replace property-enforcement courts, an RBE creates an unbribeable system built on verifiable truth.
+Here lies a fundamental architectural distinction that must be made unequivocally clear: **replacing fiat money with speculative cryptocurrencies or tokenized digital capital is a false solution.** Cryptocurrencies merely replicate monetary scarcity, proof-of-stake interest yields, and private capital hoarding under a digital veneer. The true requirement for a post-monetary civilization is **non-monetary cybernetic resource accounting**—a real-time feedback network that tracks physical availability, ecological boundaries, and human requirements directly in physical units (kilowatt-hours, metric tons, liters, and hectares) without price tags, profit margins, or tokenized capital [360, 361, 414, 421].
+
+Leveraging Decentralized Autonomous Organizations (DAOs) for open community governance, repurposed distributed ledgers for immutable inventory tracking [237, 373, 452], Zero-Knowledge Cryptographic Auditing (ZK-SNARKs) for privacy protection without personal surveillance, Artificial Intelligence (AI) as an ethical companion to automate drudgery [361], and Restorative Justice Councils to replace property-enforcement courts, an RBE creates an unbribeable system built on verifiable physical truth.
 
 ### Guided Visualization: The Global Sensor Pulse
 
@@ -52,7 +54,7 @@ Pervasive IoT sensor networks, Big Data, industrial Enterprise Resource Planning
 
 ### Modern Corporate Planning vs. The Tragic Waste of Duplicative Competition
 
-Multinational corporations like Amazon, Walmart, Toyota, and DHL already run massive internal planned economies without internal market prices—coordinating millions of products across continents using real-time physical telemetry. Within Amazon's fulfillment network, items are not bought or sold between departments using prices; they are tracked, routed, and allocated purely through physical inventory algorithms.
+Multinational corporations like Amazon, Walmart, Toyota, and DHL already run massive internal planned economies without internal market prices—coordinating millions of products across continents using real-time physical telemetry. Within Amazon's fulfillment network, items are not bought or sold between internal departments using market prices; they are tracked, routed, and allocated purely through physical inventory algorithms grounded in **Leontief input-output matrices** and direct material telemetry.
 
 However, under monetary capitalism, this non-market planning is trapped within isolated, competing corporate silos:
 
@@ -62,11 +64,26 @@ However, under monetary capitalism, this non-market planning is trapped within i
 
 An RBE takes the proven cybernetic planning tools developed by modern industry, strips away private secrecy, eliminates duplicative corporate overlap, and unifies global logistics into a single, open-source cybernetic network dedicated to human well-being.
 
+### Resolving Demand Registration and Hoarding Without Price Signals
+
+Critics frequently press the economic calculation critique one step further, raising a vital practical question: *If prices are removed, how does an RBE register human demand? Without prices rationing access, what stops a citizen from requesting 50 televisions or hoarding scarce resources?*
+
+In a monetary economy, "market demand" is a severely distorted signal: it measures *ability to pay* rather than human need. A billionaire purchasing five luxury yachts registers as high "demand," while millions of impoverished families lacking clean water register as zero "demand." An RBE replaces price-based rationing with direct, transparent **demand registration and physical allocation parameters**:
+
+1.  **Differentiating Access Typologies**: Human requirements are registered across three distinct functional categories:
+    *   *Essential Personal Access*: Unconditioned, high-priority access to housing, nutrition, healthcare, education, clothing, and personal communication devices.
+    *   *Shared / On-Demand Access*: High-standard access to shared equipment—transportation pods, specialized tools, recreational gear, scientific instruments, and vacation retreats—available instantly through local Community Resource Hubs.
+    *   *Custom & Industrial Resource Allocation*: Material allocations for complex personal projects, scientific research, or community construction.
+2.  **The Psychology of Hoarding vs. On-Demand Abundance**: Hoarding is not an inherent human instinct; it is a defensive reaction to chronic monetary scarcity and fear of future deprivation. When goods are guaranteed, high-quality, and continuously accessible at local hubs without financial cost or resale value, hoarding becomes psychologically irrational. Storing 50 televisions in a private living room yields zero financial benefit, wastes living space, and provides no social status.
+3.  **Personal Access Parameters and Algorithmic Review Queues**: For personal access goods, cybernetic software applies physical sanity parameters grounded in biological requirements, household capacity, and regional resource availability. If an individual submits a request for 50 televisions, the system does not employ coercive police or price barriers. Instead, the request triggers an algorithmic verification flag: the system prompts the user to specify the functional requirement (e.g., outfitting a public community media center vs. a private bedroom). Requests for specialized or high-volume items are routed to open community project queues for peer review.
+4.  **Circular Return Accountability and Item Telemetry**: High-value tools, electronics, and vehicles carry open cryptographic passports. If a shared item remains inactive or unused in a private residence for an extended duration, the cybernetic inventory system sends automated prompts requesting its return to the local hub for maintenance and re-allocation—maximizing resource velocity and ensuring 100% utility.
+5.  **Domain-Isolated Reputation for Raw Industrial Allocation**: When individuals or research teams request large quantities of scarce raw materials (e.g., metric tons of copper, lithium, or high-purity silicon for an experimental energy project), allocation is calibrated by verified technical competence and peer review on project DAOs (Section 4.4) rather than personal monetary wealth. This guarantees that industrial resources flow to viable, ecologically sound projects rather than wasteful speculation.
+
 ---
 
 ## 4.2 Cryptocurrency, Interest Mechanics, and Intrinsic Blockchain Accountability
 
-In recent years, blockchain technology—originally **conceived** as a decentralized, immutable distributed ledger—has been co-opted by monetary capitalism into a tragic display of energetic and technological absurdity.
+In recent years, blockchain technology—originally conceived as a decentralized, immutable distributed ledger—has been co-opted by monetary capitalism into a tragic display of energetic and technological absurdity.
 
 ### Equating Fiat Interest with Cryptocurrency Staking and Yield Farming
 

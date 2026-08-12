@@ -83,6 +83,7 @@ In many market nations, prisons have been privatized into profit-making enterpri
 ### The Elimination of Financial Crime and the RBE Safety Paradigm
 
 In a Resource-Based Economy, financial crime vanishes overnight because money, private ownership of productive assets, and artificial market scarcity no longer exist [4, 5, 399]:
+
 *   **Property Theft is Obsolete**: Stealing an automobile, a computer, or a piece of art is entirely pointless when any citizen can access higher-quality goods free of charge at any local Resource Center.
 *   **Black Markets Collapse**: Illegal drug cartels and illicit smuggling networks collapse completely because there are no cash profits to earn or launder, and substance abuse is addressed strictly as a public health issue rather than a criminal offense [399].
 *   **Corporate and Financial Crimes Eradicated**: Wage theft, price-fixing, tax evasion, insider trading, and corporate fraud cease to exist because there are no corporate ledgers or tax authorities.
@@ -90,6 +91,7 @@ In a Resource-Based Economy, financial crime vanishes overnight because money, p
 ### Law Enforcement Transformation: From Armed Control to Community Safety Helpers
 
 Without the need to protect private property or collect debts, militarized police departments are disbanded [161, 364]. They are replaced by **Community Safety Helpers** and **Restorative Mediators**:
+
 *   **Unarmed De-escalation**: Safety Helpers do not carry lethal firearms or project state intimidation. Their training is grounded in conflict de-escalation, emergency medical response, mental health crisis intervention, and restorative mediation.
 *   **Focus on Physical Safety**: Their sole duty is protecting individual bodily safety and assisting citizens in distress, acting as compassionate public servants rather than enforcers of economic order.
 
@@ -147,11 +149,13 @@ In monetary capitalism, gun violence, school shootings, active shooter events, a
 ### Root Causes of Gun Violence Eradicated
 
 When analyzed through systems architecture, gun violence is not an immutable law of human nature; it is a predictable output of specific environmental drivers [399]:
+
 1.  **Economic Survival & Desperation**: Armed robbery, drug turf wars, and gang violence are directly driven by monetary poverty, illegal drug black markets, and violent competition for cash flow.
 2.  **Manufactured Fear & Defense Sales**: Weapon manufacturers profit immensely by fueling fear, marketing military-grade assault weapons to civilians, and lobbying governments to dismantle safety regulations.
 3.  **Untreated Psychological Trauma**: School shootings and mass violent attacks are almost universally committed by deeply alienated, isolated individuals suffering from unaddressed mental illness, bullying, and systemic hopelessness.
 
 In a Resource-Based Economy, every single one of these drivers is eradicated at the root:
+
 *   With poverty eradicated and all goods freely accessible, armed robbery and home invasions become completely nonsensical.
 *   With drug cartels dismantled through public health approaches, turf wars vanish.
 *   With weapon manufacturing corporations abolished, there is no profit incentive to flood communities with firearms.

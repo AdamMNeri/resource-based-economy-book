@@ -10,6 +10,7 @@
 Having exposed the irreconcilable flaws of the debt-based monetary system in Chapter 1, we now turn to a functional, scalable alternative: the **Resource-Based Economy (RBE)**. 
 
 Far from being a utopian dream, a political dogma, or a philosophical exercise, an RBE is presented here as a **scientific methodology for planetary stewardship and human flourishing** [4, 1042]. It is an operational system designed to align human civilization with two inescapable physical realities:
+
 1. The biophysical limits and carrying capacity of a finite planet.
 2. Our immense, modern technological capability to produce abundance when freed from monetary constraints.
 
@@ -57,6 +58,7 @@ An RBE establishes a strict, foundational international principle: **The Solar S
 Crucially, an RBE rejects species hubris, galactic entitlement, or imperial Manifest Destiny. We do not presume that humans are entitled to conquer the universe, nor do we assume that we are the sole conscious inhabitants of the cosmos. Instead, Resourceism explicitly embraces the **Mediocrity Principle** in astrophysics and philosophy: humanity is not a miraculous, divine anomaly or cosmic exception, but a natural, common component of a vast, evolving universe.
 
 Grounding human civilization in the Mediocrity Principle serves as a vital psychological stabilizer:
+
 *   **Cosmic Humility**: Recognizing that our star system is one of hundreds of billions in a single galaxy dismantles tribal, nationalistic, and religious arrogance.
 *   **Focus on Unifying Similarities**: When viewed against the backdrop of cosmic reality, the superficial divisions that drive monetary wars—borders, skin color, corporate brands, and currency denominations—are revealed as absurd and self-destructive.
 *   **Stewardship over Dominance**: Rather than viewing nature or space as objects to be exploited, humanity views itself as conscious biological stewards of our home system, seeking harmony with physical laws rather than imperial conquest.
@@ -131,6 +133,7 @@ Private ownership of the means of production—land, water systems, energy grids
 In an average suburban neighborhood of 100 homes under capitalism, there are 100 gasoline lawnmowers, 100 power drills, 100 pressure washers, and 150 automobiles—each sitting idle 95%+ of their operational lifespan, deteriorating in private garages.
 
 In an RBE, neighborhoods share an automated **Community Fabrication & Resource Hub**:
+
 *   Instead of 100 fragile, low-quality consumer drills, the hub stocks 5 industrial-grade, modular drills.
 *   When a resident needs a drill, a telescope, a mountain bike, or a specialized camera, they reserve it via an app, receive it via an autonomous delivery pod, use it, and return it to the hub.
 *   Material consumption and resource extraction drop by **95%**, while citizens gain immediate access to professional-grade equipment far superior to anything they could privately afford under a monetary system.
@@ -161,6 +164,7 @@ Rather than merely borrowing an individual tool for home repair, citizens freque
 ```
 
 These facilities operate under key principles that elevate human life:
+
 1.  **Sheer Enjoyment of Creativity**: People pursue skills like woodworking, robotics, topiary, welding, clay throwing, or software development not because it is mandated by a employer or needed by society's economy, but for the pure joy of craftsmanship, mastery, and sharing their creations with peers.
 2.  **Shared Master Equipment & Material Abundance**: An individual hobbies enthusiast rarely has the space or capital to privately purchase a $50,000 industrial 5-axis CNC mill or a gas ceramic kiln. In an RBE, neighborhood Hobby Shops house industrial-grade machinery alongside abundant raw material stocks (sustainable timber, clay, electronic components, metals).
 3.  **Peer Mentorship and Collaboration**: Hobby Shops serve as vibrant social nodes where experienced craftspeople mentor beginners, collaborate on complex multi-disciplinary projects, or simply enjoy creative camaraderie without commercial competition or commercial secrecy.

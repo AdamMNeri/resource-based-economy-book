@@ -42,6 +42,7 @@ UN DESA coordinates the drafting and ratification of multilateral **Planetary Co
 ### 2. Multi-National Resource Pooling Agreements
 
 As multiple neighboring nations ratify Phase 2 treaties, UN DESA facilitates regional **Resource Pooling Agreements** [236, 372]:
+
 *   **Cross-Border Water Grids**: Aquifers and river basins spanning multiple former nation-states are managed as unified hydrological systems under cybernetic telemetry, ending water wars forever.
 *   **Regional Agriculture Belts**: Arable land is cultivated based on soil chemistry and climate suitability rather than national agricultural tariffs or corporate export quotas [236, 372].
 
@@ -71,6 +72,7 @@ In Phase 2, the UN Environment Programme (UNEP) expands its mandate from localiz
 ### Enforcing Planetary Boundaries
 
 UNEP operates a satellite-linked **Planetary Ecological Ledger** that monitors nine critical Earth system boundaries [1060]:
+
 1. Climate change & atmospheric carbon limits.
 2. Ocean acidification levels.
 3. Stratospheric ozone depletion.
@@ -119,6 +121,7 @@ Phase 2 scales up the physical engineering of the planet, deploying **Border-Fre
 ### Global UHVDC Clean Energy Microgrids
 
 Without corporate oil cartels or national border tariffs, energy is harvested where physical conditions are ideal:
+
 *   **Geothermal Volcanic Faults**: Concentrated geothermal arrays in Iceland, Indonesia, and the East African Rift.
 *   **Desert Solar Megagrid**: Automated solar arrays across the Sahara, Atacama, and Mojave deserts.
 *   **Global UHVDC Integration**: Power is transmitted across continents via Ultra-High-Voltage Direct Current (UHVDC) lines with less than 3% transmission loss per 1,000 miles. Sunlit desert arrays power night-time continents halfway around the planet, achieving 100% renewable baseload stability without fossil fuels or nuclear waste.
@@ -126,6 +129,7 @@ Without corporate oil cartels or national border tariffs, energy is harvested wh
 ### Expanding Circular City Networks
 
 In Phase 2, human populations are progressively relocated away from vulnerable, flooding coastal zones into **climate-resilient circular cities** designed for zero-emission efficiency [4]:
+
 *   Concentric circular sectors optimize transit distances and utility lines.
 *   Integrated vertical farms supply 80% of urban food needs within walking distance.
 *   Automated waste-sorting networks recover 100% of organic and industrial materials.

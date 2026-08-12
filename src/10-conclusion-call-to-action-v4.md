@@ -68,18 +68,22 @@ The transition to a Resource-Based Economy does not wait for traditional politic
 ```
 
 ### 1. For Individual Citizens and Advocates
+
 *   **Shift the Cultural Narrative**: Educate family, friends, and community members regarding the structural mechanics of money creation and the physical reality of an RBE. Help dismantle the myths that poverty and greed are human nature [114, 379].
 *   **Form Local Action DAOs**: Organize community groups focused on non-monetary resource sharing, local food security, and open-source education.
 
 ### 2. For Engineers, Scientists, and Technologists
+
 *   **Build Open-Source Hardware & Software**: Dedicate creative time to developing open-source hardware blueprints—modular solar arrays, open medical devices, automated vertical farming pods, and circular building designs.
 *   **Develop Cybernetic Accounting Tools**: Contribute code to permissionless, zero-trust hardware oracle networks, IoT telemetry platforms, and quadratic voting DAO interfaces [237, 373].
 
 ### 3. For Local Communities and Municipalities
+
 *   **Establish Resource Hubs**: Convert vacant public buildings into automated Community Fabrication & Resource Hubs, replacing consumer purchasing with shared tool access.
 *   **Develop Urban Agriculture**: Transform idle public land into solar-powered hydroponic farming hubs, distributing fresh produce free to residents [399].
 
 ### 4. For Sovereign Nations and Diplomatic Leaders
+
 *   **Sponsor UN General Assembly Resolutions**: Draft and sponsor UN General Assembly resolutions authorizing Phase 1 RBE Pilot Zones under UNEP and UNCTAD supervision [233, 235, 451].
 *   **Designate National Pilot Lands**: Allocate economically depressed or post-industrial territories for Phase 1 living laboratories, immediately relieving welfare budgets and proving the RBE model [235, 360, 371].
 

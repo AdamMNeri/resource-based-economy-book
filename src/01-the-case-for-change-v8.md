@@ -202,12 +202,15 @@ When human beings are freed from financial anxiety in a Resource-Based Economy, 
 ## 1.6 Anticipated Reader Objections & Psychological Counter-Arguments
 
 ### Objection 1: "Isn't money and debt necessary to motivate human effort and prevent laziness?"
+
 *   **The Reality:** Behavioral science disproves the claim that money is the primary driver of human innovation [114, 285, 286]. Human innovation is driven by intrinsic motivators: **autonomy**, **mastery**, and **purpose**.
 
 ### Objection 2: "Can't we fix these problems through better regulation, higher taxes, and green technology?"
+
 *   **The Reality:** Regulatory reforms fail because they do not alter the underlying debt math. If a carbon tax halts economic growth, the debt-based monetary system collapses into debt-deflation and unemployment.
 
 ### Objection 3: "Isn't greed just fundamental human nature?"
+
 *   **The Reality:** Human behavior is shaped by environment. A system that threatens people with homelessness and starvation **forces people to act greedily to survive**. When basic needs are guaranteed, human behavior shifts toward collaboration [399, 400, 409-416].
 
 ---

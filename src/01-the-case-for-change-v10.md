@@ -313,15 +313,19 @@ When human beings are freed from financial anxiety in a Resource-Based Economy, 
 ## 1.6 Anticipated Reader Objections & Psychological Counter-Arguments
 
 ### Objection 1: "Isn't money and debt necessary to motivate human effort and prevent laziness?"
+
 *   **The Reality:** Behavioral science disproves the claim that money is the primary driver of human innovation [114, 285, 286]. Human innovation is driven by intrinsic motivators: **autonomy**, **mastery**, and **purpose**. Extrinsic monetary rewards actually decrease performance on complex, creative problem-solving tasks. In a Resource-Based Economy, people participate because they are intrinsically motivated by meaningful work, social contribution, and the passion for discovery.
 
 ### Objection 2: "Can't we fix these problems through better regulation, higher taxes, and green technology?"
+
 *   **The Reality:** Regulatory reforms fail because they do not alter the underlying debt math. If a carbon tax or environmental regulation successfully halts material economic growth, the debt-based monetary system collapses into debt-deflation, mass unemployment, and fiscal panic. Green capitalism is a contradiction in terms: you cannot regulate a system that requires infinite growth into ecological stability.
 
 ### Objection 3: "Isn't greed just fundamental human nature?"
+
 *   **The Reality:** Human behavior is overwhelmingly shaped by environment and conditioning. A system that threatens people with homelessness, starvation, and social irrelevance **forces people to act greedily to survive**. When basic needs are guaranteed as a birthright and resource access is open, human behavior naturally shifts toward collaboration, empathy, and mutual support [399, 400, 409-416].
 
 ### Objection 4: "If the monetary system is so deeply entrenched, how can a new paradigm ever be advanced without being shut down?"
+
 *   **The Reality:** This objection stems from a misunderstanding of how structural case-building works in institutional environments. Consider a simple workplace lesson: when an employee observes deep operational inefficiencies in a company, attempting to complain emotionally yields resistance. However, when that employee formulates a meticulous, well-articulated, bulletproof business case demonstrating exact cost savings, operational flow, and unassailable logic, management cannot legitimately reprimand them—doing so elevates the analyst as an exemplary, indispensable asset. 
 *   Formulating the case for a Resource-Based Economy operates on the exact same principle. We are not launching an emotional protest or a vague political grievance; we are constructing an unassailable, peer-reviewed, thermodynamically sound systems architecture. When the RBE thesis is presented with bulletproof clarity, backed by empirical data, thermodynamic law, and clear engineering pathways, it transcends ideological debate and commands serious evaluation by global citizenry, scientists, and international bodies.
 

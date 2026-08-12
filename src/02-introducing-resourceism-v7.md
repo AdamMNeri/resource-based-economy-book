@@ -10,6 +10,7 @@
 Having exposed the irreconcilable flaws of the debt-based monetary system in Chapter 1, we now turn to a functional, scalable alternative: the **Resource-Based Economy (RBE)**. 
 
 Far from being a utopian dream, a political dogma, or a philosophical exercise, an RBE is presented here as a **scientific methodology for planetary stewardship and human flourishing** [4, 1042]. It is an operational system designed to align human civilization with two inescapable physical realities:
+
 1. The biophysical limits and carrying capacity of a finite planet.
 2. Our immense, modern technological capability to produce abundance when freed from monetary constraints.
 
@@ -124,6 +125,7 @@ Private ownership of the means of production—land, water systems, energy grids
 In an average suburban neighborhood of 100 homes under capitalism, there are 100 gasoline lawnmowers, 100 power drills, 100 pressure washers, and 150 automobiles—each sitting idle 95%+ of their operational lifespan, deteriorating in private garages.
 
 In an RBE, neighborhoods share an automated **Community Fabrication & Resource Hub**:
+
 *   Instead of 100 fragile, low-quality consumer drills, the hub stocks 5 industrial-grade, modular drills.
 *   When a resident needs a drill, a telescope, a mountain bike, or a specialized camera, they reserve it via an app, receive it via an autonomous delivery pod, use it, and return it to the hub.
 *   Material consumption and resource extraction drop by **95%**, while citizens gain immediate access to professional-grade equipment far superior to anything they could privately afford under a monetary system.

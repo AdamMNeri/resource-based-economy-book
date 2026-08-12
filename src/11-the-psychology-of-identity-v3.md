@@ -148,6 +148,7 @@ When monetary friction is removed, these intrinsic drivers become the primary en
 In an RBE, identity is no longer static or defensive; it is dynamic, multi-dimensional, and authentic. Without the constraint of monetary career tracks, individuals are free to explore multiple passions across their lifespan. A person might spend five years focused on marine ecology restoration, transition into furniture craftsmanship and woodworking at a community Resource Hub, and later collaborate on deep-space radio astronomy projects.
 
 Identity in an RBE is defined by:
+
 *   **Craftsmanship and Quality:** Respect and recognition among peers are earned through the elegance, durability, open-source utility, and beauty of one's contributions, rather than the accumulation of personal property.
 *   **Knowledge Sharing:** Because patents, intellectual property laws, and trade secrets are eliminated, prestige is attached to teaching, mentoring, and publishing open-source solutions that benefit all of humanity.
 *   **Ecological Citizenship:** Individuals view themselves as active stewards of regional ecosystems and the planetary biosphere, measuring success by ecological health and intergenerational resilience.
@@ -157,6 +158,7 @@ Identity in an RBE is defined by:
 A central pillar of the RBE identity evolution is the integration of the **Mediocrity Principle**—a foundational scientific concept in astronomy and astrobiology. The Mediocrity Principle posits that Earth, humanity, and our solar system do not occupy a central, privileged, or miraculous position in the universe. We are one conscious species inhabiting a small rocky planet orbiting an ordinary G-type star in the Orion Spur of the Milky Way galaxy, amidst billions of galaxies in the observable universe.
 
 Grounded in this profound scientific reality, the RBE identity strips away artificial human hubris:
+
 *   **Dissolution of Tribal and National Divisions:** National borders, artificial state sovereignty, and racial/class supremacy are recognized as primitive, egoic delusions born of regional isolation and monetary resource competition.
 *   **Solar System as Common Heritage:** Space resources—asteroids, lunar regolith, and outer-system volatiles—are viewed not as corporate targets for national enclosure or private "finders keepers" exploitation, but as the common heritage of all humanity and future generations.
 *   **Cosmic Stewardship:** Recognizing our delicate, non-privileged existence fosters deep reverence for Earth's biospheric carrying capacity and instills a collective responsibility to preserve our planet while exploring the cosmos with humility and scientific rigor.

@@ -1,5 +1,6 @@
 /exports/
 /exports/*
+!/exports/Beyond-Money-Adam-Neri.epub
 .DS_Store
 generate_epub.py
 prepare_book.py

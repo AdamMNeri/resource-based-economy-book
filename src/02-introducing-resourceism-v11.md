@@ -32,7 +32,22 @@ An RBE is not presented as an infallible, static utopia or a silver-bullet dogma
 
 This foundational premise changes everything. In a monetary system, planetary resources—freshwater, topsoil, mineral deposits, forests, and the electromagnetic spectrum—are treated as unowned commodities up for grabs by private corporations or sovereign states to be monetized for private profit. In an RBE, resources are recognized as belonging equally to all humanity, present and future [4, 1052].
 
-![THE FIVE PILLARS OF RESOURCEISM](../images/c2-s1-five-pillars.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    THE FIVE PILLARS OF RESOURCEISM                      │
+│                                                                         │
+│  1. COMMON HERITAGE DECLARATION ──► Earth & extraterrestrial resources  │
+│                                     belong to all humanity [4, 1052]    │
+│  2. DIRECT UNCONDITIONED ACCESS  ──► Essentials provided free at point  │
+│                                     of use without money or debt [5]    │
+│  3. CIRCULAR HABITAT DESIGN     ──► Climate-resilient, zero-emission    │
+│                                     circular cities & smart transit     │
+│  4. INDUSTRIAL OPTIMIZATION     ──► Maximum durability, modularity,     │
+│                                     and 100% circular recycling [270]   │
+│  5. SCIENTIFIC ALLOCATION       ──► Real-time IoT data replaces market  │
+│                                     speculation & price proxies [360]   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Extraterrestrial Resources as Common Heritage and the Mediocrity Principle
 
@@ -56,7 +71,23 @@ A primary hurdle in communicating a Resource-Based Economy to a public condition
 
 To establish intellectual clarity, we must explicitly dismantle this misconception. An RBE is fundamentally distinct in origin, methodology, governance structure, and economic mechanics from any 20th-century political experiment.
 
-![20TH-CENTURY POLITICAL MODELS VS. RESOURCE-BASED ECONOMY (RBE)](../images/c2-s2-politics.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│     20TH-CENTURY POLITICAL MODELS VS. RESOURCE-BASED ECONOMY (RBE)      │
+│                                                                         │
+│   COMMUNISM / STATE SOCIALISM:                                          │
+│   • Managed Scarcity: Operates under financial/price systems & money    │
+│   • Political Central Planning: Bureaucrats "dole out" rationed goods   │
+│   • Authoritarian State Control: Coercive state owns production         │
+│   • Industrial Labor Focus: Human labor forced to fulfill state quotas │
+│   ───────────────────────────────────────────────────────────────────   │
+│   RESOURCE-BASED ECONOMY (RESOURCEISM):                                 │
+│   • Technological Abundance: Eliminates money, debt, and prices entirely│
+│   • Cybernetic Physical Allocation: Real-time IoT data matches capacity │
+│   • Borderless Common Heritage: Zero state rationing or bureaucratic rule│
+│   • Total Automation & Liberation: Machine automation frees human labor │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### 1. Money and Scarcity vs. Non-Monetary Abundance
 
@@ -92,7 +123,22 @@ Under monetary capitalism, human population centers were established historicall
 
 In an RBE, human habitats are designed with the same scientific care given to agricultural soil and watershed management: **Mindful Habitat Location and Circular City Design** [4].
 
-![THE CIRCULAR HABITAT ARCHITECTURE](../images/c2-s3-design.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                  THE CIRCULAR HABITAT ARCHITECTURE                      │
+│                                                                         │
+│   ZONE 8 (OUTER): Wilderness reserves, watersheds, & carbon sinks       │
+│   ZONE 7: Automated agricultural belts & hydro/aeroponic vertical towers│
+│   ZONE 6: Clean power generation (geothermal, solar, wind microgrids)   │
+│   ZONE 5: Automated fabrication hubs, recycling, & research labs        │
+│   ZONE 4: Community Resource Hubs, dining, culture, & medical centers   │
+│   ZONE 3: Residential Housing Rings (Quiet, solar-integrated, gardens)  │
+│   ZONE 2: Educational campuses, parks, lakes, & creative studios       │
+│   ZONE 1 (CENTER CORE): Cybernetic coordination node & Maglev terminal  │
+│                                                                         │
+│   TRANSIT: Subterranean high-speed Maglev rail & automated pods [4]     │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Siting and Circular Spatial Zoning
 
@@ -165,7 +211,24 @@ A common misconception about an RBE is that because industrial production is sci
 
 Rather than merely borrowing an individual tool for home repair, citizens frequently want access to dedicated, fully equipped specialized facilities—commonly referred to as **Community Hobby Shops and Creative Resource Centers**:
 
-![SPECIALIZED HOBBY SHOPS & CREATIVE FACILITIES](../images/c2-s5-specialized-facilities.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│             SPECIALIZED HOBBY SHOPS & CREATIVE FACILITIES               │
+│                                                                         │
+│   • WOODWORKING & CARPENTRY SHOPS: Heavy lathes, CNC routers, kilns,    │
+│     dust extraction, exotic hardwood reserves, & finishing bays.       │
+│   • ROBOTICS & ELECTRONICS LABS: Oscilloscopes, SMD soldering, 3D       │
+│   │ printers, PCB milling machines, micro-sensor inventories.           │
+│   • POTTERY & CERAMICS STUDIOS: Electric/gas kilns, pottery wheels,      │
+│     non-toxic glaze formulation stations, drying racks.                 │
+│   • HORTICULTURE & TOPIARY CENTERS: Greenhouses, grafting tools,        │
+│     rare seed banks, automated soil sensors, bonsai facilities.         │
+│   • FABRICATION & METALWORKING: TIG/MIG welding, plasma cutters,        │
+│     waterjets, metal lathes, protective gear, casting foundries.        │
+│   • MULTIMEDIA & SOUND STUDIOS: Soundproof acoustic booths, high-end    │
+│     synthesis, recording consoles, VR rendering clusters.               │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 These facilities operate under key principles that elevate human life:
 

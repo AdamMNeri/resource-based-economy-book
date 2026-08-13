@@ -23,7 +23,23 @@ This chapter presents a comprehensive breakdown of daily life and structural soc
 
 Under monetary capitalism, over **90% of all legal proceedings, law enforcement actions, and criminal offenses** are directly or indirectly linked to money, property disputes, debt collection, or financial desperation [399]:
 
-![THE FINANCIAL CRIME LANDSCAPE (MONETARY vs. RBE)](../images/c9-s1-crime-landscape.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│               THE FINANCIAL CRIME LANDSCAPE (MONETARY vs. RBE)          │
+│                                                                         │
+│   MONETARY CAPITALISM:                                                  │
+│   • Theft, robbery, burglary, & home invasions driven by poverty       │
+│   • White-collar fraud, embezzlement, tax evasion, & insider trading   │
+│   • Drug cartel violence, human trafficking, & black market smuggling   │
+│   • Patent litigation, corporate lawsuits, & mortgage foreclosures      │
+│   ───────────────────────────────────────────────────────────────────   │
+│   RESOURCE-BASED ECONOMY:                                               │
+│   • 0 Theft or Burglary: Goods are free at point of access              │
+│   • 0 Fraud or Tax Evasion: Money and taxes do not exist                │
+│   • Drug Cartels Collapse: Black markets vanish without money           │
+│   • Legal System Transformed: Shift to Restorative Community Mediation  │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### How Financial Crime Disappears
 
@@ -41,7 +57,20 @@ Without monetary contracts, debt collection, property titles, or financial crime
 
 In a monetary economy, millions of the world's sharpest, most creative minds are trapped in "bullshit jobs"—roles that exist solely to manage, enforce, or extract money within the financial matrix:
 
-![THE WORKFORCE REDIRECTION DIVIDEND](../images/c9-s2-workforce-redirection.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                   THE WORKFORCE REDIRECTION DIVIDEND                    │
+│                                                                         │
+│   OBSOLETE MONETARY ROLES REALLOCATED TO HUMAN FLOURISHING:             │
+│   • Investment bankers, stockbrokers, & hedge fund managers            │
+│   • Tax accountants, corporate auditors, & insurance claim adjusters   │
+│   • Advertising executives, telemarketers, & patent attorneys           │
+│   • Debt collectors, bank tellers, & cashier clerks                    │
+│                                                                         │
+│   REDIRECTED TO: Ecological restoration, medical research, engineering, │
+│                  fusion energy, space exploration, & fine arts [453]   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 When money is abolished, these millions of brilliant individuals are liberated from paper-pushing and financial speculation. They are free to redirect their talents toward solving real planetary challenges: curing diseases, engineering clean fusion energy, restoring topsoil, designing circular cities, and composing timeless works of art [453].
 
@@ -76,7 +105,21 @@ In a Resource-Based Economy, **political corruption is structurally impossible**
 
 The current monetary paradigm places immense strain on family life. Parents are forced to work long hours, leaving children in commercial daycare facilities, while financial stress contributes to high divorce rates and domestic friction [379].
 
-![CHILD DEVELOPMENT IN AN RBE](../images/c9-s5-reimagining-childhood.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                     CHILD DEVELOPMENT IN AN RBE                         │
+│                                                                         │
+│   MONETARY CAPITALISM DEVELOPMENT:                                      │
+│   • Conditioned by commercial ads, social status anxiety, & debt fear   │
+│   • Schooling designed as factory preparation for labor market          │
+│   • Chronic parental absence due to 50+ hour workweeks                  │
+│   ───────────────────────────────────────────────────────────────────   │
+│   RBE NATURAL DEVELOPMENT:                                              │
+│   • Raised in unconditional safety, natural curiosity, & family cohesion│
+│   • Education focused on scientific exploration, creativity, & empathy   │
+│   • Deep psychological security grounded in physical reality & ecology  │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 In an RBE, children grow up in a world whose rules make biological, ecological, and logical sense:
 
@@ -112,7 +155,23 @@ In a Resource-Based Economy, when housing, food, high-end recording booths, 5-ax
 
 To prove that a Resource-Based Economy is a practical, engineering-driven roadmap rather than an abstract ideal, we present an evidence-based timeline projection across four distinct implementation phases:
 
-![EVIDENCE-BASED TRANSITION TIMELINE (25-YEAR PLAN)](../images/c9-s7-timeline.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│               EVIDENCE-BASED TRANSITION TIMELINE (25-YEAR PLAN)          │
+│                                                                         │
+│   PHASE 0: AUDITING & TREATY DECLARATION ──────────► Years 0 ─── 3      │
+│   • Global UN Resource Audit, IoT sensor deployment, & RBE Treaty      │
+│                                                                         │
+│   PHASE 1: REGIONAL PILOT CITIES & RECLAMATION ────► Years 3 ─── 7      │
+│   • First 10 Circular Cities built; Landfill & e-waste mining begins    │
+│                                                                         │
+│   PHASE 2: CONTINENTAL SCALING & MICROGRIDS ───────► Years 7 ─── 15     │
+│   • UHVDC Global Power Grid linked; Maglev corridors connect continents  │
+│                                                                         │
+│   PHASE 3: PLANETARY INTEGRATION & MONETARY DEPRECATION ─► Years 15 ── 25  │
+│   • Final phase-out of currency; 100% planetary RBE operation           │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Milestone Projections
 

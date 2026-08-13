@@ -44,7 +44,12 @@ Pervasive IoT sensor networks, Big Data, industrial Enterprise Resource Planning
 └─────────────────────────────────────────────────────────────────────────┘
                                      │
                                      ▼
-![CYBERNETIC RESOURCE ACCOUNTING](../images/c4-s1-accounting.png)
+┌─────────────────────────────────────────────────────────────────────────┐
+│                     CYBERNETIC RESOURCE ACCOUNTING                      │
+│  • Direct physical telemetry (kWh, liters, metric tons, hectares)       │
+│  • Dynamic allocation based on human requirement & ecological carrying  │
+│  • Unified open-source global logistics (0 duplicative corporate silos) │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Modern Corporate Planning vs. The Tragic Waste of Duplicative Competition
@@ -107,7 +112,21 @@ To understand why cryptocurrency fails as a liberating force under capitalism, w
 > 2.  **Price Volatility & Transaction Fee Speculation**: Crypto transactions incur variable gas and network fees, while token prices fluctuate wildly. Speculators extract yield from price volatility—functioning identically to high-interest predatory lending by extracting value from users who need liquid tokens for transactions.  
 > 3.  **Algorithmic Scarcity vs. Physical Reality**: Like fiat central banks manipulating interest rates to enforce monetary scarcity, crypto protocols hard-code artificial token supply caps. This replicates monetary hoarding, speculative bubbles, and wealth inequality under a high-tech veneer.
 
-![BLOCKCHAIN UNDER CAPITALISM VS. RESOURCE ECONOMY](../images/c4-s2-blockchain.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│             BLOCKCHAIN UNDER CAPITALISM VS. RESOURCE ECONOMY            │
+│                                                                         │
+│   CRYPTOCURRENCY SPECULATION (CAPITALISM):                              │
+│   • Gigawatts burned on "proof-of-work" math puzzles & token minting    │
+│   • Re-creates interest mechanics via PoS yields & DeFi liquidity fees │
+│   • Wealth concentration, financial scams, and energy waste             │
+│   ───────────────────────────────────────────────────────────────────   │
+│   INTRINSIC RESOURCE LEDGERS (RESOURCE-BASED ECONOMY):                  │
+│   • Low-energy proof-of-capacity & cryptographic telemetry              │
+│   • Immutable, transparent tracking of physical material flows          │
+│   • Zero-Knowledge privacy auditing + 100% public auditability          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Zero-Knowledge Cryptographic Auditing and Repurposing Blockchain for Intrinsic Honesty
 
@@ -138,7 +157,19 @@ A key question from skeptics regarding decentralized governance is: *"How do DAO
 
 To prevent the toxic dynamics of modern social media (where "likes," "thumbs-up," and viral outrage dictate popularity), an RBE utilizes **Domain-Specific Technical Reputation Ledgers** [161].
 
-![DOMAIN-SPECIFIC REPUTATION LEDGER MECHANICS](../images/c4-s4-reputation.png)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│             DOMAIN-SPECIFIC REPUTATION LEDGER MECHANICS                 │
+│                                                                         │
+│   1. VERIFIED TECHNICAL CONTRIBUTIONS ──► Peer-reviewed design, code,   │
+│                                           engineering, or research      │
+│   2. DOMAIN-ISOLATED CREDENTIALS      ──► Expertise in hydroponics does │
+│                                           NOT grant weight in grid design│
+│   3. DECAY MECHANICS                  ──► Inactive reputation decays over│
+│                                           time to prevent entrenched rule│
+│   4. ZERO FINANCIAL INFLUENCE         ──► Tokens/wealth do not buy power│
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 *   **Domain Isolation**: A citizen's reputation score is strictly isolated to their verified domain of competence. Demonstrating high competence in agronomy or hydroponics grants technical voting weight on agricultural optimization proposals, but zero weight on electrical grid design or structural engineering.
 *   **Peer Verification & Review**: Technical credentials are earned through tangible, peer-verified contributions: designing efficient open-source code, authoring peer-reviewed ecological research, or mentoring apprentices in Community Resource Workshops.

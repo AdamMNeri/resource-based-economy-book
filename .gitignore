@@ -1,27 +1,17 @@
-# Build & Render Output
-_book/
-book/
-exports/*
-!exports/Beyond-Money-Adam-Neri.epub
-*.epub
-!Beyond-Money-Adam-Neri.epub
-*.pdf
-
-# Local Scripts & Environment Utilities
-*.py
-*.sh
-__pycache__/
+/exports/
+/exports/*
+.DS_Store
+generate_epub.py
+prepare_book.py
 server.log
-
-# Internal Agent & Workspace Records
-FEEDBACK FOR HERMES.md
+start_server.sh
+test_cover.py
+__pycache__/
+.obsidian/
 ACKs from HERMES.md
 CHAPTER_STATS.md
-REVIEW_RUNBOOK.md
-00-Book-Map-of-Content.md
-.obsidian/
-.DS_Store
-
-# Syncthing Files
-.syncthing.*
-**/.syncthing.*
+FEEDBACK FOR HERMES.md
+book/
+chapters/.archive/
+chapters/_archive/
+*.epub

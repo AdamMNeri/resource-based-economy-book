@@ -1,4 +1,4 @@
-*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[Next: Chapter 1: The Case for Change|chapters/01-the-case-for-change-v12.md]]
+*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[Next: Chapter 1: The Case for Change|chapters/01-the-case-for-change-v14.md]]
 
 # Introduction & Foreword: The Choice Before Us
 
@@ -28,23 +28,7 @@ This work explicitly rejects the victim narrative. A systems engineer does not v
 
 The crises confronting 21st-century civilization—climate instability, biodiversity loss, mental health epidemics, sovereign debt crises, and the existential risk of exponential technology coupled with competitive market incentives—are not evidence of human wickedness. They are the predictable operational outputs of a legacy economic operating system ($MV=PY$ driven by $D(t) = P_0 e^{rt}$) running on modern high-leverage hardware.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              THE CIVILIZATIONAL OPERATING SYSTEM PARADOX               │
-├─────────────────────────────────────────────────────────────────────────┤
-│ LEGACY OPERATING SYSTEM: Scarcity-based price rationing, compound debt  │
-│ growth mandates, competitive hoarding, perverse monetization.           │
-├─────────────────────────────────────────────────────────────────────────┤
-│ EXPONENTIAL HARDWARE: Planetary IoT, AI orchestration, global logistics, │
-│ precision automation, satellite telemetry, UHVDC power grids.           │
-├─────────────────────────────────────────────────────────────────────────┤
-│ RESULT: Exponential amplification of systemic friction, ecological      │
-│ overshoot, and structural instability.                                  │
-├─────────────────────────────────────────────────────────────────────────┤
-│ SOLUTION: Upgrade the Civilizational Operating System to match physical │
-│ biospheric reality—a Resource-Based Economy.                            │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![THE CIVILIZATIONAL OPERATING SYSTEM PARADOX](../images/intro-paradox.png)
 
 When we replace the victim narrative with a high-agency systems engineering perspective, the path forward becomes clear. We do not need to fight the legacy system through destructive conflict, political warfare, or utopian posturing. We simply need to design, deploy, and scale a demonstrably superior civilizational framework.
 
@@ -70,21 +54,7 @@ Traditional political revolutions rely on coercive state power, wealth confiscat
 
 The breakthrough presented in this manuscript is a **feasible, scalable, and non-confrontational transition architecture**.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               THE TRANSITION MECHANICS: SCALING & ATTRITION             │
-├─────────────────────────────────────────────────────────────────────────┤
-│ PHASE 1: UN-sanctioned Bioregional Pilot Zones (Special Economic Zones  │
-│ insulated from tax/debt, funded by debt forgiveness & SDRs).            │
-├─────────────────────────────────────────────────────────────────────────┤
-│ PROOF OF CAPACITY: Real-time IoT inventory, ZK-SNARK auditing, automated │
-│ high-standard living, zero poverty, zero crime, 100% circularity.       │
-├─────────────────────────────────────────────────────────────────────────┤
-│ SCALING VIA ATTRITION: As legacy monetary systems collapse under        │
-│ compound interest and inflation, talent, capital, and populations       │
-│ voluntarily migrate to RBE zones. The legacy engine dies from attrition. │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![THE TRANSITION MECHANICS: SCALING & ATTRITION](../images/intro-mechanics.png)
 
 Rather than attempting to overthrow legacy institutions or force a sudden global shift, this transition framework operates through **controlled bioregional scaling and systemic attrition**:
 

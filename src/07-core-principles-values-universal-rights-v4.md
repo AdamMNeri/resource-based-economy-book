@@ -27,17 +27,7 @@ This chapter establishes the constitutional backbone of an RBE: declaring uncond
 
 In a Resource-Based Economy, universal human rights are categorized into five inviolable, interconnected pillars [2, 3, 374, 1046]:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                 FIVE INVIOLABLE PILLARS OF RBE RIGHTS                   │
-│                                                                         │
-│   1. UNCONDITIONED PHYSICAL SURVIVAL  ──► Food, Housing, Water, Energy │
-│   2. COMPREHENSIVE HEALTH & CARE     ──► Preventative & Medical Care   │
-│   3. LIFELONG EDUCATION & MASTERY     ──► Unencumbered Access to Knowledge│
-│   4. GLOBAL MOBILITY & RESIDENCY      ──► Unencumbered World Travel [3]│
-│   5. FREEDOM OF CONSCIENCE & BELIEF   ──► Complete Personal Autonomy   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![FIVE INVIOLABLE PILLARS OF RBE RIGHTS](../images/c7-s1-RBE-rights.png)
 
 ### Pillar 1: Unconditioned Physical Survival
 Guaranteed, friction-free access to state-of-the-art modular housing, clean water, organic food, and clean energy. These resources are delivered through local automated Resource Hubs and smart distribution networks without income checks, means-testing, or administrative gatekeeping [2, 1046]. Survival is unconditional and permanent.
@@ -66,19 +56,7 @@ Over 90% of all criminal offenses prosecuted in monetary societies are directly 
 
 In many market nations, prisons have been privatized into profit-making enterprises—the **prison-industrial complex**. Private prison corporations contract with state governments to maintain high occupancy rates, turning human incarceration into a lucrative multi-billion-dollar industry [161]. Prisoners are used as a source of hyper-cheap labor, while the prison environment itself acts as a crime university—exposing non-violent offenders to trauma, violence, and criminal subcultures that virtually guarantee high rates of recidivism upon release.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               MONETARY CAPITALISM PUNITIVE PRISON CYCLE                 │
-│                                                                         │
-│   Economic Inequality & Scarcity ──► Property Crime & Desperation       │
-│                                           │                             │
-│                                           ▼                             │
-│   Militarized Police & Arrest ──► Incarceration & Private Prison Profit │
-│                                           │                             │
-│                                           ▼                             │
-│   Trauma & Social Stigmatization ──► High Recidivism & Repeat Crime     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![MONETARY CAPITALISM PUNITIVE PRISON CYCLE](../images/c7-s2-monetary-prison-cycle.png)
 
 ### The Elimination of Financial Crime and the RBE Safety Paradigm
 
@@ -101,29 +79,7 @@ Without the need to protect private property or collect debts, militarized polic
 
 While financial crimes vanish, human beings in any civilization may still experience interpersonal friction, emotional disputes, equipment misuse, or accidental damage. In an RBE, such conflicts are not dragged through hostile courtroom litigation with billable hours, but are resolved through compassionate, evidence-based **Restorative Mediation**.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              RBE RESTORATIVE JUSTICE & CONFLICT RESOLUTION               │
-│                                                                         │
-│   [INCIDENT / INTERPERSONAL CONFLICT / EQUIPMENT DAMAGE]                 │
-│                           │                                             │
-│                           ▼                                             │
-│   1. IMMEDIATE DE-ESCALATION & COMMUNITY SAFETY RESPONSE                │
-│      • Unarmed safety helpers secure physical safety & medical needs    │
-│                           │                                             │
-│                           ▼                                             │
-│   2. RESTORATIVE MEDIATION PANEL                                         │
-│      • Community mediators, affected parties, & psychological peers     │
-│                           │                                             │
-│                           ▼                                             │
-│   3. ROOT-CAUSE DIAGNOSTIC ASSESSMENT                                   │
-│      • Evaluation of emotional trauma, stress, or design flaws          │
-│                           │                                             │
-│                           ▼                                             │
-│   4. TAILORED HEALING, REHABILITATION & RESTORATION PLAN                │
-│      • Therapy, equipment replacement, redesign, & community repair     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![RBE RESTORATIVE JUSTICE & CONFLICT RESOLUTION](../images/c7-s3-RBE-conflict-resolution.png)
 
 ### A Concrete Scenario: Equipment Misuse & Community Mediation
 
@@ -161,22 +117,7 @@ In a Resource-Based Economy, every single one of these drivers is eradicated at 
 *   With weapon manufacturing corporations abolished, there is no profit incentive to flood communities with firearms.
 *   With comprehensive mental health support guaranteed from childhood, radical social isolation and violent psychosis are identified and healed before tragedy strikes.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                 THE TRANSFORMATION TO A WEAPONS-FREE WORLD               │
-│                                                                         │
-│   MONETARY CAPITALISM WEAPONS ENVIRONMENT:                              │
-│   • Poverty & Gang Warfare ──► Drives demand for illicit handguns      │
-│   • Corporate Profit Incentives ──► Flood communities with assault rifles  │
-│   • Ambient Fear ──► Citizens carry concealed weapons for protection     │
-│   ───────────────────────────────────────────────────────────────────   │
-│   RESOURCE-BASED ECONOMY WEAPONS-FREE ENVIRONMENT:                      │
-│   • Eradication of Scarcity ──► Eliminates theft & turf warfare          │
-│   • Zero Corporate Profit ──► Firearms manufacturing ceases               │
-│   • Guaranteed Safety ──► Citizens live without concealed weapons        │
-│   • Unarmed Safety Helpers ──► Police carry zero firearms                │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![THE TRANSFORMATION TO A WEAPONS-FREE WORLD](../images/c7-s4-weapons-free-world.png)
 
 ### Living in Comfort: A Society Without Guns
 
@@ -194,19 +135,7 @@ Throughout human history, organized religious institutions have frequently inter
 
 An RBE explicitly rejects the prohibition or banning of religious belief. **Banning belief is authoritarian, violates fundamental human autonomy, and provokes intense societal conflict.**
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              FAITH vs. SCIENTIFIC ALLOCATION SEPARATION                 │
-│                                                                         │
-│   INDIVIDUAL FREEDOM OF CONSCIENCE (Inviolable Human Right):            │
-│   • Complete freedom to practice, worship, pray, or hold any faith     │
-│   • Personal spiritual practices protected under Universal Rights       │
-│   ───────────────────────────────────────────────────────────────────   │
-│   PUBLIC RESOURCE ALLOCATION (100% Evidence-Based & Cybernetic):        │
-│   • Planetary allocation based purely on physical telemetry & IoT data  │
-│   • Zero dogmatic or faith-based interference in resource management     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![FAITH vs. SCIENTIFIC ALLOCATION SEPARATION](../images/c7-s5-allocation-separation.png)
 
 ### The Principle of Strict Insulation
 
@@ -248,17 +177,7 @@ In an RBE, resource allocation decisions are governed by physical thermodynamic 
 *   **Massive Land Restoration**: Phasing out industrial animal agriculture liberates up to **80% of global agricultural land** currently dedicated to feed crops and livestock grazing. These vast tracts are returned to natural wilderness, agroforestry, and carbon-sequestering biomes, restoring planetary biodiversity.
 *   **Ethical Wildlife Coexistence**: Wildlife corridors, automated acoustic monitoring networks, and non-invasive habitat management ensure native animal species thrive without human encroachment or corporate poaching.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              ANIMAL MANAGEMENT IN A RESOURCE-BASED ECONOMY              │
-├─────────────────────────────────────────────────────────────────────────┤
-│ INDUSTRIAL SUPPLY CHAINS: Cellular agriculture & precision fermentation │
-│ liberate 80% of farmland for wilderness rewilding and biodiversity.     │
-├─────────────────────────────────────────────────────────────────────────┤
-│ DOMESTIC PET CARE: Unconditioned access to veterinary medicine, specialized│
-│ nutrition, habitat-integrated housing, & regional pet resource hubs.   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![ANIMAL MANAGEMENT IN A RESOURCE-BASED ECONOMY](../images/c7-s7-animal-management.png)
 
 ### 2. Domestic Pets: Emotional Integration, Veterinary Access, and Residential Design
 An RBE explicitly recognizes domestic animals (dogs, cats, horses, companion animals) as emotionally significant, sentient members of human households and communities. Under monetary capitalism, pet care is constrained by financial friction: millions of families face heartbreaking decisions when unable to afford veterinary surgeries, specialized prescription diets, or pet-friendly housing deposits.

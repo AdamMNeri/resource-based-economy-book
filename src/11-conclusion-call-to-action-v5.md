@@ -33,21 +33,7 @@ Humanity is the first species on Earth capable of consciously directing its own 
 
 We face a stark binary choice [4, 377, 455]:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                       HUMANITY'S FORK IN THE ROAD                       │
-│                                                                         │
-│   PATH A: MONETARY STATUS QUO (Unconscious Collapse)                    │
-│   • Accelerating ecological depletion & topsoil loss                   │
-│   • Hyper-inequality, debt-deflation, & mass unemployment              │
-│   • Geopolitical resource wars & nuclear brinkmanship [362]             │
-│   ───────────────────────────────────────────────────────────────────   │
-│   PATH B: RESOURCE-BASED ECONOMY (Conscious Civilizational Upgrade)     │
-│   • Cybernetic planetary stewardship & ecosystem restoration            │
-│   • Complete elimination of poverty, debt, & financial crime [399]      │
-│   • Unconditioned access to abundance & universal global freedom [3]   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![HUMANITY'S FORK IN THE ROAD](../images/c11-s1-fork-in-road.png)
 
 Continuing down Path A is an act of collective suicide driven by ideological habit. Choosing Path B is an act of conscious civilizational courage—claiming our shared heritage as stewards of planet Earth.
 
@@ -57,16 +43,7 @@ Continuing down Path A is an act of collective suicide driven by ideological hab
 
 The transition to a Resource-Based Economy does not wait for traditional political parties; it begins through organized, open-source human action [377, 455].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                   CONCRETE ACTION STEPS FOR TRANSITION                  │
-│                                                                         │
-│   1. CITIZENS & ADVOCATES ──► Build open educational networks & DAOs   │
-│   2. ENGINEERS & SCIENTS ──► Develop open-source physical blueprints   │
-│   3. COMMUNITIES        ──► Establish local tool hubs & urban farms   │
-│   4. SOVEREIGN NATIONS  ──► Ratify UN General Assembly RBE Pilot Treaties│
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![CONCRETE ACTION STEPS FOR TRANSITION](../images/c11-s2-action-steps.png)
 
 ### 1. For Individual Citizens and Advocates
 

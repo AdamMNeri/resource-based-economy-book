@@ -1,4 +1,4 @@
-*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[Next: Chapter 1: The Case for Change|chapters/01-the-case-for-change-v12.md]]
+*Navigation*: [[00-Book-Map-of-Content|Map of Content]] | [[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | [[Next: Chapter 1: The Case for Change|chapters/01-the-case-for-change-v14.md]]
 
 # Introduction & Foreword: The Choice Before Us
 

@@ -2,10 +2,10 @@
 
 - [Project Overview & Status](index.md)
 - [Introduction & Foreword: The Choice Before Us](00-introduction-v1.md)
-- [Chapter 1: The Case for Change](01-the-case-for-change-v12.md)
+- [Chapter 1: The Case for Change](01-the-case-for-change-v14.md)
 - [Chapter 2: Introducing Resourceism](02-introducing-resourceism-v11.md)
 - [Chapter 3: The UN Transition Pathway](03-un-transition-pathway-v9.md)
-- [Chapter 4: Cybernetic Accounting, DAOs, and AI](04-daos-and-blockchain-v11.md)
+- [Chapter 4: Cybernetic Accounting, DAOs, and AI](04-daos-and-blockchain-v12.md)
 - [Chapter 5: Phase 1: Piloting the Transition](05-phase-1-piloting-the-transition-v6.md)
 - [Chapter 6: Phase 2: Scaling Up and Global Governance](06-phase-2-scaling-up-global-governance-v3.md)
 - [Chapter 7: Core Principles, Values, and Universal Rights](07-core-principles-values-universal-rights-v4.md)

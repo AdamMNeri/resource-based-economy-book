@@ -13,26 +13,7 @@ Phase 1 of the United Nations-facilitated transition roadmap establishes the fou
 
 This chapter details the operational mechanics of Phase 1. It outlines the criteria for site selection across diverse bioregions, the specialized roles of UN agencies such as the United Nations Environment Programme (UNEP) and the United Nations Conference on Trade and Development (UNCTAD), the social equity mechanics that immediately relieve national state welfare burdens, the conversion of legacy dual-use infrastructure and military bases into automated disaster relief and RBE fabrication hubs, the stark contrast between municipal zoning "red tape" and IoT-verified structural safety, and the localized living labs that showcase the indisputable superiority of an RBE to a watching world.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                      PHASE 1 TRANSITION ARCHITECTURE                            │
-│                                                                                 │
-│   ┌───────────────────────┐   ┌───────────────────────┐   ┌─────────────────┐   │
-│   │   UNEP BIOPHYSICAL    │   │  UNCTAD DUAL-INTERFACE│   │  SOCIAL EQUITY  │   │
-│   │   RESOURCE MAPPING    │   │   TRADE CLEARINGHOUSE │   │  WELFARE RELIEF │   │
-│   │  (IoT, LiDAR, Audits) │   │ (Shielding RBE Zone)  │   │ (Zero Poverty)  │   │
-│   └───────────┬───────────┘   └───────────┬───────────┘   └────────┬────────┘   │
-│               │                           │                        │            │
-│               └─────────────────┐         │         ┌──────────────┘            │
-│                                 ▼         ▼         ▼                           │
-│                   ┌─────────────────────────────────────────┐                   │
-│                   │      PHASE 1 EXPERIMENTAL PILOT ZONE    │                   │
-│                   │  • Circular Cities & Fabrication Hubs   │                   │
-│                   │  • Unconditioned Access to Goods        │                   │
-│                   │  • Decoupled from Legacy Debt Math      │                   │
-│                   └─────────────────────────────────────────┘                   │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![PHASE 1 TRANSITION ARCHITECTURE](../images/c5-s0-phase-1-architecture.png)
 
 ---
 
@@ -48,15 +29,7 @@ This chapter details the operational mechanics of Phase 1. It outlines the crite
 
 The selection of initial Phase 1 pilot zones is guided by scientific, diplomatic, and ecological criteria designed to test the RBE framework under diverse real-world conditions while minimizing geopolitical friction [235, 371]. Host nations volunteer territorial zones in exchange for complete UN-backed infrastructure modernization and immediate social welfare expenditure relief [360, 451].
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                     PHASE 1 BIOREGIONAL PILOT TYPOLOGIES                        │
-│                                                                                 │
-│   1. POST-INDUSTRIAL BROWNFIELDS   ──► Urban decay & manufacturing conversion    │
-│   2. DEGRADED AGRICULTURAL BASINS  ──► Soil restoration & closed-loop farming   │
-│   3. COASTAL & ISLAND ECOSYSTEMS   ──► Desalination, marine stewardship, & energy│
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![PHASE 1 BIOREGIONAL PILOT TYPOLOGIES](../images/c5-s1-pilot-topologies.png)
 
 ### 1. Host Nation Qualification & Diplomatic Protocols
 
@@ -102,15 +75,7 @@ To ensure the cybernetic accounting software and circular infrastructure framewo
 
 The United Nations Environment Programme (UNEP) serves as the primary biophysical auditing authority during Phase 1 [235, 371]. In a monetary economy, economic decisions are driven by financial price signals, interest rates, and profit margins—metrics that are completely decoupled from actual physical resource availability and biospheric carrying capacity [1060]. UNEP replaces these symbolic monetary signals with direct, real-time biophysical resource accounting [235, 371].
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                    UNEP PHASE 1 OPERATIONAL MANDATE                             │
-│                                                                                 │
-│   1. PHYSICAL RESOURCE INVENTORY  ──► LiDAR, IoT telemetry, & water auditing    │
-│   2. CARRYING CAPACITY THRESHOLDS ──► Automated extraction rate boundaries  │
-│   3. CIRCULAR BUILDING STANDARDS  ──► Modular, re-smeltable, zero-waste design  │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![UNEP PHASE 1 OPERATIONAL MANDATE](../images/c5-s2-UNEP-mandate.png)
 
 ### 1. Conducting the Physical Resource Inventory
 
@@ -126,18 +91,7 @@ Unlike monetary markets—which continue extracting resources as long as market 
 
 For example, if a community DAO within the pilot zone requests timber for a new residential housing module, the cybernetic software immediately cross-references the requested wood volume with UNEP’s real-time forest growth telemetry [235, 371]. If the request exceeds the natural annual sustainable yield of the local timber watershed, the allocation engine flags the physical deficit. It automatically proposes structural bamboo bio-composites or recycled aluminum framing—materials whose current stockpiles and recycling rates are in surplus—before any forest harvesting can occur [235, 270, 371].
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                  AUTOMATED CARRYING CAPACITY CHECK                            │
-│                                                                                 │
-│   Resource Request: Structural Timber (500 Metric Tons)                         │
-│                                                                                 │
-│   UNEP Telemetry Check: Local Forest Yield = 200 Tons/Yr Max Sustainable        │
-│                                                                                 │
-│   SYSTEM ACTION: Request Throttled ──► Alternative Suggested:                   │
-│   Structural Bamboo Bio-Composite (Stockpile Surplus: 1,200 Tons Available)     │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![AUTOMATED CARRYING CAPACITY CHECK](../images/c5-s2-automated-cc.png)
 
 ### 3. Enforcing 100% Circular Building and Industrial Guidelines via Cybernetic Lock-Outs
 
@@ -163,19 +117,7 @@ During Phase 1, participating host nations reassign these military installations
 2.  **Defense Manufacturing to Open Bio-Fabrication**: Precision weapons manufacturing plants—previously producing artillery shells, missiles, and armored vehicles—are retrofitted with civilian multi-axis CNC machinery and open-source robotics. Their engineering teams transition from designing weapons of destruction to manufacturing modular medical scanners, renewable microgrid components, and circular transit pods.
 3.  **Proving Grounds to Ecological Restoration Testbeds**: Former weapons firing ranges and bomb test sites undergo deep environmental remediation, converted into experimental soil phytoremediation laboratories and wildlife sanctuary corridors.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│             DUAL-USE MILITARY INFRASTRUCTURE CONVERSION                         │
-│                                                                                 │
-│   LEGACY MILITARY BASE / DEPOT ──► HARDENED SITE, RUNWAYS, SUPPLY WAREHOUSES   │
-│                                           │                                     │
-│                                           ▼                                     │
-│   PHASE 1 RE-ENGINEERING      ──► AUTOMATED RBE FABRICATION HUB                 │
-│                                   • Autonomous Cargo Drone Airfields            │
-│                                   • Open 3D Printing & Medical Scanner Pods     │
-│                                   • Regional Disaster Relief & Water Logistics  │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![DUAL-USE MILITARY INFRASTRUCTURE CONVERSION](../images/c5-s3-dual-use.png)
 
 ---
 
@@ -205,20 +147,7 @@ One of the most frequent practical questions raised by political economists and 
 
 The United Nations Conference on Trade and Development (UNCTAD) resolves this challenge by operating the **Dual-Interface Trade Clearinghouse** [235, 371].
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                 UNCTAD DUAL-INTERFACE TRADE CLEARINGHOUSE                       │
-│                                                                                 │
-│   RBE Pilot Zone Physical Surpluses  ──► Exported via UNCTAD Clearing           │
-│   (Green Hydrogen, Rare Minerals)            │                                  │
-│                                              ▼                                  │
-│   Monetary Markets Outside Zone     ──► Sells at World Market Prices           │
-│                                              │                                  │
-│   UN Trust Fund (Hard Currency)     ──► Buys Critical External Goods           │
-│                                              │                                  │
-│   Imported Goods Delivered Free     ──► RBE Citizens Shielded from Money        │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+![UNCTAD DUAL-INTERFACE TRADE CLEARINGHOUSE](../images/c5-s4-trade-clearinghouse.png)
 
 ### The Dual-Interface Trade Clearinghouse Mechanics
 

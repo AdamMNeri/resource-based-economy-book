@@ -13,3 +13,4 @@
 - [Chapter 9: The Human Flourishing Dividend](09-human-flourishing-dividend-v3.md)
 - [Chapter 10: The Psychology of Identity: Deconstructing the Market Self](10-the-psychology-of-identity-v5.md)
 - [Chapter 11: Mobilizing the Transition: Call to Action](11-conclusion-call-to-action-v5.md)
+- [References & Source Index](references.md)

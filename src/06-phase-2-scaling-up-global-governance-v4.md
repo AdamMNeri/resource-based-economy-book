@@ -1,6 +1,6 @@
 # Chapter 6: Phase 2: Scaling Up and Global Resource Governance
 
-*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v3|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v3|Chapter 7: Core Principles & Universal Rights →]]**  
+*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v6|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v5|Chapter 7: Core Principles & Universal Rights →]]**  
 *Tags*: #rbe-book #phase-2-scaling #global-commons #oceanic-commons #uhvdc-grids #circular-cities #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response
 
 ---
@@ -93,7 +93,7 @@ Throughout human history, language barriers have served as a major engine of cul
 ### Real-Time Neural Translation Protocols
 Every citizen traveling or participating in global design DAOs has access to lightweight, non-intrusive neural acoustic translation devices. Powered by open-source, edge-computed multilingual models, these systems translate spoken dialogue instantly with full tone, inflection, and cultural context preserved.
 
-1.  **Direct Cross-Cultural Synthesis**: In global engineering forums, UN DESA policy assemblies, or spontaneous community gatherings, hundreds of participants speaking fifty different languages communicate fluidly in real time. A Japanese engineer, a Swahili-speaking agronomist, and a Spanish marine biologist collaborate on a shared design blue-print as if speaking the exact same native tongue.
+1.  **Direct Cross-Cultural Synthesis**: In global engineering forums, UN DESA policy assemblies, or spontaneous community gatherings, hundreds of participants speaking fifty different languages communicate fluidly in real time. A Japanese engineer, a Swahili-speaking agronomist, and a Spanish marine biologist collaborate on a shared design blueprint as if speaking the same native tongue.
 2.  **Preservation of Linguistic Diversity**: Unlike imperial monetary systems that forced minority cultures to adopt dominant commercial languages (such as English or Mandarin) for basic economic survival, AI translation preserves every dialect, indigenous language, and local idiom. Languages cease to be economic barriers and remain vibrant cultural arts.
 
 ---
@@ -143,7 +143,7 @@ In Phase 2, as terrestrial population centers adapt to rising sea levels and cli
 
 ### Engineering Principles of Floating Aquatic Cities
 
-*   **Wave-Resistant Modular Structures**: Ocean cities are constructed using ultra-durable, corrosion-resistant composite materials arranged in floating concentric rings. Submerged tension-leg systems stabilize platforms against extreme oceanic storms and rogue waves.
+*   **Wave-Resistant Modular Structures**: Ocean cities are constructed using ultra-durability, corrosion-resistant composite materials arranged in floating concentric rings. Submerged tension-leg systems stabilize platforms against extreme oceanic storms and rogue waves.
 *   **Closed-Loop Hydrology & OTEC Energy**: Water is supplied via multi-stage solar desalination and Ocean Thermal Energy Conversion (OTEC) systems, which harness deep-sea thermal gradients to generate continuous clean baseload electricity 24/7.
 *   **Aquaculture & Marine Restoration**: Floating cities feature submerged vertical kelp farms, automated shellfish filtration arrays, and artificial coral reefs, transforming urban ocean habitats into active marine sanctuaries rather than industrial pollutants [4].
 
@@ -177,11 +177,3 @@ In Phase 2, this is prevented through **Cybernetic Bioregional Balance**:
 Phase 2 transforms fragmented, competing nation-states into an interconnected, border-free planetary civilization. Guided by UN DESA treaties, UNEP ecological boundaries, volcanic geothermal telemetry, real-time AI translation, epidemiological public health protocols, universal travel corridors, oceanic cities, and clean global energy grids, humanity achieves what monetary capitalism made impossible: true global peace, ecological balance, and shared abundance.
 
 ---
-
-## Agent First-Pass Validation & Revision Notes
-
-*   **Revision Target**: Upgraded Chapter 6 to Version 3 (`06-phase-2-scaling-up-global-governance-v3.md`).
-*   **Word Count & Depth Audit**:
-    - Total word count = **6,150 words (~13.6 printed pages)**.
-    - Integrated Deep-Bore Volcanic Geothermal Telemetry (East African Rift & Ring of Fire), Real-Time AI Translation for dissolving language barriers, COVID-19 pandemic response comparison in an RBE, Transcontinental Maglev journey (Tokyo to Paris in 12 hours), Oceanic Commons floating cities, and Dynamic Reservation DAOs.
-*   **Archiving & File Management**: Created `06-phase-2-scaling-up-global-governance-v3.md` in `chapters/` and moved `06-phase-2-scaling-up-global-governance-v2.md` to `chapters/_archive/`.

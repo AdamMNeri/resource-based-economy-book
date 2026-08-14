@@ -2,7 +2,7 @@ import os
 import re
 import shutil
 from datetime import datetime
-# from generate_epub import build_epub
+from generate_epub import build_epub
 
 chapters_dir = "chapters"
 src_dir = "src"
@@ -87,7 +87,6 @@ print(f"Book chapters prepared successfully for clean publishing (Revision: {now
 
 # Automatically generate EPUB export
 try:
-    # build_epub()
-    pass
+    build_epub()
 except Exception as e:
     print(f"Warning: EPUB generation encountered an error: {e}")

@@ -1,6 +1,6 @@
 # Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE
 
-*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v4|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-the-psychology-of-identity-v5|Chapter 10: Psychology of Identity →]]**  
+*Navigation*: **[[chapters/08-addressing-counter-arguments-corollary-issues-v4|← Chapter 8: Addressing Objections]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/10-the-psychology-of-identity-v6|Chapter 10: Psychology of Identity →]]**  
 *Tags*: #rbe-book #flourishing-dividend #mental-health #education #creative-liberation #corruption-eradication #child-development #science-renaissance #transition-timeline
 
 ---

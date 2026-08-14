@@ -31,15 +31,9 @@ This objection rests on two fundamental errors: conflating **human behavior** wi
 
 Modern behavioral science, neuroscience, and epigenetics conclusively prove that human behavior is profoundly plastic [114, 285]. What is commonly called "human nature" is overwhelmingly a reaction to the social environment. In a monetary system characterized by artificial scarcity, intense wealth inequality, and precarious survival, humans exhibit defensive, greedy, and competitive behaviors because the environment rewards those traits. When you place human beings in an environment built on scarcity and zero-sum competition, claiming that greed is "human nature" is like placing fish in polluted water and claiming that sickness is "fish nature."
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               THE THREE PILLARS OF INTRINSIC MOTIVATION                 │
-│                                                                         │
-│   AUTONOMY  ──► The desire to self-direct one's work and time [114, 285]│
-│   MASTERY   ──► The drive to improve skills, craft, & knowledge        │
-│   PURPOSE   ──► The psychological need to contribute to community      │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE THREE PILLARS OF INTRINSIC MOTIVATION](../images/c8-s1-intrisic-motivation.png)
+
 
 ### The Invisible Web: Cultural Conditioners of Zero-Sum Rivalry
 
@@ -61,20 +55,9 @@ A frequent, anxious objection from citizens in monetary societies is: *"What hap
 
 This fear stems from living in a system where losing financial savings means poverty, homelessness, and starvation. To ease this anxiety, the RBE transition framework utilizes an explicit **Asset Transition Strategy** based on the principle of **Guaranteed Material Superiority**.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              TRANSITION OF PRIVATE FINANCIAL ASSETS                     │
-│                                                                         │
-│   MONETARY CAPITAL ACCUMULATION (ABSTRACT SYMBOLS):                     │
-│   • Bank balances, stock portfolios, 401(k)s, bond notes                 │
-│   • Volatile, vulnerable to inflation, crashes, & medical bankruptcy   │
-│   ───────────────────────────────────────────────────────────────────   │
-│   RBE MATERIAL SUPERIORITY GUARANTEE (PHYSICAL REALITY):                │
-│   • Unconditioned access to state-of-the-art modular housing            │
-│   • World-class preventative healthcare, organic food, & clean energy  │
-│   • Zero mortgages, bills, taxes, or risk of economic ruin for life     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![TRANSITION OF PRIVATE FINANCIAL ASSETS](../images/c8-s2-assets-transition.png)
+
 
 ### Replacing Symbolic Claims with Physical Abundance
 
@@ -90,21 +73,9 @@ A subtle form of cynicism holds that: *"The current economic system is too massi
 
 History and system dynamics prove the exact opposite: **Civilizational rules are not laws of physics; they are collective social constructs.** Human beings created the rules of feudalism, monarchies, gold standards, and central banking—and human beings can change those rules the moment a critical mass of awareness realizes a superior approach exists.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                 THE PARADIGM SHIFT OF COLLECTIVE AWARENESS               │
-│                                                                         │
-│   OLD BELIEF (System Lock-In):                                          │
-│   "Monetary rules are unchangeable laws of nature."                     │
-│                           │                                             │
-│                           ▼                                             │
-│   SHIFT IN AWARENESS (Critical Mass):                                   │
-│   "Humans created these rules; we can change them anytime we choose."   │
-│                           │                                             │
-│   PHYSICAL REALIZATION:                                                 │
-│   Resource-Based Economy becomes operational reality worldwide.         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE PARADIGM SHIFT OF COLLECTIVE AWARENESS](../images/c8-s3-paradigm-shift.png)
+
 
 ### The Founding Intent to Overhaul Destructive Systems
 
@@ -120,26 +91,9 @@ It is a fascinating cultural paradox that even our most visionary science fictio
 
 In story after story, futuristic civilizations with limitless technological leverage or magical power are still depicted as slaving away for physical coins, digital credits, or commercial gold. 
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               ICONIC CURRENCIES IN POPULAR FICTION                      │
-│                                                                         │
-│   SCIENCE FICTION:                                                      │
-│   • Credits (Star Wars / Mass Effect / Blade Runner)                    │
-│   • Gold-Pressed Latinum (Star Trek Ferengi trade in post-scarcity)     │
-│   • Bottle Caps (Fallout wasteland water-backed money)                  │
-│   • Woolongs (Cowboy Bebop bounty hunter digital currency)              │
-│   • Spice Melange (Dune imperial galactic commodity standard)           │
-│   ───────────────────────────────────────────────────────────────────   │
-│   FANTASY:                                                              │
-│   • Rupees (Zelda color-coded hexagonal gems)                           │
-│   • Galleons, Sickles, Knuts (Harry Potter wizarding coinage)           │
-│   • Gil (Final Fantasy universal RPG currency)                          │
-│   • Septims (Elder Scrolls gold coins in ancient tombs)                 │
-│   • Gold Dragons, Silver Stags (Game of Thrones Westeros physical coins)│
-│   • Souls / Runes (Dark Souls / Elden Ring life essence currency)       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![ICONIC CURRENCIES IN POPULAR FICTION](../images/c8-s4-fictional-currencies.png)
+
 
 ### Breakdown of Iconic Fictional Currencies
 
@@ -173,16 +127,9 @@ However, a systemic analysis reveals a far darker reality: **the legal system is
 
 Because of the intimate, symbiotic relationship between commercial capital and government institutions, the law is not merely exploited through existing loopholes; it is **actively bought, drafted, and shaped with enormous sums of money** to benefit corporate profit margins and protect market monopolies [378].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│           THE LEGAL SYSTEM AS A COMMERCIAL ATTACK SURFACE               │
-│                                                                         │
-│   1. LOBBYING & DRAFTING ──► Corporations write legislation for profit│
-│   2. PATENT BLOCKADES    ──► Inventions locked in legal vaults         │
-│   3. "MAKE A LAW, MAKE A BUSINESS" ──► Mandated private insurance/fees │
-│   4. ASYMMETRIC LITIGATION ──► Wealthy firms drain opponents in court │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE LEGAL SYSTEM AS A COMMERCIAL ATTACK SURFACE](../images/c8-s5-legal-attack-surface.png)
+
 
 ### Mechanisms of Commercial Legal Exploitation
 
@@ -201,20 +148,9 @@ As humanity develops space travel and asteroid mining technology, corporate firm
 
 An RBE explicitly rebuts this corporate enclosure: **Asteroids, lunar reserves, Mars, and all extraterrestrial resources are an extension of the Common Heritage of All Humanity** [4, 1052].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              EXTRATERRESTRIAL COMMON HERITAGE PROTOCOL                  │
-│                                                                         │
-│   CORPORATE SPACE ENCLOSURE (Monetary Logic):                           │
-│   • "First explorer / finders keepers" private property claims         │
-│   • Corporate monopolies over asteroid metals & space habitats          │
-│   ───────────────────────────────────────────────────────────────────   │
-│   RBE COMMON HERITAGE PROTOCOL (Scientific Common Stewardship):          │
-│   • All space resources belong equally to all humanity [4, 1052]        │
-│   • Zero private claims, tokenization, or militarization of space       │
-│   • Scientific exploration conducted for shared civilizational progress │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![EXTRATERRESTRIAL COMMON HERITAGE PROTOCOL](../images/c8-s6-ET-common-heritage.png)
+
 
 Space resources cannot be privately owned, tokenized, or claimed by any corporation or nation. Asteroid mining and space exploration are conducted collectively to supply clean raw materials to global RBE manufacturing ledgers, protecting Earth’s ecosystems while expanding human scientific knowledge [4, 1052].
 
@@ -235,20 +171,9 @@ In an RBE, as global resources are managed as common heritage under the UN roadm
 
 A final, subtle objection often raised against a Resource-Based Economy is the charge of **utopianism**—the claim that any proposed socio-economic model promising an end to poverty, money, and war must be an impossible, fragile fantasy or a dogmatic ideology tied to a single design school.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              PRAGMATIC DIRECTION vs. UTOPIAN DOGMA                      │
-│                                                                         │
-│   STATIC UTOPIAN FALLACY:                                               │
-│   • Assumes a flawless, magical world with zero conflict or challenge   │
-│   • Demands total ideological compliance with a single branded vision   │
-│   ───────────────────────────────────────────────────────────────────   │
-│   DYNAMIC RBE PARADIGM:                                                 │
-│   • An evolving, evidence-based physical methodology for stewardship    │
-│   • Universal open paradigm (TVP as premier physical design baseline)   │
-│   • Demonstrably superior, life-affirming direction for human survival  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![PRAGMATIC DIRECTION vs. UTOPIAN DOGMA](../images/c8-s8-pragmatic-direction.png)
+
 
 ### Dismantling the "Utopian Silver-Bullet" Fallacy
 

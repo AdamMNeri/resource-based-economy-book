@@ -31,22 +31,9 @@ The 193 sovereign member states of the United Nations collectively encompass **v
 
 There is no alternative global entity or private organization that holds jurisdictional authority over planetary resources. For a Resource-Based Economy to move from theoretical paper blueprints to physical reality, sovereign nations must voluntarily opt in to declare their territorial resources as part of the common heritage of humanity [4, 1052]. The UN is the only existing international forum where sovereign governments assemble with legal standing to negotiate, ratify, and execute multilateral treaties of this scale.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              WHY THE UN IS THE NATURAL TRANSITION VEHICLE               │
-│                                                                         │
-│  193 UN MEMBER STATES ──► Hold jurisdiction over ~100% of Earth's land, │
-│                           freshwater, topsoil, and mineral reserves     │
-│                                        │                                │
-│                                        ▼                                │
-│  UN CHARTER ARTICLE 109 ──► Special General Conference to ratify the    │
-│                             Planetary Common Heritage Declaration       │
-│                                        │                                │
-│                                        ▼                                │
-│  MULTI-NATION OPT-IN   ──► Regional blocs & host nations pool land &    │
-│                           infrastructure without single-country burden  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![WHY THE UN IS THE NATURAL TRANSITION VEHICLE](../images/c3-s1-why-the-UN.png)
+
 
 ### 2. The UN General Assembly Article 109 Protocol for Charter Review
 
@@ -80,17 +67,9 @@ Under monetary capitalism, energy generation is severely crippled by sovereign n
 
 In an UN-facilitated RBE transition, member states utilize UN General Assembly diplomatic protocols to ratify the **Global Energy Commons Treaty**. This treaty strips energy generation of nationalistic and commercial borders, engineering global power based purely on physical geography, climate efficiency, and thermodynamic law:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│             UN-FACILITATED BORDER-FREE GLOBAL ENERGY MATRIX             │
-│                                                                         │
-│   GEOTHERMAL  ──► Concentrated along volcanic fault lines (Iceland, Rim)│
-│   SOLAR ARRAYS──► Situated in high-irradiance deserts (Sahara, Atacama) │
-│   TIDAL/WIND  ──► Offshore arrays along high-energy coastal corridors   │
-│                                                                         │
-│   GLOBAL UHVDC MICROGRID ──► Zero-loss power transmission worldwide     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![UN-FACILITATED BORDER-FREE GLOBAL ENERGY MATRIX](../images/c3-s2-energy-matrix.png)
+
 
 *   **Geothermal Volcanic Hubs**: Geothermal power plants are concentrated along major tectonic fault lines (e.g., Iceland, the East African Rift, and the Pacific Ring of Fire) where Earth's internal thermal energy is accessible with maximum thermodynamic efficiency.
 *   **High-Irradiance Desert Solar Arrays**: Industrial-scale, automated solar arrays are installed in uninhabitable high-irradiance deserts (e.g., the Sahara Desert, Atacama Desert, and Australian Outback).

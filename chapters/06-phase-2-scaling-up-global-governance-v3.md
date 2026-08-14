@@ -25,15 +25,9 @@ This chapter details the operational mechanics of Phase 2, outlining the policy 
 
 While Phase 1 operated within localized host-nation boundaries, Phase 2 requires sophisticated international legal frameworks to govern shared planetary resource pools. The United Nations Department of Economic and Social Affairs (UN DESA) leads this diplomatic transition [236, 372, 451].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                   UN DESA PHASE 2 DIPLOMATIC MANDATE                    │
-│                                                                         │
-│   1. COMMON HERITAGE TREATIES   ──► Pooling national resources [372]    │
-│   2. INTERGOVERNMENTAL POOLING  ──► Decoupling assets from currency     │
-│   3. ETHICAL EQUITY FRAMEWORKS  ──► Equal access across all cultures    │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![UN DESA PHASE 2 DIPLOMATIC MANDATE](../images/c6-s1-UN-DESA-phase-2.png)
+
 
 ### 1. Draft Global Common Heritage Treaties
 UN DESA coordinates the drafting and ratification of multilateral **Planetary Common Heritage Treaties** [236, 372]. Under these treaties, participating member states formally transfer the legal status of designated national resource reserves—freshwater aquifers, mineral deposits, forest reserves, and clean energy zones—from private/state commodities to the **shared common heritage of all humanity** [4, 236, 1052].
@@ -53,18 +47,9 @@ UN DESA enforces strict **Cultural & Ethical Equity Frameworks** ensuring that g
 
 In Phase 2, the UN Environment Programme (UNEP) expands its mandate from localized pilot assessments to **global real-time carrying-capacity monitoring** [236, 372].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               UNEP PLANETARY CARRYING-CAPACITY NETWORK                  │
-│                                                                         │
-│   Global IoT Telemetry Arrays ──► Real-Time Biosphere Monitoring        │
-│                                              │                          │
-│                                              ▼                          │
-│   Planetary Boundary Algorithms ──► Enforces Recharge Limits [236]      │
-│                                              │                          │
-│   Cybernetic Supply Integration ──► Automated Extraction Throttle       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![UNEP PLANETARY CARRYING-CAPACITY NETWORK](../images/c6-s2-planetary-cc.png)
+
 
 ### Enforcing Planetary Boundaries
 
@@ -88,18 +73,9 @@ When global industrial requests for raw materials approach a dangerous threshold
 
 A cornerstone of Phase 2 energy architecture is tapping Earth's deep thermodynamic mantle. While solar and wind power provide abundant intermittent energy, continuous planetary baseload power requires harnessing deep geothermal heat reservoirs along volcanic rift zones.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│          GEOTHERMAL VOLCANIC DRILLING & TELEMETRY NETWORK               │
-│                                                                         │
-│   East African Rift & Ring of Fire ──► Deep 10km Supercritical Wells    │
-│                                              │                          │
-│                                              ▼                          │
-│   Supercritical Thermoelectric Nodes ──► Continuous 24/7 Clean Energy   │
-│                                              │                          │
-│   Global UHVDC Mesh Grid           ──► <3% Transmission Loss/1000 Miles │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![](../images/c6-s3-geothermal-telemetry.png)
+
 
 ### Supercritical Volcanic Tapping Protocols
 Along the East African Rift System, the Pacific Ring of Fire, and the Mid-Atlantic Ridge, Phase 2 deploys deep-bore directional drilling rigs utilizing contactless plasma thermal spallation. These systems drill 5 to 10 kilometers into high-temperature rock formations, reaching supercritical geothermal fluid conditions (exceeding 400°C and 22 MPa).
@@ -128,23 +104,9 @@ To understand the profound efficiency of an RBE during a global public health cr
 
 Under monetary logic, public health decisions were perpetually trapped in a destructive tug-of-war with commercial survival. Travelers hesitated to cancel non-refundable flights and hotel reservations due to financial loss; airline and hospitality corporations lobbied governments to keep borders open to avoid corporate bankruptcy; and working parents were forced to commute into crowded workplaces while sick because missing a paycheck meant mortgage default or eviction. When vaccines were developed, national governments hoarded doses and private pharmaceutical conglomerates enforced patent monopolies, pricing developing nations out of life-saving therapeutics to protect profit margins.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              PANDEMIC RESPONSE: MONETARY VS. RESOURCE-BASED             │
-│                                                                         │
-│   MONETARY CAPITALIST PANDEMIC RESPONSE:                                │
-│   • Financial dread delays travel cancellations (sunk ticket costs)     │
-│   • Businesses lobby against lockdowns to prevent bankruptcy            │
-│   • Workers forced into danger to avoid missing paychecks               │
-│   • Vaccine hoarding & patent monopolies for profit                     │
-│   ───────────────────────────────────────────────────────────────────   │
-│   RESOURCE-BASED ECONOMY PANDEMIC RESPONSE:                             │
-│   • Zero financial friction: immediate voluntary travel pause           │
-│   • Automated logistics replace human exposure in danger zones         │
-│   • Open Health Commons instantly manufactures global therapeutics      │
-│   • Medical epidemiology dictates decisions, 100% focused on human life │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![PANDEMIC RESPONSE: MONETARY VS. RESOURCE-BASED](../images/c6-s5-pandemic-response.png)
+
 
 In a Resource-Based Economy, money is not a factor. When global health telemetry detects a novel pathogen:
 
@@ -175,15 +137,9 @@ To experience the reality of Universal Global Citizenship, step inside a transco
 
 In Phase 2, as terrestrial population centers adapt to rising sea levels and climate shifts, humanity expands into the **Oceanic Commons**—constructing self-sustaining, climate-resilient floating aquatic cities [4].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               OCEANIC COMMONS AQUATIC CITY ARCHITECTURE                 │
-│                                                                         │
-│   • FLUID DYNAMIC DESIGNS    ──► Wave-resistant circular sea platforms│
-│   • DESALINATION & ENERGY    ──► Wave-action, solar, & OTEC energy  │
-│   • DEEP OCEAN RESTORATION   ──► Vertical kelp farming & coral arks │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![OCEANIC COMMONS AQUATIC CITY ARCHITECTURE](../images/c6-s7-oceanic-comons.png)
+
 
 ### Engineering Principles of Floating Aquatic Cities
 

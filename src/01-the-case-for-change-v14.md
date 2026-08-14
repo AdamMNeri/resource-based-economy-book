@@ -47,24 +47,9 @@ Before the Industrial Revolution, there was a natural, energetic boundary to the
 
 While ancient civilizations certainly caused localized environmental damage—such as topsoil depletion in ancient Mesopotamia or deforestation on Easter Island—they physically lacked the energetic leverage to destroy global biospheric cycles. A human holding an iron axe could fell only a few trees a day; a sailing ship could transport only a finite mass of timber; and a farmer behind an ox-plow could turn only a fraction of an acre per afternoon. Nature had time to regenerate because human physical leverage was small.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│               THE HISTORICAL LEVERAGE EXPONENTIAL                       │
-│                                                                         │
-│   PRE-INDUSTRIAL ERA:                                                   │
-│   Human/Animal Muscle Power ──► Natural Boundary to Destruction         │
-│                                 (Nature Regenerates Faster Than Harm)   │
-│   ───────────────────────────────────────────────────────────────────   │
-│   POST-INDUSTRIAL & DIGITAL ERA (EXTRACTION SIDE):                      │
-│   Machine/AI/Fossil Leverage ──► 1,000,000x Physical Destructive Force  │
-│   COUPLED WITH DEBT MATH     ──► COMPOUNDING ACCELERATION TOWARD        │
-│                                  IRREVERSIBLE PLANETARY TIPPING POINTS  │
-│   ───────────────────────────────────────────────────────────────────   │
-│   DIGITAL COMMUNICATION & NETWORK ERA (SOLUTIONS SIDE):                 │
-│   Instant Global Telemetry  ──► Real-Time Resource Accounting & Neural  │
-│   AND NETWORK CONSENSUS         INFRASTRUCTURE TO REPLACE PRICE SIGNALS │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE HISTORICAL LEVERAGE EXPONENTIAL](../images/c1-s1-leverage.png)
+
 
 ### Technological Leverage as a Bidirectional Multiplier
 
@@ -95,20 +80,9 @@ At the heart of systemic instability lies a simple, startling truth: modern mone
 
 When a borrower secures a mortgage, commercial loan, or line of credit, the lending institution does not transfer pre-existing funds from vaults or depositor reserves. Instead, commercial banks expand their balance sheets by simultaneously creating a loan asset and a corresponding deposit liability, effectively generating new broad money out of credit [379, 387]. As central banks such as the Bank of England and the Federal Reserve have openly acknowledged in official publications, commercial bank credit creation represents the primary origin of circulating broad money [379].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    COMMERCIAL BANK MONEY CREATION                       │
-│                                                                         │
-│   1. Borrower signs loan agreement for $100,000                         │
-│   2. Bank enters digital credit of $100,000 into borrower account       │
-│   3. NEW MONEY IS BORN OUT OF NOTHING (~97% of money supply) [379, 387] │
-│   ───────────────────────────────────────────────────────────────────   │
-│   THE CRITICAL FLAW:                                                    │
-│   • Bank creates PRINCIPAL ($100,000)                                   │
-│   • Bank DOES NOT create INTEREST ($100,000 + $150,000 interest)        │
-│   • AGGREGATE DEBT ALWAYS EXCEEDS AGGREGATE MONEY SUPPLY [380, 388]     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![COMMERCIAL BANK MONEY CREATION](../images/c1-s2-money-creation.png)
+
 
 ### The Inescapable Math: Competing Over the Same Aggregate Pot
 
@@ -122,23 +96,9 @@ To prevent widespread default across the economy, someone else in society must c
 
 This creates an inescapable mathematical reality: **In a debt-based monetary system, total aggregate debt mathematically exceeds the total amount of money in existence** [380, 388]. 
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                  THE MONETARY SYSTEM'S SHELL GAME                       │
-│                                                                         │
-│  Bank Creates Principal Only ($P) ──► Interest ($I) Is Never Created    │
-│                                              │                          │
-│                                              ▼                          │
-│  Total National Debt ($P + $I)   ──► ALWAYS EXCEEDS Total Money ($P)    │
-│                                              │                          │
-│                                              ▼                          │
-│  Citizens Compete Over Same Pot  ──► Deficits Forced On Others          │
-│                                              │                          │
-│                                              ▼                          │
-│  New Debt Must Be Borrowed       ──► SHELL GAME REQUIRES PERPETUAL      │
-│  To Prevent Systemic Default         EXPONENTIAL GROWTH ON FINITE PLANET│
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE MONETARY SYSTEM'S SHELL GAME](../images/c1-s2-shell-game.png)
+
 
 Mechanically, this is a grand, systemic **shell game**. The money needed to pay off the total debt simply is not there. The system functions only as long as the shell game keeps moving—borrowing new money today to cover yesterday’s interest obligations. 
 
@@ -197,22 +157,9 @@ The structural flaw in money creation does not merely drive ecological destructi
 
 Statistical evidence demonstrates that rising top 1% wealth concentration is a **statistically significant predictor of systemic financial crises** [679, 690]. Analyzing 150 years of macroeconomic data across major economies reveals that as compound interest accumulates wealth at the top, lower- and middle-income households are forced to take on massive consumer debt to maintain their standard of living.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              CAUSAL CHAIN OF INEQUALITY & FINANCIAL CRISIS              │
-│                                                                         │
-│  Monetary Debt Mechanics ──► Wealth Concentrates at Top 1%              │
-│                                        │                                │
-│                                        ▼                                │
-│  Consumer Demand Drops   ──► "Saving Glut of the Rich" Accumulates      │
-│                                        │                                │
-│                                        ▼                                │
-│  Capital Avoids Real Needs──► Speculative Asset Bubbles Form [687, 709] │
-│                                        │                                │
-│                                        ▼                                │
-│  W/Y Ratio Signals Crash ──► SYSTEMIC FINANCIAL & BANKING COLLAPSE      │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![](../images/c1-s3-causal-chain.png)
+
 
 A single standard deviation increase in top 1% wealth share growth elevates the probability of a systemic banking crisis by **3 to 8 percentage points** [670, 690]. When wealth concentrates, the real economy suffers from under-consumption, while speculative capital flows into real estate and stock bubbles, inevitably leading to systemic crashes.
 
@@ -236,22 +183,9 @@ Here lies the fundamental **Health Paradox**, captured eloquently by philosopher
 
 Under monetary capitalism, what passes for "normal behavior" or "successful adjustment" is frequently a destructive maladaptation to an inherently sick system. Citizens are conditioned to accept 60-hour workweeks, chronic sleep deprivation, financial anxiety, and environmental destruction as the natural price of existence. When individuals experience anxiety or depression under these conditions, the monetary system diagnoses them with personal clinical pathology, prescribing daily pharmaceuticals to adapt them back to the workplace. In truth, their psychological distress is a natural, healthy immune response to an unnatural, predatory economic environment.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        BASELINE HUMAN SUFFERING VS. AVOIDABLE SYSTEMIC DISTRESS         │
-│                                                                         │
-│   UNAVOIDABLE BIOLOGICAL REALITIES (PERSIST IN ANY SYSTEM):             │
-│   • Genetic Conditions & Illness                                        │
-│   • Physical Accidents & Aging                                          │
-│   • Biological Death, Grief & Emotional Loss                            │
-│   ───────────────────────────────────────────────────────────────────   │
-│   AVOIDABLE MONETARY-INDUCED SUFFERING (ELIMINATED IN AN RBE):          │
-│   • Financial Anxiety & Mortgage Default Fear                           │
-│   • Poverty, Homelessness & Hunger                                      │
-│   • Medical Bankruptcy & Rationed Care                                  │
-│   • Forced Overwork, Burnout & Market Neuroses                          │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![BASELINE HUMAN SUFFERING VS. AVOIDABLE SYSTEMIC DISTRESS](../images/c1-s3-suffering.png)
+
 
 ---
 
@@ -275,19 +209,9 @@ When every individual's biological survival—their access to food, shelter, and
 
 Rather than addressing the root cause—the wage-survival mandate—the monetary paradigm responds by propping up massive regulatory "band-aid" industries. Society creates consumer protection agencies, business bureaus (such as the Better Business Bureau), licensing boards, and trade oversight bodies. While these institutions claim to protect the public, they actually serve to **reinforce and legitimize the underlying monetary system**. They erect legal frameworks that give predatory transactions a seal of compliance, while generating billion-dollar compliance and legal consultancies ("make a problem, pass a law, create a business"). They create a false illusion of consumer safety while ensuring that the core engine of wage-based extraction remains completely untouched.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│            THE GDP MULTIPLIER OF STRUCTURAL DESTRUCTION                 │
-│                                                                         │
-│   RESTORATIVE / PERMANENT ACTION      PERVERSE MONETARY INCENTIVE       │
-│   (DESTROYS REVENUE)                  (MAXIMIZES GDP GROWTH)            │
-│   ──────────────────────────          ──────────────────────────        │
-│   • Permanent Medical Cures    ──►    • Chronic Disease Management      │
-│   • High-Durability Products   ──►    • Planned Obsolescence            │
-│   • Ecosystem Restoration      ──►    • Disaster Cleanup & Reconstruction│
-│   • Automated Free Housing     ──►    • 30-Year High-Interest Mortgages │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![THE GDP MULTIPLIER OF STRUCTURAL DESTRUCTION](../images/c1-s4-gdp-multiplier.png)
+
 
 ### Catastrophes as Capitalist Correction Events
 
@@ -366,21 +290,9 @@ A fundamental structural defect of the monetary paradigm is that **it was never 
 
 Because total aggregate debt mathematically exceeds the total money in existence, the monetary engine requires continuous, exponential debt creation to avoid systemic collapse. If debt expansion stops, the system does not gently stabilize; it crashes into bank runs, foreclosures, and mass destitution. The system traps humanity on an accelerating treadmill: we must consume more biospheric capital tomorrow simply to pay off the debt issued yesterday.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              SYSTEM LOCK-IN VS. ENGINEERED EXIT STRATEGY                │
-│                                                                         │
-│   MONETARY SYSTEM LOCK-IN (NO EXIT BY DESIGN):                          │
-│   Compounding Debt Math ──► Requires Exponential Growth                 │
-│   Attempting to Pause  ──► Systemic Deflation, Panics & Collapse        │
-│   Result               ──► Forced Trajectory Toward Ecological Crash    │
-│   ───────────────────────────────────────────────────────────────────   │
-│   ENGINEERED EXIT STRATEGY (RESOURCE-BASED ECONOMY):                    │
-│   Resource Auditing    ──► Decouples Access from Monetary Debt          │
-│   Cybernetic Network   ──► Direct Thermodynamic Allocation              │
-│   Result               ──► Controlled, Peaceful Transition to Abundance │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![SYSTEM LOCK-IN VS. ENGINEERED EXIT STRATEGY](../images/c1-s6-exit-strategy.png)
+
 
 Because the monetary paradigm lacks an internal off-ramp, attempting to reform it from within is like adjusting the seatbelts on a vehicle accelerating toward a cliff. Humanity desperately needs a deliberate, engineered exit strategy—an RBE transition framework—that systematically decouples physical survival from monetary debt before biospheric tipping points force a chaotic collapse.
 

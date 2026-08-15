@@ -84,7 +84,20 @@ When an individual engages in open-source RBE case-building, local resource hub 
 ## 11.4 Synthesis: The Arc of Human Transformation Across the RBE Paradigm
 
 
-![SYNTHESIS OF THE CIVILIZATIONAL TRANSFORMATIONAL ARC](../images/c11-synthesis.png)
+```text
++-----------------------------------------------------------------------------------------+
+|                  THE CIVILIZATIONAL TRANSFORMATIONAL ARC (CH 1-11)                      |
++-----------------------------------------------------------------------------------------+
+| PHASE              | FOCUS               | MONETARY PARADIGM      | RBE PARADIGM        |
++--------------------+---------------------+------------------------+---------------------+
+| 1. DECONSTRUCTION  | Ch 1-2: The Engine  | Debt & Scarcity        | Physical Abundance  |
+| 2. TRANSITION PATH | Ch 3-6: UN Roadmap  | Geopolitical Friction  | Open Pilot Zones    |
+| 3. CORE PRINCIPLES | Ch 7-8: Law & Logic | Punitive / Legalistic  | Preventative Design |
+| 4. THE DIVIDEND    | Ch 9: Flourishing   | Status / Wage Labor    | Human Mastery       |
+| 5. INTERNAL SHIFT  | Ch 10: Psychology   | Manufactured Ego       | Cosmic Humility     |
+| 6. FINAL ACTION    | Ch 11: Mobilization | Learned Helplessness   | Conscious Architect |
++--------------------+---------------------+------------------------+---------------------+
+```
 
 
 ---

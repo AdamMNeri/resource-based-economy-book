@@ -116,6 +116,15 @@ def build_epub():
             if m:
                 stripped = stripped[:m.start()]
                 break
+        
+        # Strip Navigation and Tags lines (often at the top of chapters)
+        stripped = re.sub(r'(?im)^\s*[\*_]*Navigation[\*_]*:.*?\n', '', stripped)
+        stripped = re.sub(r'(?im)^\s*[\*_]*Tags[\*_]*:.*?\n', '', stripped)
+        
+        # Strip raw Obsidian tag lines (e.g. "#introduction #foreword")
+        # This regex ensures we don't accidentally strip H1 headers (which have a space like "# Header")
+        stripped = re.sub(r'(?m)^\s*(#[a-zA-Z0-9_-]+(?:\s+#[a-zA-Z0-9_-]+)*)\s*\n', '', stripped)
+        
         stripped = stripped.replace("../images/", "images/")
         temp_path = os.path.join(src_dir, f'temp_epub_{filename}')
         with open(temp_path, 'w') as f:

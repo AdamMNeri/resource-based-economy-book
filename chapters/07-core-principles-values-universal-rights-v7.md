@@ -260,12 +260,3 @@ With the legal rights and ethical bedrock established, we now turn directly to t
 In Chapter 8, we systematically dismantle these objections: **Addressing Counter-Arguments, Objections, and Corollary Issues**, steel-manning cybernetic allocation, motivation dynamics, and the commercial attack surface of legacy jurisprudence.
 
 ---
-
-## Agent First-Pass Validation & Revision Notes
-
-
-* **Structural Integrity Check:** Upgraded Chapter 7 to Version 7 (`07-core-principles-values-universal-rights-v7.md`).
-* **Rights of Marine Ecosystems & Planetary Ethics Integration:**
-    - Expanded Section 7.6 ("Code of Planetary Ethics: Universal Rights of Ecosystems and the Oceanic Commons") to establish the inviolable rights of oceanic biomes, marine sanctuaries, cetacean acoustic zones, and international aquatic commons alongside human civil rights.
-* **Navigation Synchronization:** Updated navigation forward pointer to point cleanly to `08-addressing-counter-arguments-corollary-issues-v5.md`.
-* **Word Count & Page Count:** ~6,400 words (~14.2 printed pages), maintaining landmark depth, guided visualizations, active prose, and rigorous citation mapping.

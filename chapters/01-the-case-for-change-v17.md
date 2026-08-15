@@ -362,13 +362,3 @@ This structural warping of identity is the psychological engine that sustains th
 The crises tearing at human civilization—deepening inequality, mental health epidemics, ecological collapse, healthcare degradation, and military strife—are not isolated mishaps. They are the predictable, mathematically guaranteed outputs of a debt-based monetary engine paired with exponential technological leverage. To secure human survival before the clock runs out, we must replace the engine itself with a Resource-Based Economy.
 
 ---
-
-## Agent First-Pass Validation & Revision Notes
-
-
-* **Structural Integrity Check:** Upgraded Chapter 1 to Version 17 (`01-the-case-for-change-v17.md`).
-* **Healthcare Systems Architecture & Systems Architect Critique:**
-    - Expanded Section 1.4 ("The Healthcare Paradox: Disease Management vs. Cures and Rube Goldberg Bureaucracy") to deeply contrast the complicated Rube Goldberg reality of modern insurance claims, prior authorizations, ICD/CPT coding matrices, and catastrophe insurance deductibles with the elegant complexity of open-source clinical blueprints, preventative IoT biometrics, and automated therapeutic synthesis hubs.
-    - Weaved concrete lived-experience examples of administrative duplication, coerced institutional clinical choices, and wasted caregiver talent vs. seamless RBE clinical collaboration.
-* **Navigation Synchronization:** Updated navigation forward pointer to point cleanly to `02-introducing-resourceism-v13.md`.
-* **Word Count & Page Count:** ~7,200 words (~16 printed pages), maintaining landmark depth, guided visualizations, active prose, and rigorous citation mapping.

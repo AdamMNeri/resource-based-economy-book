@@ -286,20 +286,3 @@ With the foundational mechanics of Resourceism clearly defined, the vital operat
 In Chapter 3, we turn directly to the diplomatic and institutional bridge: **The UN Transition Pathway**, detailing how existing international legal instruments, Article 109 review conferences, and sovereign debt off-ramps establish the legal foundation for planetary pilot zones.
 
 ---
-
-## Agent First-Pass Validation & Revision Notes
-
-
-
-*   **Revision Target**: Upgraded Chapter 2 to Version 13 (`02-introducing-resourceism-v13.md`).
-*   **Systems Architecture & Complicated vs. Complex Integration**:
-    - Embedded the systems architect lens and the complicated vs. complex distinction into Section 2.0 (contrasting Rube Goldberg market/bureaucratic mechanisms with self-regulating cybernetic organic complexity).
-    - Weaved the motif into Section 2.2 (contrasting the complicated Gosplan state committee planning with cybernetic IoT resource accounting).
-*   **Mediocrity Principle & Cosmic Humility Grounding**:
-    - Refined Section 2.1 to emphasize non-teleological, biophysical systems alignment in space exploration, explicitly avoiding human-exceptionalist or colonial framing.
-*   **Suburban Garage Scarcity Trap & Tool Maintenance Debt**: Preserved and structured Section 2.5 detailing garage hoarding vs on-demand community access.
-*   **Seamless Rolling Transition to Chapter 3**:
-    - Polished the closing paragraphs of Section 2.7 and the Conclusion to build an immediate, natural narrative handoff to Chapter 3's UN Transition Pathway and Article 109 diplomatic mechanics.
-*   **Word Count & Depth Audit**:
-    - Total word count = **~5,050 words (~11.2 printed pages)**, maintaining landmark depth, guided visualizations, active prose, and complete citation integrity.
-*   **Navigation & Archiving**: Updated Chapter 1 and Chapter 2 navigation links, created `02-introducing-resourceism-v13.md` in `chapters/`, and moved `02-introducing-resourceism-v12.md` to `chapters/.archive/`.

@@ -213,14 +213,3 @@ With global physical logistics and international governance operating in equilib
 In Chapter 7, we explore the ethical bedrock: **Core Principles, Values, and Universal Rights**, examining Restorative Justice Councils, the elimination of 90%+ of crime, animal stewardship, and the natural irrelevance of firearms.
 
 ---
-
-## Agent First-Pass Validation & Revision Notes
-
-
-* **Structural Integrity Check:** Upgraded Chapter 6 to Version 6 (`06-phase-2-scaling-up-global-governance-v6.md`).
-* **Oceanic Commons & Floating Habitats Integration:**
-    - Deeply expanded Section 6.7 ("Oceanic Commons & Floating Aquatic Cities") to detail the legal and diplomatic transition under UNCLOS and UN Charter Article 109, dissolving EEZs, deep-sea mining, and commercial bottom-trawling into shared aquatic sanctuaries.
-    - Added comprehensive engineering logistics (basalt composites, OTEC thermal baseload energy, tension-leg wave attenuation, submerged kelp permaculture).
-    - Authored a vivid "Day in the Life" guided narrative illustrating everyday existence, marine research, and community life in an offshore floating habitat.
-* **Navigation Synchronization:** Updated navigation forward pointer to point cleanly to `07-core-principles-values-universal-rights-v7.md` or `v7`.
-* **Word Count & Page Count:** ~5,100 words (~11.3 printed pages), maintaining landmark depth, guided visualizations, active prose, and rigorous citation mapping.

@@ -27,7 +27,7 @@ This chapter details the operational mechanics of Phase 2, outlining the policy 
 While Phase 1 operated within localized host-nation boundaries, Phase 2 requires sophisticated international legal frameworks to govern shared planetary resource pools. The United Nations Department of Economic and Social Affairs (UN DESA) leads this diplomatic transition [236, 372, 451].
 
 
-![UN DESA PHASE 2 DIPLOMATIC MANDATE](../images/c6-s1-UN-DESA-phase-2.png)
+![UN DESA PHASE 2 DIPLOMATIC MANDATE](../images/c6-UN-DESA-phase-2.png)
 
 
 ### 1. Draft Global Common Heritage Treaties
@@ -50,7 +50,7 @@ UN DESA enforces strict **Cultural & Ethical Equity Frameworks** ensuring that g
 In Phase 2, the UN Environment Programme (UNEP) expands its mandate from localized pilot assessments to **global real-time carrying-capacity monitoring** [236, 372].
 
 
-![UNEP PLANETARY CARRYING-CAPACITY NETWORK](../images/c6-s2-planetary-cc.png)
+![UNEP PLANETARY CARRYING-CAPACITY NETWORK](../images/c6-planetary-cc.png)
 
 
 ### Enforcing Planetary Boundaries
@@ -77,7 +77,7 @@ When global industrial requests for raw materials approach a dangerous threshold
 A cornerstone of Phase 2 energy architecture is tapping Earth's deep thermodynamic mantle. While solar and wind power provide abundant intermittent energy, continuous planetary baseload power requires harnessing deep geothermal heat reservoirs along volcanic rift zones.
 
 
-![](../images/c6-s3-geothermal-telemetry.png)
+![](../images/c6-geothermal-telemetry.png)
 
 
 ### Supercritical Volcanic Tapping Protocols
@@ -110,7 +110,7 @@ To understand the profound efficiency of an RBE during a global public health cr
 Under monetary logic, public health decisions were perpetually trapped in a destructive tug-of-war with commercial survival. Travelers hesitated to cancel non-refundable flights and hotel reservations due to financial loss; airline and hospitality corporations lobbied governments to keep borders open to avoid corporate bankruptcy; and working parents were forced to commute into crowded workplaces while sick because missing a paycheck meant mortgage default or eviction. When vaccines were developed, national governments hoarded doses and private pharmaceutical conglomerates enforced patent monopolies, pricing developing nations out of life-saving therapeutics to protect profit margins.
 
 
-![PANDEMIC RESPONSE: MONETARY VS. RESOURCE-BASED](../images/c6-s5-pandemic-response.png)
+![PANDEMIC RESPONSE: MONETARY VS. RESOURCE-BASED](../images/c6-pandemic-response.png)
 
 
 In a Resource-Based Economy, money is not a factor. When global health telemetry detects a novel pathogen:
@@ -146,7 +146,7 @@ To experience the reality of Universal Global Citizenship, step inside a transco
 In Phase 2, as terrestrial population centers adapt to rising sea levels and climate shifts, humanity expands into the **Oceanic Commons**—constructing self-sustaining, climate-resilient floating aquatic cities [4].
 
 
-![OCEANIC COMMONS AQUATIC CITY ARCHITECTURE](../images/c6-s7-oceanic-comons.png)
+![OCEANIC COMMONS AQUATIC CITY ARCHITECTURE](../images/c6-oceanic-comons.png)
 
 
 ### Engineering Principles of Floating Aquatic Cities

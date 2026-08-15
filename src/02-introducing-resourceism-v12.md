@@ -33,7 +33,7 @@ An RBE is not presented as an infallible, static utopia or a silver-bullet dogma
 This foundational premise changes everything. In a monetary system, planetary resources—freshwater, topsoil, mineral deposits, forests, and the electromagnetic spectrum—are treated as unowned commodities up for grabs by private corporations or sovereign states to be monetized for private profit. In an RBE, resources are recognized as belonging equally to all humanity, present and future [4, 1052].
 
 
-![THE FIVE PILLARS OF RESOURCEISM](../images/c2-s1-five-pillars.png)
+![THE FIVE PILLARS OF RESOURCEISM](../images/c2-five-pillars.png)
 
 
 ### Extraterrestrial Resources as Common Heritage and the Mediocrity Principle
@@ -59,7 +59,7 @@ A primary hurdle in communicating a Resource-Based Economy to a public condition
 To establish intellectual clarity, we must explicitly dismantle this misconception. An RBE is fundamentally distinct in origin, methodology, governance structure, and economic mechanics from any 20th-century political experiment.
 
 
-![](../images/c2-s2-politics.png)
+![](../images/c2-politics.png)
 
 
 ### 1. Money and Scarcity vs. Non-Monetary Abundance
@@ -97,7 +97,7 @@ Under monetary capitalism, human population centers were established historicall
 In an RBE, human habitats are designed with the same scientific care given to agricultural soil and watershed management: **Mindful Habitat Location and Circular City Design** [4].
 
 
-![THE CIRCULAR HABITAT ARCHITECTURE](../images/c2-s3-design.png)
+![THE CIRCULAR HABITAT ARCHITECTURE](../images/c2-design.png)
 
 
 ### Siting and Circular Spatial Zoning
@@ -201,7 +201,7 @@ A common misconception about an RBE is that because industrial production is sci
 Rather than merely borrowing an individual tool for home repair, citizens frequently want access to dedicated, fully equipped specialized facilities—commonly referred to as **Community Hobby Shops and Creative Resource Centers**:
 
 
-![](../images/c2-s5-specialized-facilities.png)
+![](../images/c2-specialized-facilities.png)
 
 
 These facilities operate under key principles that elevate human life:

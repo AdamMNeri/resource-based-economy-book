@@ -14,7 +14,7 @@ Phase 1 of the United Nations-facilitated transition roadmap establishes the fou
 This chapter details the operational mechanics of Phase 1. It outlines the criteria for site selection across diverse bioregions, the specialized roles of UN agencies such as the United Nations Environment Programme (UNEP) and the United Nations Conference on Trade and Development (UNCTAD), the social equity mechanics that immediately relieve national state welfare burdens, the conversion of legacy dual-use infrastructure and military bases into automated disaster relief and RBE fabrication hubs, the stark contrast between municipal zoning "red tape" and IoT-verified structural safety, and the localized living labs that showcase the indisputable superiority of an RBE to a watching world.
 
 
-![PHASE 1 TRANSITION ARCHITECTURE](../images/c5-s0-phase-1-architecture.png)
+![PHASE 1 TRANSITION ARCHITECTURE](../images/c5-phase-1-architecture.png)
 
 
 ---
@@ -33,7 +33,7 @@ This chapter details the operational mechanics of Phase 1. It outlines the crite
 The selection of initial Phase 1 pilot zones is guided by scientific, diplomatic, and ecological criteria designed to test the RBE framework under diverse real-world conditions while minimizing geopolitical friction [235, 371]. Host nations volunteer territorial zones in exchange for complete UN-backed infrastructure modernization and immediate social welfare expenditure relief [360, 451].
 
 
-![PHASE 1 BIOREGIONAL PILOT TYPOLOGIES](../images/c5-s1-pilot-topologies.png)
+![PHASE 1 BIOREGIONAL PILOT TYPOLOGIES](../images/c5-pilot-topologies.png)
 
 
 ### 1. Host Nation Qualification & Diplomatic Protocols
@@ -86,7 +86,7 @@ To ensure the cybernetic accounting software and circular infrastructure framewo
 The United Nations Environment Programme (UNEP) serves as the primary biophysical auditing authority during Phase 1 [235, 371]. In a monetary economy, economic decisions are driven by financial price signals, interest rates, and profit margins—metrics that are completely decoupled from actual physical resource availability and biospheric carrying capacity [1060]. UNEP replaces these symbolic monetary signals with direct, real-time biophysical resource accounting [235, 371].
 
 
-![UNEP PHASE 1 OPERATIONAL MANDATE](../images/c5-s2-UNEP-mandate.png)
+![UNEP PHASE 1 OPERATIONAL MANDATE](../images/c5-UNEP-mandate.png)
 
 
 ### 1. Conducting the Physical Resource Inventory
@@ -105,7 +105,7 @@ Unlike monetary markets—which continue extracting resources as long as market 
 For example, if a community DAO within the pilot zone requests timber for a new residential housing module, the cybernetic software immediately cross-references the requested wood volume with UNEP’s real-time forest growth telemetry [235, 371]. If the request exceeds the natural annual sustainable yield of the local timber watershed, the allocation engine flags the physical deficit. It automatically proposes structural bamboo bio-composites or recycled aluminum framing—materials whose current stockpiles and recycling rates are in surplus—before any forest harvesting can occur [235, 270, 371].
 
 
-![AUTOMATED CARRYING CAPACITY CHECK](../images/c5-s2-automated-cc.png)
+![AUTOMATED CARRYING CAPACITY CHECK](../images/c5-automated-cc.png)
 
 
 ### 3. Enforcing 100% Circular Building and Industrial Guidelines via Cybernetic Lock-Outs
@@ -135,7 +135,7 @@ During Phase 1, participating host nations reassign these military installations
 3.  **Proving Grounds to Ecological Restoration Testbeds**: Former weapons firing ranges and bomb test sites undergo deep environmental remediation, converted into experimental soil phytoremediation laboratories and wildlife sanctuary corridors.
 
 
-![DUAL-USE MILITARY INFRASTRUCTURE CONVERSION](../images/c5-s3-dual-use.png)
+![DUAL-USE MILITARY INFRASTRUCTURE CONVERSION](../images/c5-dual-use.png)
 
 
 ---
@@ -169,7 +169,7 @@ One of the most frequent practical questions raised by political economists and 
 The United Nations Conference on Trade and Development (UNCTAD) resolves this challenge by operating the **Dual-Interface Trade Clearinghouse** [235, 371].
 
 
-![UNCTAD DUAL-INTERFACE TRADE CLEARINGHOUSE](../images/c5-s4-trade-clearinghouse.png)
+![UNCTAD DUAL-INTERFACE TRADE CLEARINGHOUSE](../images/c5-trade-clearinghouse.png)
 
 
 ### The Dual-Interface Trade Clearinghouse Mechanics

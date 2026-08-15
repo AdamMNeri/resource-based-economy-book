@@ -25,7 +25,7 @@ This chapter presents a comprehensive breakdown of daily life and structural soc
 Under monetary capitalism, over **90% of all legal proceedings, law enforcement actions, and criminal offenses** are directly or indirectly linked to money, property disputes, debt collection, or financial desperation [399]:
 
 
-![](../images/c9-s1-crime-landscape.png)
+![](../images/c9-crime-landscape.png)
 
 
 ### How Financial Crime Disappears
@@ -46,7 +46,7 @@ Without monetary contracts, debt collection, property titles, or financial crime
 In a monetary economy, millions of the world's sharpest, most creative minds are trapped in "bullshit jobs"—roles that exist solely to manage, enforce, or extract money within the financial matrix:
 
 
-![THE WORKFORCE REDIRECTION DIVIDEND](../images/c9-s2-workforce-redirection.png)
+![THE WORKFORCE REDIRECTION DIVIDEND](../images/c9-workforce-redirection.png)
 
 
 When money is abolished, these millions of brilliant individuals are liberated from paper-pushing and financial speculation. They are free to redirect their talents toward solving real planetary challenges: curing diseases, engineering clean fusion energy, restoring topsoil, designing circular cities, and composing timeless works of art [453].
@@ -85,7 +85,7 @@ In a Resource-Based Economy, **political corruption is structurally impossible**
 The current monetary paradigm places immense strain on family life. Parents are forced to work long hours, leaving children in commercial daycare facilities, while financial stress contributes to high divorce rates and domestic friction [379].
 
 
-![CHILD DEVELOPMENT IN AN RBE](../images/c9-s5-reimagining-childhood.png)
+![CHILD DEVELOPMENT IN AN RBE](../images/c9-reimagining-childhood.png)
 
 
 In an RBE, children grow up in a world whose rules make biological, ecological, and logical sense:
@@ -126,7 +126,7 @@ In a Resource-Based Economy, when housing, food, high-end recording booths, 5-ax
 To prove that a Resource-Based Economy is a practical, engineering-driven roadmap rather than an abstract ideal, we present an evidence-based timeline projection across four distinct implementation phases:
 
 
-![](../images/c9-s7-timeline.png)
+![](../images/c9-timeline.png)
 
 
 ### Milestone Projections

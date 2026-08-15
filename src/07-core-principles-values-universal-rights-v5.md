@@ -28,7 +28,7 @@ This chapter establishes the constitutional backbone of an RBE: declaring uncond
 In a Resource-Based Economy, universal human rights are categorized into five inviolable, interconnected pillars [2, 3, 374, 1046]:
 
 
-![FIVE INVIOLABLE PILLARS OF RBE RIGHTS](../images/c7-s1-RBE-rights.png)
+![FIVE INVIOLABLE PILLARS OF RBE RIGHTS](../images/c7-RBE-rights.png)
 
 
 ### Pillar 1: Unconditioned Physical Survival
@@ -61,7 +61,7 @@ An empirical examination of civil and criminal court dockets across monetary nat
 3.  **The Prison-Industrial Complex as a Monetized Industry**: Rather than healing social trauma or addressing the structural poverty driving crime, capitalist societies have privatized incarceration into a lucrative multi-billion-dollar market. Private correctional monopolies lobby for mandatory minimum sentences and high bed-occupancy guarantees, turning human caging into corporate revenue and treating prisoners as hyper-cheap captive labor [161]. The punitive prison environment acts as an institutional trauma chamber—reinforcing anti-social subcultures and virtually guaranteeing high rates of recidivism.
 
 
-![MONETARY CAPITALISM PUNITIVE PRISON CYCLE](../images/c7-s2-monetary-prison-cycle.png)
+![MONETARY CAPITALISM PUNITIVE PRISON CYCLE](../images/c7-monetary-prison-cycle.png)
 
 
 ### Dismantling the "Inherent Criminality" Fallacy
@@ -96,7 +96,7 @@ Without the systemic requirement to protect private property deeds, manage pover
 While financial crimes vanish, human beings in any civilization may still experience interpersonal friction, emotional disputes, equipment misuse, or accidental damage. In an RBE, such conflicts are not dragged through hostile courtroom litigation with billable hours, but are resolved through compassionate, evidence-based **Restorative Mediation**.
 
 
-![](../images/c7-s3-RBE-conflict-resolution.png)
+![](../images/c7-RBE-conflict-resolution.png)
 
 
 ### A Concrete Scenario: Equipment Misuse & Community Mediation
@@ -136,7 +136,7 @@ In a Resource-Based Economy, every single one of these drivers is eradicated at 
 *   With comprehensive mental health support guaranteed from childhood, radical social isolation and violent psychosis are identified and healed before tragedy strikes.
 
 
-![THE TRANSFORMATION TO A WEAPONS-FREE WORLD](../images/c7-s4-weapons-free-world.png)
+![THE TRANSFORMATION TO A WEAPONS-FREE WORLD](../images/c7-weapons-free-world.png)
 
 
 ### Living in Comfort: A Society Without Guns
@@ -156,7 +156,7 @@ Throughout human history, organized religious institutions have frequently inter
 An RBE explicitly rejects the prohibition or banning of religious belief. **Banning belief is authoritarian, violates fundamental human autonomy, and provokes intense societal conflict.**
 
 
-![FAITH vs. SCIENTIFIC ALLOCATION SEPARATION](../images/c7-s5-allocation-separation.png)
+![FAITH vs. SCIENTIFIC ALLOCATION SEPARATION](../images/c7-allocation-separation.png)
 
 
 ### The Principle of Strict Insulation
@@ -200,7 +200,7 @@ In an RBE, resource allocation decisions are governed by physical thermodynamic 
 *   **Ethical Wildlife Coexistence**: Wildlife corridors, automated acoustic monitoring networks, and non-invasive habitat management ensure native animal species thrive without human encroachment or corporate poaching.
 
 
-![ANIMAL MANAGEMENT IN A RESOURCE-BASED ECONOMY](../images/c7-s7-animal-management.png)
+![ANIMAL MANAGEMENT IN A RESOURCE-BASED ECONOMY](../images/c7-animal-management.png)
 
 
 ### 2. Domestic Pets: Emotional Integration, Veterinary Access, and Residential Design

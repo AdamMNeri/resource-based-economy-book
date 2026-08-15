@@ -33,7 +33,7 @@ This objection rests on two fundamental errors: conflating **human behavior** wi
 Modern behavioral science, neuroscience, and epigenetics conclusively prove that human behavior is profoundly plastic [114, 285]. What is commonly called "human nature" is overwhelmingly a reaction to the social environment. In a monetary system characterized by artificial scarcity, intense wealth inequality, and precarious survival, humans exhibit defensive, greedy, and competitive behaviors because the environment rewards those traits. When you place human beings in an environment built on scarcity and zero-sum competition, claiming that greed is "human nature" is like placing fish in polluted water and claiming that sickness is "fish nature."
 
 
-![THE THREE PILLARS OF INTRINSIC MOTIVATION](../images/c8-s1-intrisic-motivation.png)
+![THE THREE PILLARS OF INTRINSIC MOTIVATION](../images/c8-intrisic-motivation.png)
 
 
 ### The Invisible Web: Cultural Conditioners of Zero-Sum Rivalry
@@ -58,7 +58,7 @@ A frequent, anxious objection from citizens in monetary societies is: *"What hap
 This fear stems from living in a system where losing financial savings means poverty, homelessness, and starvation. To ease this anxiety, the RBE transition framework utilizes an explicit **Asset Transition Strategy** based on the principle of **Guaranteed Material Superiority**.
 
 
-![TRANSITION OF PRIVATE FINANCIAL ASSETS](../images/c8-s2-assets-transition.png)
+![TRANSITION OF PRIVATE FINANCIAL ASSETS](../images/c8-assets-transition.png)
 
 
 ### Replacing Symbolic Claims with Physical Abundance
@@ -77,7 +77,7 @@ A subtle form of cynicism holds that: *"The current economic system is too massi
 History and system dynamics prove the exact opposite: **Civilizational rules are not laws of physics; they are collective social constructs.** Human beings created the rules of feudalism, monarchies, gold standards, and central banking—and human beings can change those rules the moment a critical mass of awareness realizes a superior approach exists.
 
 
-![THE PARADIGM SHIFT OF COLLECTIVE AWARENESS](../images/c8-s3-paradigm-shift.png)
+![THE PARADIGM SHIFT OF COLLECTIVE AWARENESS](../images/c8-paradigm-shift.png)
 
 
 ### The Founding Intent to Overhaul Destructive Systems
@@ -95,7 +95,7 @@ It is a fascinating cultural paradox that even our most visionary science fictio
 In story after story, futuristic civilizations with limitless technological leverage or magical power are still depicted as slaving away for physical coins, digital credits, or commercial gold. 
 
 
-![ICONIC CURRENCIES IN POPULAR FICTION](../images/c8-s4-fictional-currencies.png)
+![ICONIC CURRENCIES IN POPULAR FICTION](../images/c8-fictional-currencies.png)
 
 
 ### Breakdown of Iconic Fictional Currencies
@@ -132,7 +132,7 @@ However, a systemic analysis reveals a far darker reality: **the legal system is
 Because of the intimate, symbiotic relationship between commercial capital and government institutions, the law is not merely exploited through existing loopholes; it is **actively bought, drafted, and shaped with enormous sums of money** to benefit corporate profit margins and protect market monopolies [378].
 
 
-![THE LEGAL SYSTEM AS A COMMERCIAL ATTACK SURFACE](../images/c8-s5-legal-attack-surface.png)
+![THE LEGAL SYSTEM AS A COMMERCIAL ATTACK SURFACE](../images/c8-legal-attack-surface.png)
 
 
 ### Mechanisms of Commercial Legal Exploitation
@@ -154,7 +154,7 @@ As humanity develops space travel and asteroid mining technology, corporate firm
 An RBE explicitly rebuts this corporate enclosure: **Asteroids, lunar reserves, Mars, and all extraterrestrial resources are an extension of the Common Heritage of All Humanity** [4, 1052].
 
 
-![EXTRATERRESTRIAL COMMON HERITAGE PROTOCOL](../images/c8-s6-ET-common-heritage.png)
+![EXTRATERRESTRIAL COMMON HERITAGE PROTOCOL](../images/c8-ET-common-heritage.png)
 
 
 Space resources cannot be privately owned, tokenized, or claimed by any corporation or nation. Asteroid mining and space exploration are conducted collectively to supply clean raw materials to global RBE manufacturing ledgers, protecting Earth’s ecosystems while expanding human scientific knowledge [4, 1052].
@@ -178,7 +178,7 @@ In an RBE, as global resources are managed as common heritage under the UN roadm
 A final, subtle objection often raised against a Resource-Based Economy is the charge of **utopianism**—the claim that any proposed socio-economic model promising an end to poverty, money, and war must be an impossible, fragile fantasy or a dogmatic ideology tied to a single design school.
 
 
-![PRAGMATIC DIRECTION vs. UTOPIAN DOGMA](../images/c8-s8-pragmatic-direction.png)
+![PRAGMATIC DIRECTION vs. UTOPIAN DOGMA](../images/c8-pragmatic-direction.png)
 
 
 ### Dismantling the "Utopian Silver-Bullet" Fallacy

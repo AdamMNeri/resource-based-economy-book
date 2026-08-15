@@ -34,7 +34,7 @@ Humanity is the first species on Earth capable of consciously directing its own 
 We face a stark binary choice [4, 377, 455]:
 
 
-![HUMANITY'S FORK IN THE ROAD](../images/c11-conclusion.png)
+![HUMANITY'S FORK IN THE ROAD](../images/c11-fork-in-road.png)
 
 
 Continuing down Path A is an act of collective suicide driven by ideological habit. Choosing Path B is an act of conscious civilizational courage—claiming our shared heritage as stewards of planet Earth.
@@ -46,7 +46,7 @@ Continuing down Path A is an act of collective suicide driven by ideological hab
 The transition to a Resource-Based Economy does not wait for traditional political parties; it begins through organized, open-source human action [377, 455].
 
 
-![CONCRETE ACTION STEPS FOR TRANSITION](../images/c11-s1-fork-in-road.png)
+![CONCRETE ACTION STEPS FOR TRANSITION](../images/c11-action-steps.png)
 
 
 ### 1. For Individual Citizens and Advocates
@@ -84,7 +84,7 @@ When an individual engages in open-source RBE case-building, local resource hub 
 ## 11.4 Synthesis: The Arc of Human Transformation Across the RBE Paradigm
 
 
-![SYNTHESIS OF THE CIVILIZATIONAL TRANSFORMATIONAL ARC](../images/c11-s2-action-steps.png)
+![SYNTHESIS OF THE CIVILIZATIONAL TRANSFORMATIONAL ARC](../images/c11-synthesis.png)
 
 
 ---

@@ -26,7 +26,7 @@ To grasp the profound transformation of human self-perception between paradigms,
 *   **Realize:** In a monetary society, the self is an anxious commodity. Your identity is held hostage by market demands, forcing you to trade authentic passions for monetary survival, while constantly competing against your peers for artificial status markers and youthful cosmetic illusions in a game designed to never be won.
 
 
-![THE MARKET-CONDITIONED EGO CYCLE](../images/c10-s0-ego-cycle.png)
+![THE MARKET-CONDITIONED EGO CYCLE](../images/c10-ego-cycle.png)
 
 
 ---
@@ -38,7 +38,7 @@ To grasp the profound transformation of human self-perception between paradigms,
 *   **Realize:** Freedom from financial friction does not erase identity; it liberates it. When you no longer need to sell your labor or market your image to justify your right to exist, your identity shifts from a defensive economic shield to an authentic expression of intrinsic curiosity, artistic mastery, ecological citizenship, and human connection. You are an active participant in planetary stewardship, grounded in cosmic humility and human solidarity.
 
 
-![THE RBE IDENTITY EVOLUTION CYCLE](../images/c10-s0-identity-evolution-cycle.png)
+![THE RBE IDENTITY EVOLUTION CYCLE](../images/c10-identity-evolution-cycle.png)
 
 
 ---
@@ -64,7 +64,7 @@ Under a monetary system that requires ever-increasing consumption to maintain ec
 One of the most predatory manifestations of this commercial logic is the **Perpetual Youth Engine**: a multi-hundred-billion-dollar marketing ecosystem designed to weaponize body dysmorphia, biological aging, and natural human variation into continuous revenue streams.
 
 
-![THE PERPETUAL YOUTH PREDATORY CYCLE](../images/c10-s2-perpetual-youth-culture.png)
+![THE PERPETUAL YOUTH PREDATORY CYCLE](../images/c10-perpetual-youth-culture.png)
 
 
 1.  **Predatory Beauty Tactics**: Multi-national cosmetic conglomerates, elective surgical clinics, and digital filter platforms relentlessly promote impossible aesthetic standards. Natural human aging—wrinkles, gray hair, shifting body shapes—is reframed not as a dignified, natural biological process, but as a personal failure or disease requiring expensive intervention. Cosmetic surgeries, synthetic injectables, makeup regimens, and prosthetic "beautifiers" are sold as mandatory tools to maintain social and professional competitiveness.
@@ -84,7 +84,7 @@ In a monetary culture, where human value is measured by daily labor extraction a
 In a Resource-Based Economy, the elimination of financial anxiety and retirement insecurity completely restores the dignity of aging:
 
 
-![INTERGENERATIONAL WISDOM TRANSFER](../images/c10-s3-wisdom-transfer.png)
+![INTERGENERATIONAL WISDOM TRANSFER](../images/c10-wisdom-transfer.png)
 
 
 1.  **Revered Community Mentors**: With complete residential security, health care, and unconditioned access to Community Resource Hubs, older adults are honored as revered community mentors, oral historians, master craftsmen, and cultural guardians.

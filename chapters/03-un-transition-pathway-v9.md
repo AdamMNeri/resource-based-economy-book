@@ -33,7 +33,7 @@ The 193 sovereign member states of the United Nations collectively encompass **v
 There is no alternative global entity or private organization that holds jurisdictional authority over planetary resources. For a Resource-Based Economy to move from theoretical paper blueprints to physical reality, sovereign nations must voluntarily opt in to declare their territorial resources as part of the common heritage of humanity [4, 1052]. The UN is the only existing international forum where sovereign governments assemble with legal standing to negotiate, ratify, and execute multilateral treaties of this scale.
 
 
-![WHY THE UN IS THE NATURAL TRANSITION VEHICLE](../images/c3-s1-why-the-UN.png)
+![WHY THE UN IS THE NATURAL TRANSITION VEHICLE](../images/c3-why-the-UN.png)
 
 
 ### 2. The UN General Assembly Article 109 Protocol for Charter Review
@@ -70,7 +70,7 @@ Under monetary capitalism, energy generation is severely crippled by sovereign n
 In an UN-facilitated RBE transition, member states utilize UN General Assembly diplomatic protocols to ratify the **Global Energy Commons Treaty**. This treaty strips energy generation of nationalistic and commercial borders, engineering global power based purely on physical geography, climate efficiency, and thermodynamic law:
 
 
-![UN-FACILITATED BORDER-FREE GLOBAL ENERGY MATRIX](../images/c3-s2-energy-matrix.png)
+![UN-FACILITATED BORDER-FREE GLOBAL ENERGY MATRIX](../images/c3-energy-matrix.png)
 
 
 

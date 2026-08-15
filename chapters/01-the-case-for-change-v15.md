@@ -49,7 +49,7 @@ Before the Industrial Revolution, there was a natural, energetic boundary to the
 While ancient civilizations certainly caused localized environmental damage—such as topsoil depletion in ancient Mesopotamia or deforestation on Easter Island—they physically lacked the energetic leverage to destroy global biospheric cycles. A human holding an iron axe could fell only a few trees a day; a sailing ship could transport only a finite mass of timber; and a farmer behind an ox-plow could turn only a fraction of an acre per afternoon. Nature had time to regenerate because human physical leverage was small.
 
 
-![THE HISTORICAL LEVERAGE EXPONENTIAL](../images/c1-s1-leverage.png)
+![THE HISTORICAL LEVERAGE EXPONENTIAL](../images/c1-leverage.png)
 
 
 ### Technological Leverage as a Bidirectional Multiplier
@@ -83,7 +83,7 @@ At the heart of systemic instability lies a simple, startling truth: modern mone
 When a borrower secures a mortgage, commercial loan, or line of credit, the lending institution does not transfer pre-existing funds from vaults or depositor reserves. Instead, commercial banks expand their balance sheets by simultaneously creating a loan asset and a corresponding deposit liability, effectively generating new broad money out of credit [379, 387]. As central banks such as the Bank of England and the Federal Reserve have openly acknowledged in official publications, commercial bank credit creation represents the primary origin of circulating broad money [379].
 
 
-![COMMERCIAL BANK MONEY CREATION](../images/c1-s2-money-creation.png)
+![COMMERCIAL BANK MONEY CREATION](../images/c1-money-creation.png)
 
 
 ### The Inescapable Math: Competing Over the Same Aggregate Pot
@@ -99,7 +99,7 @@ To prevent widespread default across the economy, someone else in society must c
 This creates an inescapable mathematical reality: **In a debt-based monetary system, total aggregate debt mathematically exceeds the total amount of money in existence** [380, 388]. 
 
 
-![THE MONETARY SYSTEM'S SHELL GAME](../images/c1-s2-shell-game.png)
+![THE MONETARY SYSTEM'S SHELL GAME](../images/c1-shell-game.png)
 
 
 Mechanically, this is a grand, systemic **shell game**. The money needed to pay off the total debt simply is not there. The system functions only as long as the shell game keeps moving—borrowing new money today to cover yesterday’s interest obligations. 
@@ -164,7 +164,7 @@ The structural flaw in money creation does not merely drive ecological destructi
 Statistical evidence demonstrates that rising top 1% wealth concentration is a **statistically significant predictor of systemic financial crises** [679, 690]. Analyzing 150 years of macroeconomic data across major economies reveals that as compound interest accumulates wealth at the top, lower- and middle-income households are forced to take on massive consumer debt to maintain their standard of living.
 
 
-![](../images/c1-s3-causal-chain.png)
+![](../images/c1-causal-chain.png)
 
 
 A single standard deviation increase in top 1% wealth share growth elevates the probability of a systemic banking crisis by **3 to 8 percentage points** [670, 690]. When wealth concentrates, the real economy suffers from under-consumption, while speculative capital flows into real estate and stock bubbles, inevitably leading to systemic crashes.
@@ -191,7 +191,7 @@ Here lies the fundamental **Health Paradox**, captured eloquently by philosopher
 Under monetary capitalism, what passes for "normal behavior" or "successful adjustment" is frequently a destructive maladaptation to an inherently sick system. Citizens are conditioned to accept 60-hour workweeks, chronic sleep deprivation, financial anxiety, and environmental destruction as the natural price of existence. When individuals experience anxiety or depression under these conditions, the monetary system diagnoses them with personal clinical pathology, prescribing daily pharmaceuticals to adapt them back to the workplace. In truth, their psychological distress is a natural, healthy immune response to an unnatural, predatory economic environment.
 
 
-![BASELINE HUMAN SUFFERING VS. AVOIDABLE SYSTEMIC DISTRESS](../images/c1-s3-suffering.png)
+![BASELINE HUMAN SUFFERING VS. AVOIDABLE SYSTEMIC DISTRESS](../images/c1-suffering.png)
 
 
 ---
@@ -217,7 +217,7 @@ When every individual's biological survival—their access to food, shelter, and
 Rather than addressing the root cause—the wage-survival mandate—the monetary paradigm responds by propping up massive regulatory "band-aid" industries. Society creates consumer protection agencies, business bureaus (such as the Better Business Bureau), licensing boards, and trade oversight bodies. While these institutions claim to protect the public, they actually serve to **reinforce and legitimize the underlying monetary system**. They erect legal frameworks that give predatory transactions a seal of compliance, while generating billion-dollar compliance and legal consultancies ("make a problem, pass a law, create a business"). They create a false illusion of consumer safety while ensuring that the core engine of wage-based extraction remains completely untouched.
 
 
-![THE GDP MULTIPLIER OF STRUCTURAL DESTRUCTION](../images/c1-s4-gdp-multiplier.png)
+![THE GDP MULTIPLIER OF STRUCTURAL DESTRUCTION](../images/c1-gdp-multiplier.png)
 
 
 ### Catastrophes as Capitalist Correction Events
@@ -303,7 +303,7 @@ A fundamental structural defect of the monetary paradigm is that **it was never 
 Because total aggregate debt mathematically exceeds the total money in existence, the monetary engine requires continuous, exponential debt creation to avoid systemic collapse. If debt expansion stops, the system does not gently stabilize; it crashes into bank runs, foreclosures, and mass destitution. The system traps humanity on an accelerating treadmill: we must consume more biospheric capital tomorrow simply to pay off the debt issued yesterday.
 
 
-![SYSTEM LOCK-IN VS. ENGINEERED EXIT STRATEGY](../images/c1-s6-exit-strategy.png)
+![SYSTEM LOCK-IN VS. ENGINEERED EXIT STRATEGY](../images/c1-exit-strategy.png)
 
 
 Because the monetary paradigm lacks an internal off-ramp, attempting to reform it from within is like adjusting the seatbelts on a vehicle accelerating toward a cliff. Humanity desperately needs a deliberate, engineered exit strategy—an RBE transition framework—that systematically decouples physical survival from monetary debt before biospheric tipping points force a chaotic collapse.

@@ -35,7 +35,7 @@ In 1920, Mises asserted that rational economic calculation is impossible without
 Pervasive IoT sensor networks, Big Data, industrial Enterprise Resource Planning (ERP) systems, and AI have made Mises's 1920s critique obsolete [360, 361, 414, 421].
 
 
-![WHY MONETARY MARKET PRICES FAIL AS SIGNALS](../images/c4-s1-accounting.png)
+![WHY MONETARY MARKET PRICES FAIL AS SIGNALS](../images/c4-accounting.png)
 
 
 ### Modern Corporate Planning vs. The Tragic Waste of Duplicative Competition
@@ -132,7 +132,7 @@ To understand why cryptocurrency fails as a liberating force under capitalism, w
 > 3.  **Algorithmic Scarcity vs. Physical Reality**: Like fiat central banks manipulating interest rates to enforce monetary scarcity, crypto protocols hard-code artificial token supply caps. This replicates monetary hoarding, speculative bubbles, and wealth inequality under a high-tech veneer.
 
 
-![BLOCKCHAIN UNDER CAPITALISM VS. RESOURCE ECONOMY](../images/c4-s2-blockchain.png)
+![BLOCKCHAIN UNDER CAPITALISM VS. RESOURCE ECONOMY](../images/c4-blockchain.png)
 
 
 ### Zero-Knowledge Cryptographic Auditing and Repurposing Blockchain for Intrinsic Honesty
@@ -167,7 +167,7 @@ A key question from skeptics regarding decentralized governance is: *"How do DAO
 To prevent the toxic dynamics of modern social media (where "likes," "thumbs-up," and viral outrage dictate popularity), an RBE utilizes **Domain-Specific Technical Reputation Ledgers** [161].
 
 
-![DOMAIN-SPECIFIC REPUTATION LEDGER MECHANICS](../images/c4-s4-reputation.png)
+![DOMAIN-SPECIFIC REPUTATION LEDGER MECHANICS](../images/c4-reputation.png)
 
 
 

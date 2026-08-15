@@ -29,7 +29,7 @@ This work explicitly rejects the victim narrative. A systems engineer does not v
 The crises confronting 21st-century civilization—climate instability, biodiversity loss, mental health epidemics, sovereign debt crises, and the existential risk of exponential technology coupled with competitive market incentives—are not evidence of human wickedness. They are the predictable operational outputs of a legacy economic operating system ($MV=PY$ driven by $D(t) = P_0 e^{rt}$) running on modern high-leverage hardware.
 
 
-![THE CIVILIZATIONAL OPERATING SYSTEM PARADOX](../images/intro-mechanics.png)
+![THE CIVILIZATIONAL OPERATING SYSTEM PARADOX](../images/intro-paradox.png)
 
 
 When we replace the victim narrative with a high-agency systems engineering perspective, the path forward becomes clear. We do not need to fight the legacy system through destructive conflict, political warfare, or utopian posturing. We simply need to design, deploy, and scale a demonstrably superior civilizational framework.
@@ -57,7 +57,7 @@ Traditional political revolutions rely on coercive state power, wealth confiscat
 The breakthrough presented in this manuscript is a **feasible, scalable, and non-confrontational transition architecture**.
 
 
-![Diagram](../images/intro-paradox.png)
+![Diagram](../images/intro-mechanics.png)
 
 
 Rather than attempting to overthrow legacy institutions or force a sudden global shift, this transition framework operates through **controlled bioregional scaling and systemic attrition**:

@@ -12,35 +12,37 @@ Below is the complete sequence including the Introduction and 11-chapter bluepri
 
 
 
-* **[[chapters/00-introduction-v1|Introduction & Foreword: The Choice Before Us]]**
-  - *Key Themes*: #introduction #foreword #high-agency #feasible-transition #resourceism #systems-architecture #paradigm-shift
 
-1. **[[chapters/01-the-case-for-change-v17|Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm]]**
-   - *Key Themes*: #monetary-critique #debt-math #synthetic-selection #technological-leverage #mental-health #peter-principle #monetized-self #exit-strategy #founding-intent #systemic-mistrust #demographic-shifts #systems-architect #complicated-vs-complex
-2. **[[chapters/02-introducing-resourceism-v13|Chapter 2: Introducing Resourceism: Foundations of a Non-Monetary Society]]**
-   - *Key Themes*: #resourceism #common-heritage #cybernetics #carrying-capacity #fresco-design #mediocrity-principle #hobby-shops #garage-scarcity-trap #political-differentiation #identity-transformation #complicated-vs-complex
-3. **[[chapters/03-un-transition-pathway-v10|Chapter 3: The UN Transition Pathway: Global Facilitation Framework]]**
-   - *Key Themes*: #un-transition #article-109 #global-governance #article-55 #diplomacy #sovereign-debt-offramps #trust-fund #uhvdc-grid #multi-nation-pilots #zk-snarks #public-health #global-citizenship #complicated-vs-complex
-4. **[[chapters/04-daos-and-blockchain-v15|Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy]]**
-   - *Key Themes*: #cybernetic-accounting #daos #ai-orchestration #datacenter-drain #thermodynamic-relief #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #identity-of-mastery #demand-registration #hoarding-prevention #complicated-vs-complex
-5. **[[chapters/05-phase-1-piloting-the-transition-v7|Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks]]**
-   - *Key Themes*: #phase-1-pilots #bioregional-hubs #experimental-zones #food-sovereignty #vertical-agriculture #precision-fermentation #dual-use-infrastructure #red-tape-contrast #identity-in-transition #institutional-pivot #cybernetic-lockout #complicated-vs-complex
-6. **[[chapters/06-phase-2-scaling-up-global-governance-v6|Chapter 6: Phase 2: Scaling Up and Global Resource Governance]]**
-   - *Key Themes*: #phase-2-scaling #global-commons #uhvdc-grids #circular-cities #oceanic-commons #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response #complicated-vs-complex
-7. **[[chapters/07-core-principles-values-universal-rights-v7|Chapter 7: Core Principles, Values, and Universal Rights]]**
-   - *Key Themes*: #universal-rights #freedom-of-travel #restorative-justice #judicial-dockets #no-poverty #law-enforcement-transformation #firearms-irrelevance #restorative-mediators #animal-management #domestic-pets #complicated-vs-complex
-8. **[[chapters/08-addressing-counter-arguments-corollary-issues-v5|Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues]]**
-   - *Key Themes*: #objections-handled #who-decides #cybernetic-allocation #human-nature #legal-system-attack-surface #financial-asset-transition #ideas-change-world #sci-fi-currencies #motivation #space-commons #pragmatic-realism #complicated-vs-complex
-9. **[[chapters/09-human-flourishing-dividend-v5|Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE]]**
-   - *Key Themes*: #flourishing-dividend #mental-health #education #creative-liberation #corruption-eradication #child-development #science-renaissance #transition-timeline #complicated-vs-complex
-10. **[[chapters/10-the-psychology-of-identity-v8|Chapter 10: The Psychology of Identity: Deconstructing the Market Self]]**
-    - *Key Themes*: #psychology-of-identity #market-ego #perpetual-youth-engine #influencer-mentality #intrinsic-motivation #mediocrity-principle #intergenerational-wisdom #rbe-identity #human-flourishing #consciousness-shift #complicated-vs-complex
-11. **[[chapters/11-conclusion-call-to-action-v6|Chapter 11: Mobilizing the Transition: Call to Action for Global Citizenry]]**
-    - *Key Themes*: #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade #civilizational-architect #capstone #epilogue #complicated-vs-complex #mediocrity-principle
+* **[[chapters/00-introduction-v2|Introduction & Foreword: The Choice Before Us]]**
+  - *Key Themes*: #introduction #foreword #high-agency #feasible-transition #resourceism #systems-architecture #paradigm-shift #rube-goldberg #complicated-vs-complex
+
+1. **[[chapters/01-the-case-for-change-v18|Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm]]**
+   - *Key Themes*: #monetary-critique #debt-math #synthetic-selection #technological-leverage #mental-health #peter-principle #monetized-self #exit-strategy #founding-intent #systemic-mistrust #demographic-shifts #systems-architect #complicated-vs-complex #rube-goldberg #deed-fraud #use-access
+2. **[[chapters/02-introducing-resourceism-v14|Chapter 2: Introducing Resourceism: Foundations of a Non-Monetary Society]]**
+   - *Key Themes*: #resourceism #common-heritage #cybernetics #carrying-capacity #thermodynamic-accounting #exergy #fresco-design #mediocrity-principle #hobby-shops #garage-scarcity-trap #political-differentiation #identity-transformation #complicated-vs-complex #rube-goldberg
+3. **[[chapters/03-un-transition-pathway-v11|Chapter 3: The UN Transition Pathway: Global Facilitation Framework]]**
+   - *Key Themes*: #un-transition #article-109 #global-governance #article-55 #diplomacy #sovereign-debt-offramps #trust-fund #transition-sandboxes #thermodynamic-ledgers #uhvdc-grid #multi-nation-pilots #zk-snarks #public-health #global-citizenship #complicated-vs-complex #rube-goldberg
+4. **[[chapters/04-daos-and-blockchain-v16|Chapter 4: Cybernetic Accounting, DAOs, and AI in a Resource-Based Economy]]**
+   - *Key Themes*: #cybernetic-accounting #daos #ai-orchestration #datacenter-drain #thermodynamic-relief #resource-tracking #transparency #reputation-ledgers #crypto-interest #zk-snarks #identity-of-mastery #demand-registration #hoarding-prevention #mrp-demand-signals #circularity-lockouts #complicated-vs-complex #rube-goldberg
+5. **[[chapters/05-phase-1-piloting-the-transition-v8|Chapter 5: Phase 1: Piloting the Transition – Foundations and Frameworks]]**
+   - *Key Themes*: #phase-1-pilots #bioregional-hubs #experimental-zones #food-sovereignty #vertical-agriculture #precision-fermentation #dual-use-infrastructure #red-tape-contrast #identity-in-transition #institutional-pivot #cybernetic-lockout #complicated-vs-complex #rube-goldberg
+6. **[[chapters/06-phase-2-scaling-up-global-governance-v7|Chapter 6: Phase 2: Scaling Up and Global Resource Governance]]**
+   - *Key Themes*: #phase-2-scaling #global-commons #uhvdc-grids #circular-cities #oceanic-commons #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response #complicated-vs-complex #rube-goldberg
+7. **[[chapters/07-core-principles-values-universal-rights-v8|Chapter 7: Core Principles, Values, and Universal Rights]]**
+   - *Key Themes*: #universal-rights #freedom-of-travel #restorative-justice #judicial-dockets #no-poverty #law-enforcement-transformation #firearms-irrelevance #restorative-mediators #animal-management #domestic-pets #social-inclusion #special-needs #neurodiversity #dynamic-accommodation #complicated-vs-complex #rube-goldberg
+8. **[[chapters/08-addressing-counter-arguments-corollary-issues-v6|Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues]]**
+   - *Key Themes*: #objections-handled #who-decides #cybernetic-allocation #human-nature #legal-system-attack-surface #financial-asset-transition #ideas-change-world #sci-fi-currencies #motivation #space-commons #pragmatic-realism #complicated-vs-complex #rube-goldberg
+9. **[[chapters/09-human-flourishing-dividend-v6|Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE]]**
+   - *Key Themes*: #flourishing-dividend #mental-health #education #creative-liberation #corruption-eradication #child-development #science-renaissance #transition-timeline #social-inclusion #special-needs #neurodiversity #education-reimagined #complicated-vs-complex #rube-goldberg
+10. **[[chapters/10-the-psychology-of-identity-v9|Chapter 10: The Psychology of Identity: Deconstructing the Market Self]]**
+    - *Key Themes*: #psychology-of-identity #market-ego #perpetual-youth-engine #influencer-mentality #intrinsic-motivation #mediocrity-principle #intergenerational-wisdom #rbe-identity #human-flourishing #consciousness-shift #productivity-trap #neurodiversity #social-inclusion #complicated-vs-complex #rube-goldberg
+11. **[[chapters/11-conclusion-call-to-action-v7|Chapter 11: Mobilizing the Transition: Call to Action for Global Citizenry]]**
+    - *Key Themes*: #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade #civilizational-architect #capstone #epilogue #complicated-vs-complex #mediocrity-principle #rube-goldberg
 
 ---
 
 ## 🎯 Master References & Knowledge Guides
+
 
 
 
@@ -57,6 +59,7 @@ Below is the complete sequence including the Introduction and 11-chapter bluepri
 ## 🏛️ The 13 Core Thematic Pillars
 
 Every chapter in the book systematically embeds and expands upon these 13 pillars:
+
 
 
 

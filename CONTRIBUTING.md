@@ -8,6 +8,7 @@ Because this is a tightly integrated philosophical and architectural blueprint, 
 
 ## What is Accepted
 I enthusiastically welcome Pull Requests (PRs) that improve the quality, readability, and accessibility of the manuscript. Please feel free to submit PRs for:
+
 - **Typographical Errors:** Spelling mistakes, punctuation errors, or missing words.
 - **Formatting Fixes:** Broken Markdown links, misaligned lists, or styling inconsistencies.
 - **Clarifications:** Minor sentence restructuring that improves readability without changing the underlying meaning.
@@ -15,11 +16,13 @@ I enthusiastically welcome Pull Requests (PRs) that improve the quality, readabi
 
 ## What is NOT Accepted
 To maintain the integrity of the core thesis, the following contributions will be rejected:
+
 - **Ideological Changes:** PRs that attempt to alter the structural arguments, economic math, or philosophical foundation of the Resource-Based Economy (RBE) presented in this book.
 - **Structural Rewrites:** Large-scale rewriting, insertion, or deletion of chapters. 
 - **Debates via Pull Request:** If you disagree with the premise of the book, a Pull Request is not the venue to debate it. 
 
 ## How to Contribute
+
 1. **Fork** the repository.
 2. **Edit** the relevant Markdown files located in the `chapters/` directory.
 3. **Commit** your changes with a clear, concise commit message (e.g., `Fix typo in Chapter 4`).

@@ -9,6 +9,7 @@ This reference establishes the mandatory standards for maintaining Obsidian Grap
 ## 1. Central Map of Content (MOC) Architecture
 
 
+
 * **File Location**: `00-Book-Map-of-Content.md` in the vault root.
 * **Role**: Acts as the central hub in Obsidian Graph View, connecting all chapters, master references, and thematic pillars into a single interlinked knowledge web.
 * **Maintenance**: Whenever a new chapter version is created or a new pillar is established, `00-Book-Map-of-Content.md` MUST be updated immediately to point to the active file version.
@@ -17,6 +18,7 @@ This reference establishes the mandatory standards for maintaining Obsidian Grap
 
 ## 2. Standardized Chapter Navigation & Tagging Header
 Every active chapter file in `/chapters/` MUST start with a standardized header block containing:
+
 
 
 1. Title (`# Chapter N: ...`)
@@ -39,6 +41,7 @@ Every active chapter file in `/chapters/` MUST start with a standardized header 
 ## 3. Bidirectional Reference Linking
 
 
+
 * **Pillars Guide**: `references/thematic-pillars-and-style-guide.md` MUST maintain explicit wikilinks pointing to the active chapters (`[[chapters/01-the-case-for-change-v7-guided-viz|Ch. 1]]`) that expand each pillar.
 * **Citation Index**: `references/rbe-agent-handoff-reference.md` is linked from the MOC and reference guides (`[[references/rbe-agent-handoff-reference|Master Reference]]`).
 * **Chapter In-Line Links**: When chapters reference core concepts or transition frameworks, use inline wikilinks (e.g. `[[references/thematic-pillars-and-style-guide|Pillar 13: Synthetic Selection]]` or `[[chapters/03-un-transition-pathway-v5-guided-viz|Chapter 3]]`).
@@ -46,6 +49,7 @@ Every active chapter file in `/chapters/` MUST start with a standardized header 
 ---
 
 ## 4. Graph View Settings & Hidden Archive Directory
+
 
 
 * **Hidden Archive Directory**: Superseded chapter drafts live in `chapters/.archive/`. Because Obsidian automatically ignores hidden dot-directories (`.*`), historical drafts stay safely preserved on disk and in Git without cluttering the Graph View as unlinked orphan nodes.

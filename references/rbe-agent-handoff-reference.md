@@ -17,6 +17,7 @@ The book must be written to be not merely understood, but **deeply desired**. It
 ### Pillar I: The Structural Inherent Failures of the Monetary System
 
 
+
 1. **The Math of Debt-Based Money Creation**:
    - Modern money is overwhelmingly (~97%) created out of nothing by private commercial banks as electronic debt with compound interest attached [379, 387].
    - Because central banks and commercial banks create the principal but never the interest required for repayment, aggregate debt mathematically exceeds the total money supply in existence [380, 388].
@@ -40,6 +41,7 @@ The book must be written to be not merely understood, but **deeply desired**. It
 ### Pillar II: The Fundamentals of a Resource-Based Economy (RBE)
 
 
+
 1. **Definition & Core Principles ("Resourceism")**:
    - Coined by Jacque Fresco (The Venus Project) and expanded in Resourceism, an RBE is a holistic socio-economic system wherein all Earth resources are declared the common heritage of all inhabitants [4, 5, 1042, 1052].
    - Goods and services are distributed directly based on availability and human need without money, credit, barter, taxes, debt, or servitude [5, 267, 364, 1052].
@@ -61,6 +63,7 @@ To prevent chaotic systemic collapse or nuclear conflict over declining monetary
 
 
 
+
 1. **Phase 1: Pilot Programs & Frameworks (Led by UNEP & UNCTAD)**:
    - **UNEP Role**: Develop resource assessment methodologies, establish contribution agreements, enforce sustainable resource extraction and circular economy guidelines [235, 371].
    - **UNCTAD Role**: Model trade impacts, facilitate tech transfer, structure economic integration frameworks [235, 371].
@@ -78,6 +81,7 @@ To prevent chaotic systemic collapse or nuclear conflict over declining monetary
 ---
 
 ## 3. Comprehensive Source Reference & Citation Index
+
 
 
 
@@ -162,6 +166,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm
 
 
+
 - **Core Narrative**: Demonstrate that humanity's ongoing crises (inequality, ecological collapse, geopolitical war) are not accidental oversights but mathematical consequences of debt-based fiat money [378, 380].
 - **Key Concepts & Sources**:
   - Bank money creation: 97% of money created as private bank debt with interest [379, 387].
@@ -171,6 +176,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
   - Wasteful competition: $2.44T in global military spending [216], $62B healthcare marketing waste [26], and grant proposal waste [23].
 
 ### Chapter 2: Introducing the Resource-Based Economy ("Resourceism")
+
 
 
 - **Core Narrative**: Define RBE not as a political ideology, but as a scientific methodology for planetary management and human flourishing [4, 1042].
@@ -183,6 +189,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 3: The United Nations as Facilitator: A Phased Global Transition
 
 
+
 - **Core Narrative**: Provide a realistic international diplomatic architecture for transition, avoiding the trap of requiring complete monetary collapse before acting [362, 450].
 - **Key Concepts & Sources**:
   - Leveraging the UN's convening power, global membership, and existing specialized agencies [233, 234, 451].
@@ -190,6 +197,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
   - High-level overview of the 3-phase UN pathway [233-237, 449-452].
 
 ### Chapter 4: Phase 1: Piloting the Transition – Foundations and Frameworks
+
 
 
 - **Core Narrative**: Detail the operational mechanics of the initial pilot programs.
@@ -202,6 +210,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 5: Phase 2: Scaling Up and Global Resource Governance
 
 
+
 - **Core Narrative**: How pilot programs scale into a unified global socio-economic system.
 - **Key Concepts & Sources**:
   - **UN DESA's Role**: Global policy coordination, intergovernmental negotiations for expanded resource pooling, social and ethical equity frameworks [236, 372].
@@ -209,6 +218,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
   - Progressive increase of member state resource contributions and establishment of global citizenship travel rights between RBE zones [372, 451].
 
 ### Chapter 6: Leveraging Technology: Big Data, AI, and Immutable Ledgers
+
 
 
 - **Core Narrative**: Prove that modern technology makes monetary pricing obsolete for economic calculation.
@@ -220,6 +230,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 7: Core Principles, Values, and Universal Rights
 
 
+
 - **Core Narrative**: Establish the ethical and legal backbone of a Resource-Based society.
 - **Key Concepts & Sources**:
   - Code of Ethics: All nations bring value; equal rights to Earth's abundance; prohibition of accumulation beyond need; transparent accounting [365, 374].
@@ -227,6 +238,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
   - Right to unencumbered global movement between designated resource zones [3, 374, 451].
 
 ### Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues
+
 
 
 - **Core Narrative**: Directly dismantle every major intellectual objection to RBE with empirical rigor.
@@ -239,6 +251,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE
 
 
+
 - **Core Narrative**: Paint a compelling, vivid picture of daily life in a post-monetary world.
 - **Key Concepts & Sources**:
   - Complete elimination of financial crimes (phishing, ransomware, identity theft), drug cartels, tax fraud, and predatory marketing [364].
@@ -248,6 +261,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ### Chapter 10: Conclusion: A Call to Action for Global Citizenry
 
 
+
 - **Core Narrative**: Reiterate the urgent necessity and self-evident desirability of the UN-led RBE transition as humanity's definitive pathway forward [4, 6, 377, 455].
 
 ---
@@ -255,6 +269,7 @@ Below is the definitive chapter-by-chapter blueprint to guide Hermes in writing 
 ## 5. Agentic Prompting Directives for Hermes (Local Agent)
 
 When invoking Hermes with the `goal` skill to draft chapters or expand concepts:
+
 
 
 

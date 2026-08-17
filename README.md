@@ -6,7 +6,7 @@
 
 **Author:** Adam Neri  
 **Project Lead & Concept:** Adam Neri  
-**Last Revised:** 2026-08-16 19:38:38 EDT
+**Last Revised:** 2026-08-17 17:00:36 EDT
 
 ## Project Goal
 This project aims to develop an open-source book that presents a persuasive, empirically grounded, and visionary blueprint for transitioning humanity away from a debt-based monetary system to a Resource-Based Economy (RBE). This transition will be facilitated by the United Nations system, where planetary resources are declared the common heritage of all people.
@@ -18,11 +18,13 @@ The book must be written to be not merely understood, but deeply desired. It mus
 
 
 
+
 *   Initial framework and source material ingested.
 *   Master Introduction & 11-chapter blueprint established and fully drafted.
 *   Total Draft Scale: **43,212 words (~96.0 printed pages)** (excluding references).
 
 ### Active Chapter Index:
+
 
 
 

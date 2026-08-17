@@ -13,6 +13,7 @@ This document records the 13 foundational thematic pillars, chapter depth benchm
 
 
 
+
 - **Target Chapter Scale**: Each chapter is a landmark non-fiction exploration targeting **5,000–8,000+ words (~12–18 printed pages)**.
 - **Core Framing & Conceptual Focus**:
   - **Universal Concept First**: Focus on explaining the core principles, systemic physics, and philosophy of a Resource-Based Economy as a universal paradigm for human organization.
@@ -26,6 +27,7 @@ This document records the 13 foundational thematic pillars, chapter depth benchm
 ---
 
 ## 2. The 13 Special Thematic Pillars
+
 
 
 

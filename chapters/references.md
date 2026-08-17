@@ -9,10 +9,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Jacque Fresco; RBE definition; common heritage of Earth's resources; technological and environmental factors.
 * **Citations**: [4, 5, 6]
 
 ### 2. "Alternative Economic Models and Finance: Rewiring the Economy for Shared Prosperity" - UNDP / Istanbul Innovation Days
+
 
 
 
@@ -25,10 +27,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Meta-analysis of 46 studies proving cooperative problem solving outperforms competition [22]; scientific grant funding waste [23]; Richard Dawkins tree-trunk futile competition analogy [24]; healthcare marketing waste ($62B) [26]; multi-stakeholder vs single-stakeholder hierarchies [20, 58].
 * **Citations**: [20, 22, 23, 24, 26, 58]
 
 ### 4. "Fair and Equitable Distribution of Resources and Opportunities" - Beyond Intractability
+
 
 
 
@@ -41,10 +45,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Fiat currency mechanics; Chartalism (taxes driving money value); hyperinflation risks (Zimbabwe, Hungary); departure from Gold Standard (1933, 1971).
 * **Citations**: [174, 176, 177, 182, 183]
 
 ### 6. "Fiscal Policy vs. Monetary Policy: Pros and Cons" - Investopedia
+
 
 
 
@@ -57,10 +63,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Record $2.44T global military spending; US ($916B) vs China ($296B PPP); shifts from personnel to tech/automation.
 * **Citations**: [216, 219, 221, 227]
 
 ### 8. "Incorporate the mentioned UN bodies into the paper..." - Working Document
+
 
 
 
@@ -73,10 +81,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Evolution of monetary orders (Gold Standard, Interwar collapse, Bretton Woods, Washington Consensus); calls for Bretton Woods II and Keynesian Bancor/SDRs.
 * **Citations**: [248, 250, 252, 253, 259]
 
 ### 10. "Is resource based economy realistic or just a utopian idea??" - Reddit (r/kurzgesagt)
+
 
 
 
@@ -89,10 +99,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: FOMC transmission channels; federal funds rate; asset prices; Quantitative Easing (QE) and forward guidance.
 * **Citations**: [307, 309, 312, 317]
 
 ### 12. "Monetary system" - Wikipedia
+
 
 
 
@@ -105,10 +117,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Embedded non-monetary subeconomies (Edgar Cahn's "Core Economy", caregiving, household labor = 26-50% GDP) [335, 337, 341]; Time Banks, LETS, gift economies, Technocracy, calculation in kind [339, 340, 351, 352].
 * **Citations**: [335, 337, 339, 340, 341, 351, 352]
 
 ### 14. "ResourceBasedNotes" - Working Document
+
 
 
 
@@ -121,10 +135,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: 10-chapter structural breakdown for the book proposal.
 * **Citations**: [368-377]
 
 ### 16. "The Fatal Design of Debt-Based Money" - Sustainable Human (Jem Bendell)
+
 
 
 
@@ -137,10 +153,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Decommodification of public goods; elimination of transaction costs; "Pleasant Acres" & Googleplex free-at-point-of-use models [401, 402, 409-416]; Big Data and AI solving the Economic Calculation Problem [421].
 * **Citations**: [399, 401, 402, 409-416, 421]
 
 ### 18. "The impact of monetary policy on income and wealth inequality" - CEPR (Silvo et al.)
+
 
 
 
@@ -153,10 +171,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Original UN pathway concept draft; voluntary participation, global citizenship travel rights, blockchain ledgers.
 * **Citations**: [449-455]
 
 ### 20. "Understanding the Emerging Era of International Competition" - RAND Corporation
+
 
 
 
@@ -169,10 +189,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Empirical proof that top 1% wealth concentration predicts financial crises (3-8 pp risk increase per 1 SD) [679, 690]; private wealth-to-income ratio ($W/Y$) signaling asset price bubbles 3-4 years in advance [684, 691, 692].
 * **Citations**: [679, 684, 690, 691, 692]
 
 ### 22. "What is a Resource-Based Economy and Why is it Humanity's Best Hope?" - Michael Corthell
+
 
 
 
@@ -185,10 +207,12 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 
+
 * **Topics**: Overcoming monetary rationing; abundance through innovation; ending territorial disputes and environmental damage.
 * **Citations**: [1052, 1053, 1054]
 
 ### 24. "Why profit doesn't always equal progress" - The Progress Motive (Helen Breewood)
+
 
 
 

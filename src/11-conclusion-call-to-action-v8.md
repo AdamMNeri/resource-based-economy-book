@@ -1,6 +1,6 @@
 # Chapter 11: Mobilizing the Transition: A Call to Action for Global Citizenry
 
-*Navigation*: **[[chapters/10-the-psychology-of-identity-v9|← Chapter 10: Psychology of Identity]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
+*Navigation*: **[[chapters/10-behavioral-architecture-and-identity-v12|← Chapter 10: Psychology of Identity]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
 *Tags*: #rbe-book #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade #civilizational-architect #capstone #epilogue #complicated-vs-complex #mediocrity-principle #rube-goldberg
 
 ---
@@ -16,7 +16,7 @@ The conclusions established across the 11 chapters of this blueprint are inescap
 1.  **The Monetary System is Incurably Terminal**: A debt-based monetary engine requiring 3% compound annual growth on a finite planet is a physical impossibility. It operates as a complicated Rube Goldberg contraption that guarantees accelerating ecological collapse, wealth hyper-concentration, mental health epidemics, and social friction [379, 380, 1060].
 2.  **Abundance is Physically Attainable**: Modern technology, automation, Big Data, IoT telemetry, and AI companions give humanity the physical capability to provide high-standard housing, organic food, healthcare, clean transit, and education to every human being on Earth free of charge—when organized as an elegantly complex living system freed from monetary constraints [4, 5, 270, 360].
 3.  **The UN Pathway Provides a Peaceful Transition**: A voluntary, multi-phased diplomatic roadmap facilitated by the United Nations system under General Assembly Article 109—starting with parallel localized pilot zones—prevents geopolitical panic, nuclear brinkmanship, and economic chaos [233-237, 362, 450].
-4.  **RBE as an Open, Universal Direction**: While pioneered and physically modeled in remarkable architectural detail by social engineer Jacque Fresco and The Venus Project, a Resource-Based Economy is a universal, open human paradigm. It is not an inflexible utopian dogma, but an evolving, evidence-based methodology that represents a demonstrably superior, life-affirming direction for human civilization.
+4.  **RBE as an Open, Universal Direction**: A Resource-Based Economy is a universal, open human paradigm and collaborative open-source science. It is not an inflexible utopian dogma, but an evolving, evidence-based methodology that represents a demonstrably superior, life-affirming direction for human civilization.
 5.  **Internal Consciousness Fuels External Action**: As established in Chapter 10, internal psychological liberation—deconstructing the market ego, restoring elder wisdom, and embracing cosmic humility under the Mediocrity Principle—is the direct fuel that propels humanity out of learned helplessness into physical civilizational mobilization.
 
 This capstone chapter outlines the concrete steps individuals, engineers, scientists, communities, and sovereign nations must take to ignite the physical transition toward a Resource-Based Economy [4, 6, 377, 455].

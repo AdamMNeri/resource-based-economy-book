@@ -12,5 +12,5 @@
 - [Chapter 8: Addressing Counter-Arguments and Objections](chapters/08-addressing-counter-arguments-corollary-issues-v7.md)
 - [Chapter 9: The Human Flourishing Dividend](chapters/09-human-flourishing-dividend-v10.md)
 - [Chapter 10: Behavioral Architecture and Systemic Incentives](chapters/10-behavioral-architecture-and-identity-v14.md)
-- [Chapter 11: Mobilizing the Transition: Call to Action](chapters/11-conclusion-call-to-action-v8.md)
+- [Chapter 11: Mobilizing the Transition: Call to Action](chapters/11-conclusion-call-to-action-v9.md)
 - [References & Source Index](chapters/references.md)

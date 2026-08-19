@@ -1,6 +1,6 @@
 # Chapter 10: Behavioral Architecture and Systemic Incentives
 
-*Navigation*: **[[chapters/09-human-flourishing-dividend-v9|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-conclusion-call-to-action-v8|Chapter 11: Call to Action →]]**  
+*Navigation*: **[[chapters/09-human-flourishing-dividend-v10|← Chapter 9: Human Flourishing]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/11-conclusion-call-to-action-v9|Chapter 11: Call to Action →]]**  
 *Tags*: #rbe-book #psychology-of-identity #market-ego #intrinsic-motivation #mediocrity-principle #intergenerational-wisdom #rbe-identity #human-flourishing #consciousness-shift #productivity-trap #neurodiversity #social-inclusion #complicated-vs-complex
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 11: Mobilizing the Transition: A Call to Action for Global Citizenry
 
-*Navigation*: **[[chapters/10-behavioral-architecture-and-identity-v12|← Chapter 10: Psychology of Identity]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
+*Navigation*: **[[chapters/10-behavioral-architecture-and-identity-v14|← Chapter 10: Psychology of Identity]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]**  
 *Tags*: #rbe-book #call-to-action #planetary-stewardship #future-heritage #pragmatic-realism #civilizational-upgrade #civilizational-architect #capstone #epilogue #complicated-vs-complex #mediocrity-principle #rube-goldberg
 
 ---

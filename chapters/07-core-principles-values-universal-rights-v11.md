@@ -1,6 +1,6 @@
 # Chapter 7: Core Principles, Values, and Universal Rights
 
-*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v10|← Chapter 6: Phase 2 Scaling]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/08-addressing-counter-arguments-corollary-issues-v5|Chapter 8: Addressing Objections →]]**  
+*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v10|← Chapter 6: Phase 2 Scaling]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/08-addressing-counter-arguments-corollary-issues-v7|Chapter 8: Addressing Objections →]]**  
 *Tags*: #rbe-book #universal-rights #restorative-justice #judicial-dockets #law-enforcement-transformation #firearms-irrelevance #restorative-mediators #freedom-of-travel #no-poverty #planetary-ethics #animal-management #domestic-pets #social-inclusion #special-needs #neurodiversity #dynamic-accommodation #complicated-vs-complex #rube-goldberg
 
 ---

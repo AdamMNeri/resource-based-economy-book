@@ -6,7 +6,7 @@
 
 **Author:** Adam Neri  
 **Project Lead & Concept:** Adam Neri  
-**Last Revised:** 2026-08-19 19:16:26 EDT
+**Last Revised:** 2026-08-19 19:23:18 EDT
 
 ## Project Goal & Open Collaboration
 This project presents an open-source, persuasive, empirically grounded, and visionary blueprint for transitioning humanity away from a debt-based monetary system to a Resource-Based Economy (RBE). This transition is facilitated by the United Nations system, where planetary resources are declared the common heritage of all people.
@@ -34,4 +34,4 @@ The book is written to be not merely understood, but deeply desired. It dismantl
 *   **Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues** (`chapters/08-addressing-counter-arguments-corollary-issues-v7.md`) - Drafted (3,481 words / ~7.7 pages).
 *   **Chapter 9: The Human Flourishing Dividend: Societal Benefits of RBE** (`chapters/09-human-flourishing-dividend-v10.md`) - Drafted (2,533 words / ~5.6 pages).
 *   **Chapter 10: Behavioral Architecture and Systemic Incentives** (`chapters/10-behavioral-architecture-and-identity-v14.md`) - Drafted (2,755 words / ~6.1 pages).
-*   **Chapter 11: Mobilizing the Transition: Call to Action for Global Citizenry** (`chapters/11-conclusion-call-to-action-v8.md`) - Drafted (1,542 words / ~3.4 pages).
+*   **Chapter 11: Mobilizing the Transition: Call to Action for Global Citizenry** (`chapters/11-conclusion-call-to-action-v9.md`) - Drafted (1,542 words / ~3.4 pages).

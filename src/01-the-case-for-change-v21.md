@@ -1,6 +1,6 @@
 # Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm
 
-*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/02-introducing-resourceism-v15|Chapter 2: Introducing Resourceism →]]**  
+*Navigation*: **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]]** | **[[chapters/02-introducing-resourceism-v16|Chapter 2: Introducing Resourceism →]]**  
 *Tags*: #rbe-book #monetary-critique #debt-math #synthetic-selection #technological-leverage #mental-health #health-paradox #catastrophe-insurance #revolving-door #open-innovation #case-building #peter-principle #monetized-self #exit-strategy #founding-intent #systemic-mistrust #demographic-shifts #systems-architect #complicated-vs-complex #rube-goldberg #deed-fraud #use-access
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 8: Addressing Counter-Arguments, Objections, and Corollary Issues
 
-*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v11|← Chapter 7: Core Principles]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v8|Chapter 9: Human Flourishing Dividend →]]**
+*Navigation*: **[[chapters/07-core-principles-values-universal-rights-v11|← Chapter 7: Core Principles]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/09-human-flourishing-dividend-v10|Chapter 9: Human Flourishing Dividend →]]**
 *Tags*: #rbe-book #objections-handled #who-decides #cybernetic-allocation #human-nature #legal-system-attack-surface #financial-asset-transition #ideas-change-world #sci-fi-currencies #motivation #space-commons #pragmatic-realism #complicated-vs-complex #rube-goldberg
 
 ---

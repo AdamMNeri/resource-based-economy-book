@@ -15,5 +15,10 @@ RBE - Impact*.md
 book/
 chapters/.archive/
 chapters/_archive/
-*.epub
+
 *.py
+*.sh
+Makefile
+Makefile.md
+src/
+book.toml

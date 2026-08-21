@@ -10,6 +10,7 @@ Because this is a tightly integrated philosophical and architectural blueprint, 
 I enthusiastically welcome Pull Requests (PRs) that improve the quality, readability, and accessibility of the manuscript. Please feel free to submit PRs for:
 
 
+
 - **Typographical Errors:** Spelling mistakes, punctuation errors, or missing words.
 - **Formatting Fixes:** Broken Markdown links, misaligned lists, or styling inconsistencies.
 - **Clarifications:** Minor sentence restructuring that improves readability without changing the underlying meaning.
@@ -19,11 +20,22 @@ I enthusiastically welcome Pull Requests (PRs) that improve the quality, readabi
 To maintain the integrity of the core thesis, the following contributions will be rejected:
 
 
+
 - **Ideological Changes:** PRs that attempt to alter the structural arguments, economic math, or philosophical foundation of the Resource-Based Economy (RBE) presented in this book.
 - **Structural Rewrites:** Large-scale rewriting, insertion, or deletion of chapters. 
 - **Debates via Pull Request:** If you disagree with the premise of the book, a Pull Request is not the venue to debate it. 
 
+## Proposing Substantive Additions
+While the core thesis and structure are fixed to maintain ideological integrity, expert refinement (e.g., improving the technical architecture of cybernetic systems, supply chain logistics, or DAOs) is highly valued. 
+
+If you wish to propose a substantive addition or refinement to the ideas:
+
+1. **Do NOT submit a Pull Request immediately.** Large unprompted rewrites will be rejected.
+2. **Open a GitHub Issue** detailing your proposed changes, the rationale behind them, and how they strengthen the existing architecture.
+3. Once the proposal is discussed and approved, you can proceed with a Pull Request.
+
 ## How to Contribute
+
 
 
 1. **Fork** the repository.

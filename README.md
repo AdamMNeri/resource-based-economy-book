@@ -11,17 +11,22 @@
 ## Project Goal & Open Collaboration
 This project presents an open-source, persuasive, empirically grounded, and visionary blueprint for transitioning humanity away from a debt-based monetary system to a Resource-Based Economy (RBE). This transition is facilitated by the United Nations system, where planetary resources are declared the common heritage of all people.
 
-**This is an open, active, and collaborative project.** We invite engineers, scientists, legal architects, designers, researchers, and citizens globally—particularly younger generations questioning legacy financial structures—to contribute, refine, and build upon this living manuscript.
+**This is an open, active, and collaborative project.** We invite engineers, scientists, legal architects, designers, researchers, and citizens globally—particularly younger generations questioning legacy financial structures—to contribute, refine, and build upon this living manuscript. Please review our [Contributing Guidelines](CONTRIBUTING.md) to understand how you can help.
 
 ## Core Narrative Objective
 The book is written to be not merely understood, but deeply desired. It dismantles legacy assumptions about money, market efficiency, and human motivation, while offering a pragmatic, scalable, and technologically feasible roadmap for global transition.
 
 ## Current Status (COMPLETE INTRODUCTION + 11-CHAPTER MANUSCRIPT)
 
+
 *   Master Introduction & 11-chapter blueprint established and fully drafted.
 *   Total Draft Scale: **43,978 words (~97.7 printed pages)** (excluding references).
 
+### How to Read
+You can read the book directly on GitHub by browsing the `chapters/` directory below. If you prefer an e-reader experience, a compiled EPUB version of the manuscript is available in the [`exports/`](exports/) directory.
+
 ### Active Chapter Index:
+
 
 *   **Introduction & Foreword: The Choice Before Us** (`chapters/00-introduction-v4.md`) - Drafted (1,771 words / ~3.9 pages).
 *   **Chapter 1: The Case for Change: Structural Failures of the Monetary Paradigm** (`chapters/01-the-case-for-change-v21.md`) - Drafted (8,070 words / ~17.9 pages).

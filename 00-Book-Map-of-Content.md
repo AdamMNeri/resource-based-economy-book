@@ -10,6 +10,7 @@ This file serves as the central hub and knowledge map for the **Resource-Based E
 
 Below is the complete sequence including the Introduction and 11-chapter blueprint. Click any link to open the chapter directly or inspect its connections in the Local Graph View.
 
+
 * **[[chapters/00-introduction-v3|Introduction & Foreword: The Choice Before Us]]**
   - *Key Themes*: #introduction #foreword #high-agency #feasible-transition #resourceism #systems-architecture #paradigm-shift #rube-goldberg #complicated-vs-complex #open-source #collaboration
 
@@ -40,6 +41,7 @@ Below is the complete sequence including the Introduction and 11-chapter bluepri
 
 ## 🎯 Master References & Knowledge Guides
 
+
 * **[[references/thematic-pillars-and-style-guide|Thematic Pillars & Style Reference Guide]]**: The 13 foundational pillars and landmark style benchmarks governing chapter development.
 * **[[references/rbe-agent-handoff-reference|Master Reference & Citation Index]]**: Complete empirical source database and citation key (`[379]`, `[679]`, etc.).
 * **[[references/visual-diagrams-and-illustration-guide|Universal Visual Diagrams & Illustration Specs]]**: Universal infographic, schematic, and diagram specs for language-agnostic visual comprehension across all 11 chapters.
@@ -53,6 +55,7 @@ Below is the complete sequence including the Introduction and 11-chapter bluepri
 ## 🏛️ The 13 Core Thematic Pillars
 
 Every chapter in the book systematically embeds and expands upon these 13 pillars:
+
 
 1. **Technological Leverage & The Race Against the Clock**: [[chapters/01-the-case-for-change-v21|Ch. 1]] · [[chapters/04-daos-and-blockchain-v19|Ch. 4]] (#technological-leverage)
 2. **Crime & Law Elimination**: [[chapters/01-the-case-for-change-v21|Ch. 1]] · [[chapters/07-core-principles-values-universal-rights-v11|Ch. 7]] (#law-elimination)

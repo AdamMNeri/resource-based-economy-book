@@ -282,22 +282,7 @@ For individuals with physical disabilities, sensory variations, cognitive proces
 
 In stark contrast, a Resource-Based Economy fundamentally decouples human dignity from wage-labor productivity. Human worth is not an economic quotient; it is an inherent, unconditioned truth of conscious existence.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        MONETARY EXCLUSION VS. RBE DYNAMIC ACCOMMODATION                 │
-├────────────────────────────────────┬────────────────────────────────────┤
-│     MONETARY LABOR CONFORMITY      │     RBE INTRINSIC HUMAN DIGNITY    │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • Human value measured by profit   │ • Value is intrinsic & decoupled   │
-│   generation & labor output        │   from economic productivity       │
-│ • Disability treated as a cost     │ • Diversity embraced as a vital    │
-│   burden & economic liability      │   dimension of community richness  │
-│ • Humiliating means-testing & asset│ • Unconditioned, lifetime access to│
-│   caps enforcing poverty           │   therapies, robotics & housing    │
-│ • Rigid, inaccessible environments │ • Universal Design & dynamic,      │
-│   designed for corporate conformity│   sensory-tuned living ecosystems  │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![MONETARY EXCLUSION VS. RBE DYNAMIC ACCOMMODATION](../images/c7-exclusion-vs-accommodation.png)
 
 In an RBE, civilizational infrastructure is engineered to dynamically accommodate the full spectrum of human physical and neurological diversity:
 

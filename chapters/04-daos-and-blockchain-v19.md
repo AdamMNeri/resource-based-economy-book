@@ -45,22 +45,7 @@ Within Walmart's global supply chain, individual departments and distribution wa
 
 Furthermore, market competition produces catastrophic computational and physical waste through **duplicative overlap**:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        MARKET DUPLICATIVE OVERLAP VS. CYBERNETIC COMMONS EFFICIENCY     │
-├────────────────────────────────────┬────────────────────────────────────┤
-│     MONETARY MARKET COMPETITION    │      RBE OPEN-SOURCE COMMONS       │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • 50 competing smartphone brands   │ • Universal open-hardware standard │
-│   w/ 50 proprietary software silos │   w/ modular, swappable components │
-│ • Billions wasted on legal patents,│ • 100% open-source scientific R&D  │
-│   trade secrets & ad campaigns     │   accessible to all global teams   │
-│ • Massive duplicative datacenters  │ • Consolidated low-energy compute  │
-│   running ad-tracking & click fraud│   focused on physical optimization │
-│ • Massive physical waste & planned │ • >85% reduction in industrial and │
-│   obsolescence across all sectors  │   computational resource throughput│
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![MARKET DUPLICATIVE OVERLAP VS. CYBERNETIC COMMONS EFFICIENCY](../images/c4-overlap-vs-efficiency.png)
 
 Consider the global automotive or technology sectors: fifty separate corporations design fifty separate, incompatible versions of the same basic product (e.g., smartphones, electric vehicle drivetrains, or cloud operating systems). Each company builds proprietary software stacks, files thousands of defensive patents, employs armies of corporate lawyers to litigate patent infringements, and spends billions on advertising to convince consumers that their slightly tweaked variant is superior. 
 

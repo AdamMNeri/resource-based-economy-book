@@ -83,22 +83,7 @@ A persistent, foundational objection raised by neoclassical economists and polit
 
 This objection must be steel-manned and dismantled with complete technical precision:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        SOVIET GOSPLAN VS. RBE CYBERNETIC ALLOCATION TELEMETRY           │
-├────────────────────────────────────┬────────────────────────────────────┤
-│     20TH-CENTURY SOVIET GOSPLAN    │      RBE CYBERNETIC ALLOCATION     │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • Top-down political committee of  │ • Bottom-up, real-time demand      │
-│   bureaucrats setting 5-year plans │   registration via open DAO queues │
-│ • Static paper quotas & arbitrary  │ • Real-time IoT sensor telemetry & │
-│   price-fixing mandates            │   automated Material Planning (MRP)│
-│ • State ownership & coercive state │ • Universal common heritage &      │
-│   rationing of consumer goods      │   unconditioned individual access  │
-│ • Chronic shortages, black markets │ • Direct feedback loop between     │
-│   and political corruption         │   human requests & carrying limits │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![SOVIET GOSPLAN VS. RBE CYBERNETIC ALLOCATION TELEMETRY](../images/c8-gosplan-vs-telemetry.png)
 
 ### The Gosplan Fallacy: Why Soviet Planning Failed
 

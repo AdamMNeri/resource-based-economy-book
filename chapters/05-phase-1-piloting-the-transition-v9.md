@@ -141,22 +141,7 @@ This model produces three systemic vulnerabilities:
 2.  **Supply Chain Fragility & Speculative Inflation**: Food travels an average of 1,500 to 2,500 miles from farm to consumer. Global commodity speculation and supply bottlenecks cause violent food price swings, triggering artificial food shortages and creating urban "food deserts" where low-income families are financially priced out of fresh produce.
 3.  **Extravagant Waste**: Over 30% to 40% of all food produced under capitalism is discarded, bleached, or landfilled along commercial supply chains to preserve market price floors [287, 288].
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│       MONETARY AGRIBUSINESS VS. RBE BIOREGIONAL FOOD SOVEREIGNTY        │
-├────────────────────────────────────┬────────────────────────────────────┤
-│   MONETARY INDUSTRIAL MONOCULTURE  │     RBE CLOSED-LOOP FOOD HUBS      │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • Fossil-fuel synthetic fertilizers│ • 95% less water via closed-loop   │
-│   causing toxic oceanic dead zones │   vertical aeroponics & LED arrays │
-│ • 1,500–2,500 food miles & diesel  │ • Co-located within walking        │
-│   distribution bottlenecks         │   distance of residential rings    │
-│ • Commodity price speculation &    │ • Zero food price inflation &      │
-│   engineered urban food deserts    │   elimination of food deserts      │
-│ • 30–40% food waste dumped into    │ • 100% biological compost loop &   │
-│   landfills to protect price floors│   precision microbial fermentation │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![MONETARY AGRIBUSINESS VS. RBE BIOREGIONAL FOOD SOVEREIGNTY](../images/c5-agribusiness-vs-food-sovereignty.png)
 
 In a Phase 1 RBE Pilot Zone, food production is radically localized, automated, and decoupled from petrochemical volatility through **Closed-Loop Vertical Agriculture and Precision Fermentation Hubs**:
 

@@ -81,23 +81,7 @@ When a nation faces balance-of-payments crises or currency devaluations, interna
 
 This dynamic creates perpetual poverty and biospheric degradation: sovereign nations are forced to liquidate their rainforests, deplete their freshwater aquifers, and exhaust their topsoil not to feed their citizens, but to feed the compounding interest demands of private financial creditors.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        SOVEREIGN DEBT TRAP VS. UN CYBERNETIC SOLVENCY OFF-RAMP          │
-├────────────────────────────────────┬────────────────────────────────────┤
-│    LEGACY IMF STRUCTURAL DEBT      │    UN RBE TRANSITION TRUST FUND    │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • Compound debt growth mandate     │ • Mathematical debt decommissioning│
-│   forcing endless export extraction│   with zero financial refinancing  │
-│ • Coerced privatization of public  │ • Resources declared Common        │
-│   water, energy & mineral assets   │   Heritage under sovereign trust   │
-│ • Austerity cuts to public health, │ • Guaranteed automated deployment  │
-│   education & basic infrastructure │   of modular housing & food hubs   │
-│ • Fragile sovereign bond markets & │ • Direct interconnection into the  │
-│   continuous currency devaluations │   Global UHVDC renewable microgrid │
-│ • Perpetual geopolitical dependency│ • Full regional material autonomy  │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![SOVEREIGN DEBT TRAP VS. UN CYBERNETIC SOLVENCY OFF-RAMP](../images/c3-trap-or-off-ramp.png)
 
 ### The UN Transition Trust Fund and Article 109 Solvency Off-Ramp
 

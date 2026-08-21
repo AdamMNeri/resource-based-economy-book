@@ -223,22 +223,7 @@ Within this rigid paradigm, any child who deviates from standard sensory or cogn
 
 In a Resource-Based Economy, because human worth is completely decoupled from wage-labor productivity, education undergoes a profound revolution:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        FACTORY-MODEL LABOR CONDITIONING VS. RBE EXPLORATION ECOSYSTEMS  │
-├────────────────────────────────────┬────────────────────────────────────┤
-│     MONETARY INDUSTRIAL EDUCATION  │     RBE LIFELONG EXPLORATION GUILDS│
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • Factory assembly batching by age │ • Multi-age, interest-driven guilds│
-│   and standardized testing metrics │   and project-based apprenticeships│
-│ • Neurodivergence pathologized as   │ • Cognitive diversity celebrated as│
-│   a deficit and labor liability    │   essential civilizational richness│
-│ • High-stress ranking, grading and │ • Self-paced mastery curves and    │
-│   tuition debt gatekeeping         │   unrestricted lifetime access     │
-│ • Rigid, sedentary environments    │ • Dynamic, sensory-tuned habitats  │
-│   enforcing corporate obedience    │   with immersive simulation labs   │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![FACTORY-MODEL LABOR CONDITIONING VS. RBE EXPLORATION ECOSYSTEMS](../images/c9-labor-conditioning.png)
 
 
 

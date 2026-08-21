@@ -234,24 +234,7 @@ This is not an indictment of the individual consumer; it is an empathetic diagno
 
 In a Resource-Based Economy, this entire compounding burden dissolves into the freedom of **instant, on-demand community access**:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│        SUBURBAN GARAGE HOARDING VS. ON-DEMAND COMMUNITY ACCESS          │
-├────────────────────────────────────┬────────────────────────────────────┤
-│   MONETARY SUBURBAN GARAGE TRAP    │      RBE COMMUNITY RESOURCE HUB    │
-├────────────────────────────────────┼────────────────────────────────────┤
-│ • 100 detached homes = 100 mowers, │ • 5–10 industrial-grade modular    │
-│   drills, saws, pressure washers   │   units shared across neighborhood │
-│ • 99%+ idle lifetime in storage    │ • Continuous 24/7 duty cycle       │
-│ • Planned obsolescence & fragile   │ • Aircraft-grade alloy chassis &   │
-│   plastic components (2-3 yr life) │   standardized solid-state packs   │
-│ • Constant tool maintenance debt:  │ • Automated diagnostic cleaning,   │
-│   stale fuel, gummed carburetors,  │   optical tolerance scans & laser  │
-│   discontinued proprietary battery │   re-calibration upon return       │
-│ • Garage clutter & wasted space    │ • Living spaces open & uncluttered │
-│ • 100% extraction & landfill waste │ • >95% reduction in material waste │
-└────────────────────────────────────┴────────────────────────────────────┘
-```
+![SUBURBAN GARAGE HOARDING VS. ON-DEMAND COMMUNITY ACCESS](../images/c2-hoarding-vs-access.png)
 
 
 

@@ -1,0 +1,1 @@
+$$\text{Priority Weight } (W) = \frac{\text{Vital Need } (U) \times \text{Societal Impact } (S) \times \text{Logistics Efficiency } (E)}{\text{Carrying Capacity Stress } (C) \times \text{Scarcity Factor } (\sigma)}$$

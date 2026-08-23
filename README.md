@@ -16,7 +16,9 @@ This project presents an open-source, persuasive, empirically grounded, and visi
 ## Author's Intent: A Catalyst, Not a Silver Bullet
 My focus with this blueprint is not necessarily to construct an infallible "silver bullet." Rather, it is to expand the thinking of readers—to force us to contemplate a realistic, pragmatic method for systemic transition, or to inspire someone else to come up with an even better one. 
 
-I truly believe that ideas can be uniquely transformative. The best legacy I can leave is not an estate of physical property for my loved ones to sift through, but rather to leave ideas that can gain traction and exist in the sticky world of the internet. A slow burn can turn into a roaring fire if enough people are exposed to a new way of thinking. This repository is my contribution to that fire.
+I truly believe that ideas can be uniquely transformative, and that the best legacies we can leave is not an estate of physical property for our loved ones to sift through, but rather to leave lasting ideas that can contribute to a better future. 
+
+My hope is that these ideas that I believe in will gain traction over time as this manuscript lies in wait within the sticky world of the internet, waiting to be discovered by new contributors. A slow burn can turn into a roaring fire, and this repository is my contribution to that fire.
 
 ## Core Narrative Objective
 The book is written to be not merely understood, but deeply desired. It dismantles legacy assumptions about money, market efficiency, and human motivation, while offering a pragmatic, scalable, and technologically feasible roadmap for global transition.

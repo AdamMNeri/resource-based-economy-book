@@ -1,6 +1,6 @@
 # Chapter 3: The United Nations as Facilitator: A Phased Global Transition
 
-*Navigation*: **[[chapters/02-introducing-resourceism-v17|← Chapter 2: Resourceism]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/04-daos-and-blockchain-v20|Chapter 4: DAOs & Cybernetic Accounting →]]**  
+*Navigation*: **[[chapters/02-introducing-resourceism-v17|← Chapter 2]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | **[[chapters/04-daos-and-blockchain-v21|Chapter 4 →]]**
 *Tags*: #rbe-book #un-transition #global-governance #diplomacy #article-109 #resource-pooling #sovereign-debt-offramps #trust-fund #transition-sandboxes #thermodynamic-ledgers #step-stone-model #admission-governance #estate-surrender #debt-deadlocks #zk-snarks #public-health #uhvdc-grid #multi-nation-pilots #global-citizenship #complicated-vs-complex #rube-goldberg
 
 ---
@@ -103,9 +103,15 @@ The UN framework resolves this deadlock through a multi-layered legal and financ
 1.  **Sovereign Asset Segregation**: The host nation exercises its sovereign right under international law to carve out the pilot territory, legally designating its land, minerals, and infrastructure as a **Protected Biospheric Sandbox** held in multilateral UN stewardship. These assets are explicitly segregated from national debt collateral schedules.
 2.  **Debt-Neutral Operation**: The pilot zone operates with zero sovereign debt issuance, zero commercial borrowing, and zero reliance on domestic banking liquidity. Because it incurs no new debt liabilities and consumes no domestic tax revenue, it creates zero fiscal drag on the host nation's central treasury.
 3.  **Transitional Public Trusts for External Friction**: Any cross-border infrastructure linkages or ongoing treaty commitments are settled through the UN Transition Trust Fund using external trade credits, insulating domestic currency markets from currency depreciation shocks.
-4.  **The Solvency Off-Ramp via Article 103**: Under Article 103 of the UN Charter, international treaty obligations established under the Charter hold legal supremacy over private commercial contracts. Debtor nations utilize this supreme legal standing to neutralize predatory debt claims without triggering sovereign default contagion across regional financial markets.
 
----
+
+### 3.3.1 Specialized Material Import Tariffs & Sanction Immunity
+
+A primary friction point in the legacy monetary system is the weaponization of trade through punitive tariffs and secondary economic sanctions. To navigate this, the UN framework establishes "Diplomatic Shielding" protocols for RBE pilot zones.
+
+By ratifying the **Planetary Common Heritage Declaration** under Article 109, participating member states can negotiate "Sanction Immunity Zones." These zones are legally recognized as neutral territories where trade is conducted via direct resource-for-resource swaps (e.g., high-grade minerals for specialized semiconductors) rather than through the SWIFT banking system or other currency-clearing houses.
+
+Furthermore, the UN provides a diplomatic framework to prevent legacy superpowers from imposing secondary sanctions on nations participating in these pilot zones. This is achieved by framing RBE transition as a "Global Public Good" for planetary survival—comparable to climate change mitigation or pandemic response—thereby placing the cooperation of host nations under the protection of the UN General Assembly's universal mandate for peaceful coexistence and humanitarian advancement.
 
 ## 3.4 Admission Governance & Legacy Estate Surrender
 

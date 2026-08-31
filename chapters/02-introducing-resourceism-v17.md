@@ -1,6 +1,6 @@
 # Chapter 2: Introducing the Resource-Based Economy ("Resourceism")
 
-*Navigation*: **[[chapters/01-the-case-for-change-v22|← Chapter 1: The Case for Change]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/03-un-transition-pathway-v13|Chapter 3: UN Transition Pathway →]]**  
+*Navigation*: **[[chapters/01-the-case-for-change-v23|← Chapter 1]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | **[[chapters/03-un-transition-pathway-v14|Chapter 3 →]]**
 *Tags*: #rbe-book #resourceism #common-heritage #cybernetics #carrying-capacity #thermodynamic-accounting #exergy #fresco-design #residential-housing #access-model #mediocrity-principle #hobby-shops #safety-protocols #political-differentiation #identity-transformation #complicated-vs-complex #rube-goldberg
 
 ---

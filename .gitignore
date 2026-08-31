@@ -23,3 +23,5 @@ Makefile.md
 src/
 book.toml
 references/
+chapters/_drafts/
+WORKFLOW_GUIDE.md

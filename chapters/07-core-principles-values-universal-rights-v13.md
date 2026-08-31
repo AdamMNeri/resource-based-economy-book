@@ -1,6 +1,6 @@
 # Chapter 7: Core Principles, Values, and Universal Rights
 
-*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v11|← Chapter 6: Phase 2 Scaling]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/08-addressing-counter-arguments-corollary-issues-v8|Chapter 8: Addressing Objections →]]**  
+*Navigation*: **[[chapters/06-phase-2-scaling-up-global-governance-v12|← Chapter 6]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | **[[chapters/08-addressing-counter-arguments-corollary-issues-v9|Chapter 8 →]]**
 *Tags*: #rbe-book #universal-rights #restorative-justice #judicial-dockets #law-enforcement-transformation #firearms-irrelevance #restorative-mediators #freedom-of-travel #no-poverty #planetary-ethics #animal-management #domestic-pets #social-inclusion #special-needs #neurodiversity #dynamic-accommodation #incentive-gap #digital-nervous-system #complicated-vs-complex #rube-goldberg
 
 ---
@@ -120,6 +120,28 @@ To see Restorative Mediation in action, consider a concrete dispute involving sh
     3.  The individual is paired with a compassionate wellness counselor to receive trauma support, along with refresher safety mentoring when they feel ready to return.
 
 No court costs, no prison sentences, no criminal records, and no financial bankruptcy. The equipment is repaired, the human being is healed, and the system is engineered to prevent the issue from ever happening again.
+
+## 7.3.1 The Restorative Justice Apprenticeship Model
+
+In a Resource-Based Economy, the primary objective of restorative justice is the repair of social bonds and the restoration of community utility. While the elimination of financial crime removes the systemic motive for the majority of legal friction, the remaining interpersonal conflicts—often rooted in emotional distress, lack of skill, or misunderstanding of shared resources—are addressed through a model of **Restorative Justice Apprenticeship**.
+
+Instead of punitive isolation (incarceration, fines, or social ostracization), which only compounds trauma and creates "warehousing" of human potential, the RBE employs a system of voluntary restitution through **meaningful community craftsmanship and skill mastery**.
+
+### The Mechanism: From Punishment to Proficiency
+When a citizen causes damage to community property or creates significant interpersonal friction, the restorative process follows a three-pillared approach:
+
+1.  **The Diagnostic Mediation:** A Restorative Panel (as detailed in 7.3) identifies the root cause. Is the friction a result of a lack of technical skill (e.g., damaging a machine), a lack of emotional regulation, or a misunderstanding of community norms?
+2.  **The Apprenticeship Assignment:** The individual is paired with a "Master of Craft" or "Community Mentor." This is not a "sentence" but an educational pathway. If a person damages a bio-fabrication printer, their restitution is a structured apprenticeship in precision fabrication. They work alongside a master technician to learn the nuances of maintenance, safety protocols, and the engineering principles behind the tool.
+3.  **The Restorative Contribution:** The individual’s "restitution" involves contributing labor and learning toward the repair and improvement of the community resource. This replaces the "debt" of the monetary system (which is abstract and often unpayable) with the "mastery" of the RBE (which is tangible and builds human flourishing).
+
+### Case Study: The Workshop Conflict Resolution
+Consider the equipment misuse incident in Section 7.3. In a monetary society, the outcome is a debt or a criminal record. In an RBE:
+*   **The Offender:** A community member who, due to acute personal grief, damaged a high-precision laser cutter.
+*   **The Restoration:** Rather than being banned from the workshop or charged, the individual enters a six-month "Fabrication Apprenticeship." They work with a mentor to learn the proper calibration of the laser cutter, eventually becoming a certified technician.
+*   **The Community Bond:** The individual also participates in a guided dialogue with the workshop team, expressing the context of their distress. The team, in turn, provides feedback on how to better manage stress in high-precision environments.
+
+By grounding restitution in the acquisition of skill and the repair of the physical commons, the RBE transforms "crime" from a moral failing into a signal for educational intervention. The "criminal" is not excluded from society; they are integrated into it more deeply, becoming a more capable and skilled contributor to the community's shared prosperity.
+
 
 ---
 

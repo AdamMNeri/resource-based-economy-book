@@ -1,6 +1,6 @@
 # Chapter 6: Phase 2: Scaling Up and Global Resource Governance
 
-*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v10|← Chapter 5: Phase 1 Piloting]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[chapters/07-core-principles-values-universal-rights-v12|Chapter 7: Core Principles & Universal Rights →]]**  
+*Navigation*: **[[chapters/05-phase-1-piloting-the-transition-v11|← Chapter 5]]** | **[[00-Book-Map-of-Content|Map of Content]]** | **[[references/thematic-pillars-and-style-guide|Thematic Pillars Guide]] | **[[chapters/07-core-principles-values-universal-rights-v13|Chapter 7 →]]**
 *Tags*: #rbe-book #phase-2-scaling #global-commons #oceanic-commons #step-stone-integration #incentive-gap #uhvdc-grids #circular-cities #geothermal-telemetry #maglev-travel #ai-translation #pandemic-response #complicated-vs-complex #rube-goldberg
 
 ---
@@ -43,7 +43,23 @@ As multiple neighboring nations ratify Phase 2 treaties, UN DESA facilitates reg
 *   **Regional Agriculture Belts**: Arable land is cultivated based on soil chemistry and climate suitability rather than national agricultural tariffs or corporate export quotas [236, 372].
 
 ### 3. Ethical Equity & Cultural Sovereignty
+
+
 UN DESA enforces strict **Cultural & Ethical Equity Frameworks** ensuring that global integration respects local cultural heritage, indigenous land stewardship traditions, and regional autonomy [236, 372, 451]. Global resource allocation provides equal high-standard living conditions to all humans regardless of geographic origin, while preventing cultural homogenization.
+
+### 4. Global Open-Source Hardware Repositories: The Planetary Engineering Commons
+
+A critical engine of Phase 2 scaling is the transition from proprietary, friction-heavy industrial design to a planetary **Open-Source Hardware Repository** managed by UN DESA. This is the "Global GitHub for Physical Infrastructure"—a unified, open-access database of validated engineering blueprints, structural designs, and manufacturing protocols for the essential components of the Resource-Based Economy.
+
+Instead of corporations hoarding intellectual property (IP) to maintain market dominance, Phase 2 treats physical infrastructure as a shared planetary asset. This repository allows isolated RBE pilots to instantly access and download proven designs for:
+
+*   **Modular Transit Nodes:** Standardized maglev and UHVDC coupling components.
+*   **Vertical Farming Arrays:** Optimized hydroponic and aeroponic structures for local food security.
+*   **Oceanic Infrastructure:** Wave-resistant basalt-composite components for floating cities.
+*   **Circular Waste Systems:** Automated sorting and recycling units for localized material loops.
+
+By decoupling the *design* of infrastructure from its *manufacturing*, humanity removes the primary bottleneck to global scaling: the high cost and legal friction of R&D. Once a design is validated in one pilot zone, it becomes immediately available for 3D-printing, automated fabrication, and local assembly worldwide. This "Engineering Commons" ensures that a breakthrough in geothermal telemetry in the East African Rift can be implemented in a coastal circular city in the South Pacific within days, not decades.
+
 
 ---
 

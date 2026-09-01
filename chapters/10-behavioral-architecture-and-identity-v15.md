@@ -73,7 +73,7 @@ Decades of psychological research in **Self-Determination Theory (SDT)**, pionee
 2.  **Mastery (Competence):** The deep human drive to learn, build, refine skills, and achieve excellence in chosen domains of interest.
 3.  **Purpose (Relatedness):** The desire to contribute to something greater than oneself, connecting meaningfully with peers and serving the broader community or planet.
 
-When monetary friction is removed, these intrinsic drivers become the primary engines of human activity. Cognitive diversity and neurodivergence are celebrated as essential facets of human consciousness that enrich the civilizational whole. Far from producing a society of passive or lazy individuals, the liberation of intrinsic motivation unleashes unprecedented explosions of scientific discovery, artistic creation, craftsmanship, and civic engagement [114, 285].
+When monetary friction is removed, these intrinsic drivers become the primary engines of human activity. This is mathematically proven by **Cognitive Evaluation Theory (CET)** and the landmark Deci, Koestner, & Ryan (1999) meta-analysis of 128 psychological studies. The hard data proves that tangible, extrinsic monetary rewards actually *destroy* and undermine intrinsic motivation. Removing money does not make people lazy; it naturally restores their autonomous drive [1070]. Cognitive diversity and neurodivergence are celebrated as essential facets of human consciousness that enrich the civilizational whole. Far from producing a society of passive or lazy individuals, the liberation of intrinsic motivation unleashes unprecedented explosions of scientific discovery, artistic creation, craftsmanship, and civic engagement [114, 285].
 
 ---
 
@@ -111,6 +111,7 @@ A central pillar of the RBE identity evolution is the integration of biophysical
 
 *   **The Counter-Analysis**: This objection stems from a fundamental misunderstanding of human psychology, confusing **extrinsic extortion** with genuine **human ambition**. Market capitalism relies heavily on extrinsic motivators—wages, debt threats, and fear of homelessness—because the vast majority of jobs in a monetary system are tedious, repetitive, or socially useless.
 *   In an RBE, routine repetitive tasks are automated by cybernetic systems. The ambition that remains is elevated. Instead of competing for bigger bank accounts or vanity status symbols, individuals compete in excellence, creative innovation, scientific discovery, and humanitarian impact [114, 285].
+*   **The Status Guardrails**: To prevent this new pursuit of "Mastery" from devolving into a toxic, hierarchical status symbol (e.g., hoarding DAO reputation to become a new technocratic elite), the RBE implements behavioral architecture like **Reputation Decay**. DAO service credits and community recognition are non-transferable, cannot be accumulated to leverage power over others, and naturally decay over time. You cannot rest on past laurels or hoard social capital; status is dynamically linked to continuous, humble community service.
 
 ---
 

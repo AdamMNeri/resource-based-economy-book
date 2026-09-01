@@ -14,7 +14,7 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 * **Topics**: Jacque Fresco; RBE definition; common heritage of Earth's resources; technological and environmental factors.
-* **Citations**: [4, 5, 6]
+* **Citations**: [2, 3, 4, 5, 6]
 
 ### 2. "Alternative Economic Models and Finance: Rewiring the Economy for Shared Prosperity" - UNDP / Istanbul Innovation Days
 
@@ -170,7 +170,7 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 * **Topics**: Phase 1 pilot opening to lowest socioeconomic classes [360]; technological enablement (AI, LLMs, ERP/HCM, DoorDash/Uber logistics models) [360, 361]; list of societal harms eliminated in RBE (cybercrime, drug cartels, standing armies, taxes, planned obsolescence) [364]; Code of Ethics [365].
-* **Citations**: [360, 361, 364, 365]
+* **Citations**: [360, 361, 362, 364, 365, 367]
 
 ### 15. "TOC_UN Transition to a Resource-Based Global Economy" - Markdown TOC
 
@@ -206,7 +206,7 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 * **Topics**: Decommodification of public goods; elimination of transaction costs; "Pleasant Acres" & Googleplex free-at-point-of-use models [401, 402, 409-416]; Big Data and AI solving the Economic Calculation Problem [421].
-* **Citations**: [399, 401, 402, 409-416, 421]
+* **Citations**: [399, 400, 401, 402, 409-416, 421]
 
 ### 18. "The impact of monetary policy on income and wealth inequality" - CEPR (Silvo et al.)
 
@@ -254,7 +254,7 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 * **Topics**: Empirical proof that top 1% wealth concentration predicts financial crises (3-8 pp risk increase per 1 SD) [679, 690]; private wealth-to-income ratio ($W/Y$) signaling asset price bubbles 3-4 years in advance [684, 691, 692].
-* **Citations**: [679, 684, 690, 691, 692]
+* **Citations**: [670, 679, 684, 690, 691, 692]
 
 ### 22. "What is a Resource-Based Economy and Why is it Humanity's Best Hope?" - Michael Corthell
 
@@ -266,7 +266,7 @@ This document compiles the academic citations, institutional reports, and founda
 
 
 * **Topics**: Resourceism tenets; Earth's resources belonging to all people; tech/automation enabling abundance.
-* **Citations**: [1042, 1044, 1046, 1047]
+* **Citations**: [1042, 1044, 1045, 1046, 1047]
 
 ### 23. "What is a Resource-Based Economy?" - The Venus Project
 
@@ -291,3 +291,64 @@ This document compiles the academic citations, institutional reports, and founda
 
 * **Topics**: Negative externalities; climate, air pollution, land degradation metrics; market failure where destruction is profitable.
 * **Citations**: [1057, 1059, 1060, 1062, 1064, 1068]
+
+### 25. "A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation" - Psychological Bulletin (Deci, Koestner, & Ryan, 1999)
+
+
+
+
+
+
+
+
+* **Topics**: Meta-analysis of 128 experiments empirically proving that tangible, expected extrinsic rewards (e.g., money) have a significant negative "undermining effect" on intrinsic motivation; validation of Cognitive Evaluation Theory (CET) proving that removing monetary coercion restores autonomous motivation.
+* **Citations**: [1070, 1071]
+
+### 26. "The Labor Market Impacts of Universal Basic Income: Evidence from the Finnish Basic Income Experiment" - VATT Institute for Economic Research (Verho et al., 2022)
+
+
+
+
+
+
+
+
+* **Topics**: Empirical evidence that unconditional resource guarantees (UBI) do not collapse labor participation; debunking the myth of mass apathy in post-scarcity environments; data showing increased well-being and transition to meaningful cooperative work.
+* **Citations**: [1072, 1073]
+
+
+### 27. "Behave: The Biology of Humans at Our Best and Worst" - Robert M. Sapolsky (2017)
+
+
+
+
+
+
+
+
+* **Topics**: Neurobiology and behavioral plasticity; debunking the myth that greed and competition are fixed "human nature"; epigenetic expression triggered by environmental scarcity.
+* **Citations**: [113, 114]
+
+### 28. "Self-Determination Theory and the Facilitation of Intrinsic Motivation" - American Psychologist (Ryan & Deci, 2000)
+
+
+
+
+
+
+
+
+* **Topics**: Foundational psychological paper proving that human flourishing is driven by Autonomy, Competence, and Relatedness, not extrinsic financial rewards.
+* **Citations**: [284, 285, 286]
+
+### 29. "The Theory of the Leisure Class" - Thorstein Veblen (1899)
+
+
+
+
+
+
+
+
+* **Topics**: Veblenian conspicuous consumption; the sociological critique of hoarding and purchasing goods to signal pecuniary strength and positional status rather than genuine utility.
+* **Citations**: [378]

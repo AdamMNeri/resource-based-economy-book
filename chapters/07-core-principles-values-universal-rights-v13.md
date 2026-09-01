@@ -289,6 +289,12 @@ In an RBE, civilizational infrastructure is engineered to dynamically accommodat
 *   **The Reality**: Local DAO governance is constitutionally constrained by the **Planetary Charter of Universal Rights** [374].
 *   A local community DAO cannot vote to restrict the rights, freedoms, dietary choices, clothing, or travel of any individual citizen based on religious or moral codes. The Universal Rights charter overrides localized dogmatic overreach, protecting individual freedom across all RBE zones.
 
+### Objection 3: "If all survival needs are guaranteed for free, won't people just become lazy 'Free Riders', leading to a collapse of necessary labor?"
+
+*   **The Reality**: The assumption that human beings only work when threatened with starvation is a projection of market conditioning, not a law of biology. 
+*   We can mathematically disprove the "Free Rider" myth using empirical data. For example, the landmark Finnish Universal Basic Income Experiment (Verho et al., 2022) studied thousands of individuals who were given unconditional financial survival guarantees [1072].
+*   The results proved that an unconditional resource floor did *not* cause mass apathy or a collapse in labor participation. Instead, it led to massive increases in psychological well-being, personal agency, and a transition toward meaningful, cooperative community work [1073]. When humans are freed from the chronic stress of survival panic, they naturally seek out creative contribution, mentorship, and civic engagement.
+
 ---
 
 ## Conclusion: The Ethical High-Water Mark of Civilization

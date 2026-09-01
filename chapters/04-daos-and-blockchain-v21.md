@@ -76,14 +76,19 @@ If a cybernetic resource network relies on false sensor readings—such as an er
     *   IoT sensors deployed across farms, energy grids, and water filtration plants are embedded with hardware **Secure Enclaves** and **Physically Unclonable Functions (PUFs)**.
     *   Every telemetry packet (temperature, soil nitrogen, flow rate, tonnage) is cryptographically signed at the silicon level upon physical measurement.
     *   The private signing keys are physically immutable and bound to microscopic silicon manufacturing variations, preventing unauthorized external tampering or spoofed signals.
-2.  **Multi-Spectral Cross-Validation**:
+
+2.  **Human-In-The-Loop (HITL) Decentralized Verification**:
+    *   Because physical hardware will inevitably degrade or fail, the system does not rely on blind technological faith. When a sensor reports an ecological anomaly (e.g., a massive sudden drop in water quality), the ledger does not execute a catastrophic, unthinking macro-allocation. 
+    *   Instead, it automatically pauses critical automated responses and flags the node for a **Decentralized Physical Audit**. 
+    *   A randomized, rotating cohort of local scientific volunteers and civic engineers is dispatched to physically verify the ground truth, manually overriding the sensor if it is found to be malfunctioning. This prevents the emergence of a technocratic "sensor priesthood" and ensures humans retain ultimate emergency authority over cybernetic logic.
+3.  **Multi-Spectral Cross-Validation**:
     *   No single sensor has unilateral authority over resource accounting. The system cross-validates ground-level telemetry against independent physical observational layers.
     *   For example, an automated agricultural sensor reporting grain yield is automatically correlated with orbital multispectral satellite imagery (measuring vegetation index NDVI and thermal canopy signatures), autonomous drone lidar surveys, and automated transit scale logs.
     *   Any statistical anomaly or physical divergence between ground sensors and orbital telemetry instantly flags the node for automated diagnostic drone inspection.
-3.  **Physical Byzantine Fault Tolerance (BFT) Consensus**:
+4.  **Physical Byzantine Fault Tolerance (BFT) Consensus**:
     *   Local telemetry networks utilize Byzantine Fault Tolerant consensus algorithms across redundant, geographically proximate sensor arrays.
     *   Even if up to one-third of the sensors in a reservoir network suffer hardware failure, physical damage, or deliberate signal interference, the distributed consensus protocol rejects corrupted data packets and maintains unbroken, verifiable Resource Truth.
-4.  **Zero-Knowledge Integrity Verification (ZK-SNARKs)**:
+5.  **Zero-Knowledge Integrity Verification (ZK-SNARKs)**:
     *   Supply chain throughput and biophysical balances are proved cryptographically to the planetary network via zero-knowledge proofs.
     *   Edge nodes prove mathematically that all environmental safety and resource constraints are satisfied without publishing raw, invasive operational logs that could expose individual privacy.
 
